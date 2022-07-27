@@ -1,0 +1,10 @@
+name: "APT -> Dag"
+navbar:
+  title: "APT -> Dag"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Concepts arabic"
+      href: concepts.html
+    - text: "Information"
+      href: about.html
