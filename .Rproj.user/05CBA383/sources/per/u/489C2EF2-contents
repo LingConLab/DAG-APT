@@ -1,0 +1,11 @@
+---
+title: "About This Website"
+---
+
+There will be added more information about this project? I hope, and I added table with sources
+
+```{r echo = FALSE, results = 'asis'}
+library(knitr)
+library(readr)
+kable(read_tsv("sources.tsv")[,1:8], caption = "Sources")
+```
