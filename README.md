@@ -1,6 +1,14 @@
-This is repository for project "DAG<APT".
-Here are spreadsheet with sources and with concepts
-https://docs.google.com/spreadsheets/d/1_7YNuvG9gIVHWIImeDArjHsuCDF6V3Vw7El1oNpRkOk/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1IH9FhPDEdN7UuaXSF4bNbnraDSNtg6t0tth6J62aLuw/edit?usp=sharing
-site
-https://lingconlab.github.io/DAG-APT/
+
+# DAG < APT database
+
+The aim of this project is to create a comprehensive database of borrowings from Arabic, Persian and Turkic in the languages of Dagestan. Data come from available etymological literature.
+
+The database consists of:
+
+* **sources** a list of sources on borrowings from Arabic, Persian and Turkic in the languages of Dagestan (not exhaustive)
+* **concepts** a list of donor lexemes attested in the sources we have digitized so far
+* **database** combination of datasets with target lexemes identified as borrowings (each digitized source is a separate dataset) and information about donor lexemes from **concepts**
+  + **zabitov2001** dataset with target lexemes identified in Zabitov (2001)
+
+## Updates
+03.08.2022 - added dataset zabitov2001, added updated concepts, added database
