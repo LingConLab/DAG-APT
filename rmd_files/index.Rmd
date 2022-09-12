@@ -1,0 +1,6 @@
+---
+title: "Borrowings from Arabic, Persian and Turkic languages to Daghestan languages"
+output: html_document
+---
+
+Here will be the main goals and objectives of the project, how to quote, participants and other information

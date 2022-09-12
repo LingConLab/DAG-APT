@@ -1,0 +1,13 @@
+---
+title: "Loanwords"
+---
+This page contains database of all words borrowed from Arabic into the different languages of Daghestan
+```{r echo = FALSE, results = 'asis', message=FALSE, warning=FALSE}
+library(readr)
+library(DT)
+datatable(
+  data = read_tsv("database.csv"),
+  caption = "Table shows all words borrowed from Arabic into the different languages of Daghestan",
+  filter = "top"
+)
+```

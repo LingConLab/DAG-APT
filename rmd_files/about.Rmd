@@ -1,0 +1,9 @@
+---
+title: "Sources"
+---
+
+```{r echo = FALSE, results = 'asis', message=FALSE, warning=FALSE}
+library(knitr)
+library(readr)
+kable(read_tsv("sources.tsv")[,1:8], caption = "Sources")
+```
