@@ -1,5 +1,5 @@
 ---
-title: "Loanwords"
+title: "Database"
 ---
 This page contains database of all words borrowed from Arabic into the different languages of Daghestan
 ```{r echo = FALSE, results = 'asis', message=FALSE, warning=FALSE}
