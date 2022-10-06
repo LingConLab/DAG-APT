@@ -4,3 +4,11 @@ output: html_document
 ---
 
 Here will be the main goals and objectives of the project, how to quote, participants and other information
+
+# How to cite
+- Verhees S., Dedov T. DAG <- APT, An online database of borrowed vocabulary in the languages of Daghestan. Moscow: Linguistic Convergence Laboratory, HSE University. lingconlab.github.io/DAG-APT/
+
+- Ферхеес С., Дедов Т. ДАГ <- АПТ, Онлайн база заимствованной лексики в языках Дагестана. Москва: Международная лаборатория языковой конвергенции, НИУ ВШЭ. lingconlab.github.io/DAG-APT/
+
+# Contacts
+Please contact Timofei Dedov (tgdedov@gmail.com) in case you have any inquiries about the data or there is a technical issue/
