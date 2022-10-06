@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Arabic Lexems</title>
+
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/htmlwidgets-1.5.4/htmlwidgets.js"></script>
+<link href="site_libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet" />
+<script src="site_libs/datatables-binding-0.23/datatables.js"></script>
+<link href="site_libs/dt-core-1.11.3/css/jquery.dataTables.min.css" rel="stylesheet" />
+<link href="site_libs/dt-core-1.11.3/css/jquery.dataTables.extra.css" rel="stylesheet" />
+<script src="site_libs/dt-core-1.11.3/js/jquery.dataTables.min.js"></script>
+<link href="site_libs/nouislider-7.0.10/jquery.nouislider.min.css" rel="stylesheet" />
+<script src="site_libs/nouislider-7.0.10/jquery.nouislider.min.js"></script>
+<link href="site_libs/selectize-0.12.0/selectize.bootstrap3.css" rel="stylesheet" />
+<script src="site_libs/selectize-0.12.0/selectize.min.js"></script>
+<link href="site_libs/crosstalk-1.2.0/css/crosstalk.min.css" rel="stylesheet" />
+<script src="site_libs/crosstalk-1.2.0/js/crosstalk.min.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">DAG <- APT</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="database.html">Database</a>
+</li>
+<li>
+  <a href="arabic_lexems.html">Arabic lexems</a>
+</li>
+<li>
+  <a href="sources.html">Sources</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Arabic Lexems</h1>
+
+</div>
+
+
+<p>This page contains various concepts borrowed from Arabic into the
+languages of Daghestan</p>
+<div id="htmlwidget-b403af8603679a92566a" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-b403af8603679a92566a">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"logical\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\" disabled=\"\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"width: 100%; display: none;\">\n      <select multiple=\"multiple\" style=\"width: 100%;\" data-options=\"[&quot;true&quot;,&quot;false&quot;,&quot;na&quot;]\"><\/select>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"number\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"2\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","caption":"<caption>Table shows various concepts borrowed from Arabic into the languages of Daghestan<\/caption>","data":[["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","48","49","50","51","52","53","54","55","56","57","58","59","60","61","62","63","64","65","66","67","68","69","70","71","72","73","74","75","76","77","78","79","80","81","82","83","84","85","86","87","88","89","90","91","92","93","94","95","96","97","98","99","100","101","102","103","104","105","106","107","108","109","110","111","112","113","114","115","116","117","118","119","120","121","122","123","124","125","126","127","128","129","130","131","132","133","134","135","136","137","138","139","140","141","142","143","144","145","146","147","148","149","150","151","152","153","154","155","156","157","158","159","160","161","162","163","164","165","166","167","168","169","170","171","172","173","174","175","176","177","178","179","180","181","182","183","184","185","186","187","188","189","190","191","192","193","194","195","196","197","198","199","200","201","202","203","204","205","206","207","208","209","210","211","212","213","214","215","216","217","218","219","220","221","222","223","224","225","226","227","228","229","230","231","232","233","234","235","236","237","238","239","240","241","242","243","244","245","246","247","248","249","250","251","252","253","254","255","256","257","258","259","260","261","262","263","264","265","266","267","268","269","270","271","272","273","274","275","276","277","278","279","280","281","282","283","284","285","286","287","288","289","290","291","292","293","294","295","296","297","298","299","300","301","302","303","304","305","306","307","308","309","310","311","312","313","314","315","316","317","318","319","320","321","322","323","324","325","326","327","328","329","330","331","332","333","334","335","336","337","338","339","340","341","342","343","344","345","346","347","348","349","350","351","352","353","354","355","356","357","358","359","360","361","362","363","364","365","366","367","368","369","370","371","372","373","374","375","376","377","378","379","380","381","382","383","384","385","386","387","388","389","390","391","392","393","394","395","396","397","398","399","400","401","402","403","404","405","406","407","408","409","410","411","412","413","414","415","416","417","418","419","420","421","422","423","424","425","426","427","428","429","430","431","432","433","434","435","436","437","438","439","440","441","442","443","444","445","446","447","448","449","450","451","452","453","454","455","456","457","458","459","460","461","462","463","464","465","466","467","468","469","470","471","472","473","474","475","476","477","478","479","480","481","482","483","484","485","486","487","488","489","490","491","492","493","494","495","496","497","498","499","500","501","502","503","504","505","506","507","508","509","510","511","512","513","514","515","516","517","518","519","520","521","522","523","524","525","526","527","528","529","530","531","532","533","534","535","536","537","538","539","540","541","542","543","544","545","546","547","548","549","550","551","552","553","554","555","556","557","558","559","560","561","562","563","564","565","566","567","568","569","570","571","572","573","574","575","576","577","578","579","580","581","582","583","584","585","586","587","588","589","590","591","592","593","594","595","596","597","598","599","600","601","602","603","604","605","606","607","608","609","610","611","612","613","614","615","616","617","618","619","620","621","622","623","624","625","626","627","628","629","630","631","632","633","634","635","636","637","638","639","640","641","642","643","644","645","646","647","648","649","650","651","652","653","654","655","656","657","658","659","660","661","662","663","664","665","666","667","668","669","670","671","672","673","674","675","676","677","678","679","680","681","682","683","684","685","686","687","688","689","690","691","692","693","694","695","696","697","698","699","700","701","702","703","704","705","706","707","708","709","710","711","712","713","714","715","716","717","718","719","720","721","722","723","724","725","726","727","728","729","730","731","732","733","734","735","736","737","738","739","740","741","742","743","744","745","746","747","748","749","750","751","752","753","754","755","756","757","758","759","760","761","762","763","764","765","766","767","768","769","770","771","772","773","774","775","776","777","778","779","780","781","782","783","784","785","786","787","788","789","790","791","792","793","794","795","796","797","798","799","800","801","802","803","804","805","806","807","808","809","810","811","812","813","814","815","816","817","818","819","820","821","822","823","824","825","826","827","828","829","830","831","832","833","834","835","836","837","838","839","840","841","842","843","844","845","846","847","848","849","850","851","852","853","854","855","856","857","858","859","860","861","862","863","864","865","866","867","868","869","870","871","872","873","874","875","876","877","878","879","880","881","882","883","884","885","886","887","888","889","890","891","892","893","894","895","896","897","898","899","900","901","902","903","904","905","906","907","908","909","910"],["الله","خالق","قيامة‎","آخرة","جنّة","صراط","ملك/ ملائکة","حُورِيَّةٌ","عزرائِيل","جهنّم","جنّ","شیطان","إبلس","عفریت","آخر + زمن || زمان","مذهب","توبة","نذر","دين","جناح","إیمان","إسلام","روح","ثواب","علامة","عمارة","فأل","مجدة","سحر","حلال","حرام","نظر","شریعة","مسلم","حاجّ","روحانی","مؤمن","مرید","عابد","زاهد","قاض","شیخ","امام","ملا","فقیه","مجاور","حاسد","کافر","عبادة","أذان","أکبر","صلاة","وعظ","زکاة","سجدة","جنازة","إحسان","حجّ","سنّة","ذکر","دعاء","صلوة","إکرام","تعزّی / تعزیة","منارة","مسجد","محراب","کنیسة","غزوة","فطرة","زیارة","کعبة","قربان","یأس","مولد","مدرسة","طلاق","نکاح","مهر","صدقة","نفع","قرآن","آیة","فاتحة","یاسین","قله","توراة","انجیل","سبب","زبور","طلسم","کفن","محفي","تابوت","سبحة","تسبیح","جنس","سبب","تفاوت","فرق","جمع","نقصان","ذرّة","أنبار","طبیعة","نعمة","حادثة","واقعة","مجری","شیء","طرف","ذات","خسارة","منزل","حال","احوال","احوالات","دنیا","عالم","تبدیل","بدل","ظلمة","هیبة","برکة","دلیل","ثبوت","إثبات","تصدیق","نوبة","مکان","نشان","قدر","قالب","قدر","نصیب","نتیجة","صدور","مقدار","سیاحة","سفر","سیر","زحمة","نظام","ترتیب","جفاء","قال","قال مقال","اشارة","عبرة","قانون","عادة","قاعدة","غلط","خطاء","قطع","جهة","شرط","ولولة","علاقة","ضرب","معنی","تلف","تأخیر","منع","علاج","حرارة","زحم","مشرب","منظرة","تأثیر","طاقة","تشبیه","إمکان","قوة","قدرة","امان","کثیر","نفوذ","إنکار","تجربة","خلوة","سر","شرق","مشرق","قبلة","مغرب","زبل","مراد","حسرة","مطلب","مقصد","قصد","غرض","نیة","إشتهاء","طعم","طمع","محبّة","عشق","اکراه","نفرة","ذهلة","عقل","فهم","ذهن","بصیر","حوالات","جذب","عیف","میل","جمال","کمال","حس","إلهام","إشتراک","عیان","خجلة","غام","هجران","معني","غضب","حرص","عمر","اجل","وفاة","مشغلة","خیال","شغل","سعی","دقة","غلبة","فکر","إحتیاط","فراغة","کیفیّة","کیف","کفایة","حظّ","صفاء","لذّة","طالع","إقبال","اذیّة","عذاب","هلاک","حرکة","کرامة","حقیقة","حق","خلاف","شکّ","وسواس","خاصیّة","آخر","قسمة","نسل","زوال","بلاء","شرة","نکبة","مصیبة","قضاء","ضرر","وقت","وعدة","ایّام","مدّة","دوران","لحضة","زمن || زمان","عصر","دور","فرصة","تاریخ","ابدیة","ساعة","مجال","محالة","سحر","صباح","دقیقة","أوّل","اوّلا","محرّم","ربیع ألاول","رجب","شعبان","رمضان","صفر","شوال","الاثنین","ثلاثاء","اربع","خمیس","جمعة","الاحد","أدب","فخر","اخلاق","بحث","غیرة","ناموس","تحسیر","صبر","دوام","وفاء","جسارة","جرأة","توکّل","مشغولات","ظرافة","مسخرة","اهانة","عمل","علّة","فتنة","غیبة","بهت","حرمة","خطیر","هوس","شوق","نفس","وجدان","شفاعة","شفقة","رحیم","رحمة","مرحمة","إنصف","خیرة","عدالة","عدل","عیب","عار","حیاء","إختبار","تدارک","مکر","إمداد","رخصة","قبول","تکلیف","تدبیر","جلب","مرخص","شکر","تعریف","مبارک","تبریک","لعنة","تهمة","مذمة","امانة","وصیّة","وصیّ","وقوف","ترکت","متاع","إرس","قبض","قرض","حاجة","احتیاج","محتاج","ذلّة","درجة","إدّعاء","قصاص","إنتقام","نصرة","عداوة","خلق","جامعة","امّة","مملکة","مخلوق","مخلوقات","مجلس","إجلس","سوق","هدیّة","جاهز","إنسانیّة","ملّة","طائفة","قوم","بشریّة","تشکیل","تشکیلة","اتّفاق","بدعة","انقلاب","تبلیغات","سیاسة","محکمة","منافس","إعفاء","حکومة","وطن","ولایة","غربة","دعوة","محاربة","هجوم","یسیر","حرّیّة","خیانة","غالیب","تربیة","غلبة","أصل","منسوب","ظلم","مظلوم","جبر","اطاعة","قرار","قطع","أمر","حکم","تبشیر","رشوة","وظفة","فرضة","جزاء","تعزیر","عریضة","شکایة","إدارة","قناعة","خیر","منفعة","فائدة","تقیّد","إستقراض","حسبة","قیمة","مواجب","معیشة","ملک","صنعة","کسب","اکراء","إجراء","نفقة","جریمة","خرج","صرف","حاصل","مدخول","سلم","دولة","خزنة","قصّاب","دباغة","استثمار","سؤال","جواب","بیان","مصلحة","صحبة","no Arabic","مشورة","إختلاط","لقلقة","معلومات","خبر","لغة","لقب","سلام","مقاولة","إقرار","تشبیه","تکرار","حجّة","بحث","توق","منّة","طلب","اختیار","إذن","إجازة","قید","آدم","إنسان","شاهد","فقیر","مسکین","لمام","غریب","وحشیّ","لطيّ","فعلة","دجّال","مرتدّ","ولد","اولاد","عاشق","حاکم","جرّاح","ولیّ","قیّم","جاسوس","ولد","عیّل","حمّال","احمق","عبد اللّه","ملعون","مدّعاء","وارث","ظالم","یتیم","وکیل","ضامن","مخبر","دلاّک","درزیّ","شریک","أهلیّ","جلاّد","منافق","خائن","مشترٍ","تاجر","لقمان","دلاّّل","صرّاف","جناب","مدیر","نائب","صاحب","رعیّة","ناظز","مسافر","مهاجر","طفل","جناح","قحبة","وزیر","خرّاط","سائل","سرّاج","مالک","قرعون","عرب","عجم","جهود","درس","مکتب","امتحان","حساب","کتاب","جزء","جلد","مجلّد","خطّ","نقطة","قصّة","نقل","حکایة","روایة","حرف","عدد","شکل","صورة","نقش","شاعر","شعر","وزن","مجموع","مقام","نغمة","نظم","لیلة","غزل","بیت","کلام","کلمة","مقالة","مسألة","قلم","دواة","الف","علمیّ","علم","معلّم","سواد","صنف","علیم","اثر","ادبیّات","ترجمة","معارف","معرفة","مدنیّة","مکتوب","طلبة","متعلّم","جبر","حقیقیّ","خالص","اخلاص","یقین","باطل","مجبور","واجب","لازم","ضدّ","ظاهر","خاصّ","مخصوص","تعلق","اصلا","عبارة","عمومیّ","حاظر","غائب","نادر","غریب","تعجب","عجیب","معلوم","مشهور","ممکن","احتمال","نحس","اوّلا","زیادة","مختل","تخمیناً","عوض","مدائم","ابدیّ","دائماً","دائم","تعیین","اساس","اصل","اهمّ","جزئی","فصاحة","حیران","مرکّب","تمام","کامل","علاوة","عموماً","غیر","فلان","بعض","ملّی","کاسب","خصوصیّ","مغلوب","تکبّور","عارف","عوام","سفیه","غافل","مشغول","قاطع","قهرمان","قدیم","قادر","ساکت","ساکن","إصلاح","ماهر","مغلوس","ملائم","فصیح","عدل","لائق","مقایة","تواکل","دغل","کاهل","فاسق","فشل","قبیح","حقیر","جواد","سخاوة","أمین","حلیم","مطاوع","تابع","مشقّة","مطلق","راض","غفور","عکسیّ","کیفیّ","عشیر","ذلیل","سافل","اکرامی","مغموم","محروم","سلامة","اشلّ","ضعیف","عاجیز","مکین","بالغ","جاهل","سقط","جلیب","صاف","فانی","راحة","محکم","تأمین","نقد","اخمر","خلاص","مبلغ","کافر","بطانة","لباس","عباء","أظلس","کتّان","کمری","کیسه","عطر","جیب","أستار","صدف","خلعة","حاشیة","سلاه","الة","خنجر","مزراق","قمه","متّکا","حلقة","رطل","مثقال","صابون","سفرة","مثقب","مقراض","مفتول","کرسیّ","صندوق","عین","صنیّة","طبق","منشار","صاع","کیلة","قبّة","خرط","مسمار","شمع","قالب","عصاً","نعل","عربة","قفس","نباتات","شتل","مشمش","شمّامة","توت","فندق","قنّب","برتقال","خشخاش","زیحان","محصول","قافلة","بلبل","طاووس","لقلق","فیل","میمون","حمار","مال","خصیّ","حیوان","عقرب","حشرة","سجف","عمارة","دارة","قنطرة","مرتبة","میدان","حمّام","قبّة","بناء","معدن","حوض","قلعة","خجرة","دکّان","مزرعة","رکن","حیاط","مرکز","خراب","محلّة","سورسات","شربات","رب","مربّة","حلواء","زیتون","قهوة","تتن","مرهم","عرقیّ","قمد","نبات","خمیر","لقمة","رزق","دواء","زهر","زقّوم","علف","عرش","طوفان","هواء","مغارة","نور","فلک","زلزلة","الماس","جواهر","قیر","موم","لحم","مغنطیس","حنّاء","مرمر","جوهر","مرجان","لؤلؤ","یاقوت","نفط","قامة","بدن","قدم","میت","جنّاز","صفة","إسم","جناب","جسد","خرطوم","کفل","صفراء","آزار","مرض","ورم","فالج","طاعون","وباء","زکام","جذام","بلغم","نفس","نجس","عم","خالة","عمّة","خال","میراث","اقارب","یا","امّا","و","یعنی","یاربّ","حتّی","البتّة","السلام علیکم","علیکم السلام","آمین","بارک الله","بیسم الله","والله","ان شاءالله","ماشاءالله","زینة","بصارة","خیفة","تشویش","سلیقة","عناد","تعلیم","تحویل","نصیحة","حدیث","حسنی","ظریف","بخیل","حریص","عزیز","میل","زنبیل","شراب","شربة","جزیرة"],["ˀallau","xâliq","qijāma[t]","ˀaxira[t]","ǯanna[t]","ṣirāṭ","malak (sg.) / malaˀika[t] (pl.)","ḥûriyya","ˁazrāˀīl","ǯahannam","ǯinn","šajt*aan","ˀiblisu","‘ifriit","ˀaxir + zaman / zamān","maẕhab","tawba","naẕr","dīn","ǯunāḥ","ˀīmān","ˀislām","rūḥ","sawāb","ˁalāma[t]","ˁimāra[t]","faˀl","maǯda[t]","siḥr","ḥalāl","ḥarām","naẓar","š arī‘a[t]","muslim","ḥāǯǯ","rūḥānijj","muˀmin","murīd","ˁābid","zāhid","qāḍi","šajx","’imām","mullā","faqīh","muǯāwir","ḥāsid","kāfir","ˁibāda[t]","ˀaẕān","ˀakbar","ṣalāt","waˁẓ","zakā[t]","saǯda[t]","ǯanaza[t]","ˀiḥsān","ḥaǯǯ","sunna[t]","ẕikr","duˁāˀ","ṣalawa","ˀikrām","taˁazzi / ta‘aziya","mināra","masǯid","miḥrāb","kanīsa[t]","ğazwa[t] (sg.) / ğazawā[t] (pl.)","fiṭra[t]","zijāra[t]","kaˁba[t]","qurbān","jaˀs","mawlid","madrasa[t]","ṭalāq","nikaḥ","mahr","ṣadaqa[t]","nafˁ","qurˀān","āja[t]","fātiḥa[t]","jāsin","qulhu","tawrā[t]","ˀinǯīl","sabab","zabūr","ṭilāsm","kafan","miḥffij","tābūt","subḥa[t]","tasbīḥ","ǯins","sabab","tafāwut","farq","ǯamˁ","nuqṣān","ẕarra[t]","ˀanbār","ṭabi‘a","niˁma[t]","ḥādiṯa[t]","wāqi‘a","maǯra","šajˀ","ṭaraf","ẕāt","ḫasāra[t]","manzil","ḥāl","ˀaḥwāl","ˀaḥwālāt","dunjā","‘ālam","tabdīl","badal","ẓulma[t]","hajba[t]","baraka[t]","dalīl","subūt","isbāt","taṣdīq","nawba[t]","makān","nišān","qadar","qālib","qadr","naṣīb","natīǯa","ṣudûr","miqdār","siyāḥa","safar","sajr","zaḥma[t]","niẓām","tartīb","ǯafā‘","qāl","qālmaqāl","’iš āra","ˁibra[t]","qaanûn","ˁāda[t]","qāˁida[t]","ğalaṭ","xaṭāˀ","qaṭˁ","ǯiha[t]","šarṭ","walwala","ˁalāqa[t]","ḍarb","ma‘na","talaf","ta’xīr","manˁ","ˁilāǯ","ḥarāra[t]","zaḥm","mašrab","manẓara[t]","ta’sīr","ṭāqa[t]","tašbîh","imkān","quwa[t]","qudra[t]","’amān","kasīr","nufûẕ","inkār","taǯriba","xalwa[t]","sirr","šarq","mašriq","qibla","mağrib","zibl","murād","ḥasra[t]","maṭlab","maqṣad","qaṣd","ğaraḍ","niyya","ištihāˀ","ṭaˁm","ṭamaˁ","maḥabba","ˁišq","ˀikrāh","nafra[t]","ẕahla[t]","ˁaql","fahm","ẕihn","baṣīr","ḥuwālāt","ǯazb","ˁajf","majl","ǯamāl","kamāl","ḥiss","’ilhām","’ištir āk","‘ayān","xaǯla[t]","ğam","hiǯrān","maˁnaj","ğaḍab","ḥirṣ","ˁumr","’aǯal","wafā[t]","mašğala[t]","xijāl","šuğl","sa‘y","diqqa[t]","ğalaba","fikr","iḥtijāṭ","farāğa","kayfijja","kajf","kifāja","ḥaẓẓ","ṣafāˀ","laẕẕa[t]","ṭāliˁ","iqbāl","ˀaẕiyya[t]","ˁaẕāb","halāk","ḥaraka[t]","karāma","ḥaqīqa[t]","ḥaqq","xilāf","šakk","waswās","xāṣija[t]","āxir","qisma[t]","nasl","zawāl","balā‘","širra","nakba","muṣība","qaḍā‘","ḍarar","waqt","waˁda[t]","’ayyām","mudda[t]","dawrān","laḥaẓa","zaman / zamān","ˁaṣr","dawr","furṣa[t]","tārīx","ˀabadiya[t]","sāˁa[t]","maǯāl","maḥāla","saḥar","ṣabaḥ","daqīqa[t]","ˀawwal","ˀawwalan","muḥarram","rabīˁ alˀawwal","raǯab","šaˁbān","ramaḍān","ṣafar","šawwāl","’al’isnayn","sulasāˀ","ˀarbaˁ","xamīs","ǯumˁa[t]","’al-’aḥad","ˀadab","faxr","’axlāq","baḥs","ğayra","nāmûs","taḥsīr","ṣabr","dawām","wafā‘","ǯasāra[t]","ǯurˀa[t]","tawakkul","maš gûlā[t]","ẓarāfa[t]","masxara[t]","’ihāna[t]","ˁamal","ˁilla[t]","fitna[t]","ğība[t]","buht","ḥurma[t]","xaṭīr","hawas","šawq","nafs","wiǯdān","šafāˁa[t]","šafaqa[t]","raḥīm","raḥma[t]","marḥama[t]","’inṣaf","xajra[t]","ˁadāla[t]","ˁadl","ˁajb","ˁārr","hajāˀ","ixtibār","tadāruk","makr","imdād","ruxṣa","qabūl","taklīf","tadbīr","ǯalb","muraxaṣ","šukr","taˁrīf","mubārak","tabrīk","laˁna[t]","tuhma[t]","mazamma[t]","’amāna[t]","waṣiyya[t]","waṣi","wuqûf","tarika[t]","matāˁ","ˀirs","qabḍ","qarḍ","ḥāǯa","ˀiḥtiyāǯ","muḥtāǯ","ẕilla[t]","daraǯa[t]","ˀiddiˁāˁ","qiṣāṣ","ˀintiqām","nuṣra","‘adāwa","xalq","ǯāmiˁa[t]","ˀumma[t]","mamlaka[t]","maxlûq","maxlûqāt","maǯlis","iǯlas","sawq","hadiyya","ǯāhiz","’insāniyya[t]","milla[t]","ṭā’ifa[t]","qawm","bašariyya[t]","taš kīl","tašk īla","’ittifāq","bidˁa[t]","’inqilāb","tablīğāt","siyāsa[t]","maḥkama[t]","munāfis","ˀiˁfāˀ","ḥukūma[t]","waṭan","wilājja[t]","ğurba[t]","daˁwa[t]","muḥāraba[t]","huǯūm","jasīr","ḥurrija[t]","xijāna[t]","ğālib","tarbiya[t]","ğalaba[t]","ˀaṣl","mansûb","ẓulm","maẓlûm","ǯabar","ˀiṭāˁa[t]","qarār","qaṭˁ","amr","ḥukm","tabšīr","rašwa[t]","waẓifa[t]","fariḍa[t]","ǯazāˀ","taˁzīr","ˁarīḍa[t]","š ikāya[t]","idāra[t]","qanā‘at","xajr","manfaˁat","fāˀida[t]","taqajjud","ˀistiqrāḍ","ḥisba[t]","qīma[t]","mūǯib","maˁīša[t]","mulk","ṣanˁa[t]","kasb","ˀikrāˀ","ˀiǯrāˀ","nafaqa","ǯarīma[t]","xarǯ","ṣarf","ḥāṣil","madxūl","salam","dawla[t]","xazna[t]","qaṣṣab","dibāğa","ˀistismār","suˀāl","ǯawāb","bayān","maṣlaḥa[t]","ṣuḥba[t]","qawğa","mašwara[t]","ixtilāt","laqlaqa","maˁlûmāt","xabar","luğat","laqab","salām","muqāwala[t]","iqrār","tašb īh","takrār","ḥuǯǯa[t]","baḥs","tawq","minna[t]","ṭalab","ˀixtiyār","ˀiẕn","ˀiǯāza[t]","qayd","ˀādam","ˀinsān","šāhid","faqīr","miskīn","lamām","ğarīb","waḥšī","luṭij","faˁala[t]","daǯǯāl","murtadd","walad","’awlād","ˁāšiq","ḥākim","ǯarrāḥ","walijj","qajjim","ǯāsûs","walad","ˁajjil","ḥammal","ˀaḥmaq","ˀabdallāh","malˁûn","mudda‘ā‘","wāris","ẓālim","jatīm","wakīl","ḍāmin","muxbir","dallāk","darzī","šarīk","ˀahlij","ǯallad","munāfiq","xa‘in","muštarin","tāǯir","luqmān","dallāl","ṣarrāf","ǯanāb","mudīr","nā’ib","ṣāḥib","raˁijja[t]","nāẓir","musāfir","muhāǯir","no translit","ǯunāḥ","qaḥba","wazīr","xarrāṭ","sāˀil","sarrāǯ","mālik","firˁawnu","ˁarab","ˁaǯam","ǯahūd","dars","maktab","’imtiḥān","ḥisāb","kitāb","ǯuz’","ǯild","muǯallad","xaṭṭ","nuqṭa","qiṣṣa[t]","naql","ḥikāya[t]","riwāya[t]","ḥarf","ˁadad","šikl","ṣûra[t]","naqš","šāˁir","šiˁr","wazn","maǯmûˁ","maqām","nağma[t]","naẓm","layla","ğazal","bajt","kalām","kalima[t]","maqāla[t]","masˀala[t]","qalam","dawā","’alif","ˁilmijj","ˁilm","muˁallim","sawād","ṣinf","ˁalīm","ˀasar","ˀadabijjāt","tarǯama[t]","maˁārif","maˁrifa[t]","madanijja[t]","maktūb","ṭalaba[t]","mutaˁallim","ǯabr","ḥaqīqiyy","xāliṣ","’ixlāṣ","yaqīn","bāṭil","maǯbūr","wāǯib","lāzim","ḍidd","ẓāhir","xāṣṣ","maxṣûṣ","ta‘alluq","’aṣlā","ˁibāra","ˁumûmiyy","ḥāḍir","gāˁib","nādir","ğarīb","taˁǯǯub","ˁaǯīb","maˁlûm","maš hûr","mumkin","ˀiḥtimāl","naḥs","’awwalan","ziyāda","maxtal","taxmīnan","ˁiwaḍ","mudāˀim","ˀabadiyy","dāˀimān","dāˀim","taˁyīn","ˀasās","ˀaṣl","ˀahammu","ǯuzˀiyy","faṣāḥa","ḥayrān","murakkab","tamām","kāmil","ˁilāwa","‘umûman","ğajr","fulān","baˁḍ","milliy","kāsib","xuṣūṣij","mağlûb","takabbur","ˁārif","ˁawām","safīh","ğāfl","maš ğûl","qāṭiˁ","qahramān","qadīm","qādir","sākit","sākin","ˀiṣlāḥ","māhir","mağlûs","mulāˀim","faṣīh","ˁadil","lāˀiq","muqāya","tawākul","dağal","kāhil","fāsiq","fašil","qabīḥ","ḥaqīr","ǯawād","saxāwa[t]","ˀamīn","ḥalīm","muṭāwiˁ","tābiˁ","mašaqqa","muṭlaq","rāḍiy","ğāfûr","ˁaksij","kayfijj","ˁašīr","ẕalīl","sāfil","ˀikrāmijj","mağmûm","maḥrûm","salāma[t]","’ašallu","ḍaˁīf","ˁāǯīz","makin","bāliğ","ǯāhil","saqaṭ","ǯalīb","ṣāfin","fānī","rāḥa[t]","muḥkam","taˁmīn","naqd","’ahmaru","xalāṣ","mublağ","kāfir","baṭāna","libās","ˁabāˀ","ˀaṭlasu","kattān","kamarī","kīse","ˁiṭr","ǯajb","ˀastār","ṣadaf","xilˁa[t]","ḥāšija[t]","silāḥ","ˀala[t]","xanǯar","mizrāq","qamˁa","muttakā","ḥalqa[t]","raṭl","misqāl","ṣābūn","sufra[t]","misqab","miqrāḍ","muftul","kursijj","ṣundûq","no translit","ṣinijja[t]","ṭabaq","minšār","ṣāˁ","kayla[t]","qubba[t]","xarṭ","mismār","šamˁ","qālab","ˁaṣā","naˁl","ˁaraba[t]","qafas","nabātāt","šatl","mišmiš","šamm āma","tût","funduq","qinnab","burtuqāl","xašxâš","rajḥān","maḥṣūl","qāfila[t]","bulbul","ṭāwûs","laqlaq","fīl","maymūn","ḥimār","māl","xaṣiyy","ḥaywān","ˁaqrab","ḥašara[t]","siǯf","‘imāra[t]","dāra[t]","qanṭara[t]","martaba[t]","majdān","ḥammām","no translit","bināˀ","maˁdan","ḥawḍ","qalˁa","ḥuǯra[t]","dukkān","mazra‘a","rukn","ḥiyāt","markaz","xarāb","maḥalla","no Arabic word?","šarbāt","rubb","murabba[t]","ḥalwāˀ","zaytûn","qahwa","tutun","marham","ˁaraqij","qand","nabāt","xamīr","luqma[t]","rizq","dawā‘","zahr","zaqqum","‘alaf","ˁarš","ṭūfān","hawāˀ","magāra","nûr","falak","zalzala","’almās","ǯawāhir","qīr","mûm","laḥm","mağnaṭīs","hinnā","marmar","ǯawhar","marǯân","lu’lu’","yāqūt","nafṭ","qāma[t]","badan","qadam","majit","ǯannaz","ṣifa[t]","ˀism","ǯanāb","ǯasad","hurṭûm","kafal","ṣafrā’u","āzār","maraḍ","waram","fāliǯ","ṭā‘ûn","wabā‘","zukām","ǯuẕām","balğam","nafas","naǯas","ˁamm","xāla","‘amma","xāl","mīrās","’aqāribu","yā","ˀammā","wa","yaˁnī","yārabbi","ḥatta","ˀalbatta","ˀassalām ˁalaykum","ˁalaykum ˀassalām","ˀāmīn","bārakallāh","bismillāh","wallāh","inšāˁ allāh","māšāˁallāh","zīna[t]","baṣāra[t]","xifa[t]","tašwīš","salīqa","ˁinād","taˁlīm","taḥwīl","naṣīḥa[t]","ḥadīs","ḥusna","ẓarīf","baxīl","ḥarīṣ","ˁazīz","mīl","zanbīl","šarāb","šurba[t]","ǯazira[t]"],["ˀallāh","ḫāliq","qiyāmat","ʔāḫirat","jannat","ṣirāṭ","malak / malāʔikat","ḥūriyyat","ʕazrāʔīl","jahannam","jinn","šayṭān","ʔiblis","ʕifrīt","ʔāḫir + zaman || zamān","maḏhab","tawbat","naḏr","dīn","junāḥ","ʔīmān","ʔislām","rūḥ","ṯawāb","ʕalāmat","ʕimārat","faʔl","majdat","siḥr","ḥalāl","ḥarām","naẓar","šarīʕat","muslim","ḥājj","rūḥāniyy","muʔmin","murīd","ʕābid","zāhid","qāḍi","šayḫ","ʔimām","mullā","faqīh","mujāwir","ḥāsid","kāfir","ʕibādat","ʔaḏān","ʔakbar","ṣalāt","waʕẓ","zakāt","sajdat","janāzat","ʔiḥsān","ḥajj","sunnat","ḏikr","duʕāʔ","ṣalawat","ʔikrām","taʕazzi / taʕziyat","minārat","masjid","miḥrāb","kanīsat","ġazwat / ġazawāt","fiṭrat","ziyārat","kaʕbat","qurbān","yaʔs","mawlid","madrasat","ṭalāq","nikāḥ","mahr","ṣadaqat","nafʕ","qurʔān","āyat","fātiḥat","yāsīn","qulhu","tawrāt","ʔinjīl","sabab","zabūr","ṭilasm","kafan","miḥffiy","tābūt","subḥat","tasbīḥ","jins","sabab","tafāwut","farq","jamʕ","nuqṣān","ḏarrat","ʔanbār","ṭabiʕat","niʕmat","ḥādiṯat","wāqiʕat","majra","šayʔ","ṭaraf","ḏāt","ḫasārat","manzil","ḥāl","ʔaḥwāl","ʔaḥwālāt","dunyā","ʕālam","tabdīl","badal","ẓulmat","haybat","barakat","dalīl","ṯubūt","ʔiṯbāt","taṣdīq","nawbat","makān","nišān","qadar","qālib","qadr","naṣīb","natījat","šudūr","miqdār","siyāḥat","safar","sayr","zaḥmat","niẓām","tartīb","jafāʔ","qāl","qālmaqāl","ʔišārat","ʕibrat","qānūn","ʕādat","qaʕidat","ġalaṭ","ḫaṭāʔ","qaṭʕ","jihat","šarṭ","walwalat","ʕalāqat","ḍarb","maʕna","talaf","taʔḫīr","manʕ","ʕilāj","ḥarārat","zaḥm","mašrab","manẓarat","taʔṯīr","ṭāqat","tašbīh","ʔimkān","quwat","qudrat","ʔamān","kaṯīr","nufūḏ","ʔinkār","tajribat","ḫalwat","sirr","šarq","mašriq","qiblat","maġrib","zibl","murād","ḥasrat","maṭlab","maqṣad","qaṣd","ġaraḍ","niyyat","ʔištihāʔ","ṭaʕm","ṭamaʕ","maḥabbat","ʕišq","ʔikrāh","nafrat","ḏahlat","ʕaql","fahm","ḏihn","baṣīr","ḥuwālāt","jazb","ʕayf","mayl","jamāl","kamāl","ḥiss","ʔilhām","ʔištirāk","ʕayān","ḫajlat","ġām","hijrān","maʕnay","ġaḍab","ḥirṣ","ʕumr","ʔajal","wafāt","mašġalat","ḫiyāl","šuġl","saʕy","diqqat","ġalabat","fikr","iḥtiyāṭ","farāġat","kayfiyyat","kayf","kifāyat","ḥaẓẓ","ṣafāʔ","laḏḏat","ṭāliʕ","ʔiqbāl","ʔaḏiyyat","ʕaḏāb","halāk","ḥarakat","karāmat","ḥaqīqat","ḥaqq","ḫilāf","šakk","waswās","ḫāṣiyyat","āḫir","qismat","nasl","zawāl","balāʔ","širrat","nakbat","muṣībat","qaḍāʔ","ḍarar","waqt","waʕdat","ʔayyām","muddat","dawrān","laḥaẓat","zaman / zamān","ʕaṣr","dawr","furṣat","tārīḫ","ʔabadiyat","sāʕat","majāl","maḥāla","saḥar","ṣabāḥ","daqīqat","ʔawwal","ʔawwalan","muḥarram","rabīʕ alʔawwal","rajab","šaʕbān","ramaḍān","ṣafar","šawwāl","ʔalʔiṯnayn","ṯulaṯāʔ","ʔarbaʕ","ḫamīs","jumʕat","ʔalʔaḥad","ʔadab","faḫr","ʔaḫlāq","baḥṯ","ġayrat","nāmūs","taḥsīr","ṣabr","dawām","wafāʔ","jasārat","jurʔat","tawakkul","mašġūlāt","ẓarāfat","masḫarat","ʔihānat","ʕamal","ʕillat","fitnat","ġībat","buht","ḥurmat","ḫatīr","hawas","šawq","nafs","wijdān","šafāʕat","šafaqat","raḥīm","raḥmat","marḥamat","ʔinṣaf","ḫayrat","ʕadālat","ʕadl","ʕayb","ʕār","ḥayāʔ","ʔiḫtibār","tadāruk","makr","ʔimdād","ruḫṣat","qabūl","taklīf","tadbīr","jalb","muraḫaṣ","šukr","taʕrīf","mubārak","tabrīk","laʕnat","tuhmat","maḏammat","ʔamānat","waṣiyyat","waṣiy","wuqūf","tarikat","matāʕ","ʔirs","qabḍ","qarḍ","ḥājat","ʔiḥtiyāj","muḥtāj","ḏillat","darajat","ʔiddiʕāʔ","qiṣāṣ","ʔintiqām","nuṣrat","ʕadāwat","ḫalq","jāmiʕat","ʔummat","mamlakat","maḫlūq","maḫlūqāt","majlis","ʔijlas","sawq","hadiyyat","jāhiz","ʔinsāniyyat","millat","ṭāʔifat","qawm","bašariyyat","taškīl","taškīlat","ʔittifāq","bidʕat","ʔinqilāb","tablīġāt","siyāsat","maḥkamat","munāfis","ʔiʕfāʔ","ḥukūmat","waṭan","wilāyyat","ġurbat","daʕwat","muḥārabat","hujūm","yasīr","ḥurriyat","ḫiyānat","ġālib","tarbiyat","ġalabat","ʔaṣl","mansūb","ẓulm","maẓlūm","jabar","ʔiṭāʕat","qarār","qaṭʕ","amr","ḥukm","tabšīr","rašwat","waẓifat","fariḍat","jazāʔ","taʕzīr","ʕarīḍat","šikāyat","ʔidārat","qanāʕat","ḫayr","manfaʕat","fāʔidat","taqayyud","ʔistiqrāḍ","ḥisbat","qīmat","mawājib","maʕīšat","mulk","ṣanʕat","kasb","ʔikrāʔ","ʔijrāʔ","nafaqat","jarīmat","ḫarj","ṣarf","ḥāṣil","madḫul","salam","dawlat","ḫaznat","qaṣṣāb","dibāġat","ʔistiṯmār","suʔāl","jawāb","bayān","maṣlaḥat","ṣuḥbat","qawġat","mašwarat","ʔiḫtilāt","laqlaqat","maʕlūmāt","ḫabar","luġat","laqab","salām","muqāwalat","ʔiqrār","tašbīh","takrār","ḥujjat","baḥṯ","tawq","minnat","ṭalab","ʔiḫtiyār","ʔiḏn","ʔijāzat","qayd","ādam","ʔinsān","šāhid","faqīr","miskīn","lamām","ġarīb","waḥšiyy","luṭiyy","faʕalat","dajjāl","murtadd","walad","ʔawlād","ʕāšiq","ḥākim","jarrāḥ","waliyy","qayyim","jāsūs","walad","ʕayyil","ḥammāl","ʔaḥmaq","ʔabdallāh","malʕūn","muddaʕāʔ","wāriṯ","ẓālim","yatīm","wakīl","ḍāmin","muḫbir","dallāk","darziyy","šarīk","ʔahliyy","jallad","munāfiq","ḫāʔin","muštarin","tājir","luqmān","dallāl","ṣarrāf","janāb","mudīr","nāʔib","ṣāḥib","raʕiyyat","nāẓir","musāfir","muhājir","ṭaffal?","junāḥ","qaḥbat","wazīr","ḫarrāṭ","sāʔil","sarrāj","mālik","firʕawnu","ʕarab","ʕajam","jahūd","dars","maktab","ʔimtiḥān","ḥisāb","kitāb","juzʔ","jild","mujallad","ḫaṭṭ","nuqṭat","qiṣṣat","naql","ḥikāyat","riwāyat","ḥarf","ʕadad","šikl","ṣūrat","naqš","šāʕir","šiʕr","wazn","majmūʕ","maqām","naġmat","naẓm","laylat","ġazal","bayt","kalām","kalimat","maqālat","masʔalat","qalam","dawā","ʔalif","ʕilmiyy","ʕilm","muʕallim","sawād","ṣinf","ʕalīm","ʔaṯar","ʔadabiyyāt","tarjamat","maʕārif","maʕrifat","madaniyyat","maktūb","ṭalabat","mutaʕallim","jabr","ḥaqīqiyy","ḫāliṣ","ʔiḫlāṣ","yaqīn","bāṭil","majbūr","wājib","lāzim","ḍidd","ẓāhir","ḫāṣṣ","maḫṣūṣ","taʕalluq","ʔaṣlan","ʕibārat","ʕumūmiyy","ḥāḍir","ġāʔib","nādir","ġarīb","taʕjjub","ʕajīb","maʕlūm","mašhūr","mumkin","ʔiḥtimāl","naḥs","ʔawwalan","ziyāda","maḫtal","taḫmīnan","ʕiwaḍ","mudāʔim","ʔabadiyy","dāʔiman","dāʔim","taʕyīn","ʔasās","ʔaṣl","ʔahammu","juzʔiyy","faṣāḥat","ḥayrān","murakkab","tamām","kāmil","ʕilāwat","ʕumūman","ġayr","fulān","baʕḍ","milliy","kāsib","ḫuṣūṣiyy","maġlūb","takabbur","ʕārif","ʕawām","safīh","ġāfl","mašġūl","qāṭiʕ","qahramān","qadīm","qādir","sākit","sākin","ʔiṣlāḥ","māhir","maġlūs","mulāʔim","faṣīh","ʕadil","lāʔiq","muqāyat","tawākul","daġal","kāhil","fāsiq","fašil","qabīḥ","ḥaqīr","jawād","saḫāwat","ʔamīn","ḥalīm","muṭāwiʕ","tābiʕ","mašaqqa","muṭlaq","rāḍiy","ġāfūr","ʕaksiyy","kayfiyy","ʕašīr","ḏalīl","sāfil","ʔikrāmiyy","maġmūm","maḥrūm","salāmat","ʔašallu","ḍaʕīf","ʕājīz","makīn","bāliġ","jāhil","saqaṭ","jalīb","ṣāfin","fānī","rāḥat","muḥkam","taʕmīn","naqd","ʔaḫmaru","ḫalāṣ","mublaġ","kāfir","baṭānat","libās","ʕabāʔ","ʔaṭlasu","kattān","kamarī","kīse","ʕiṭr","jayb","ʔastār","ṣadaf","ḫilʔat","ḥāšiyat","silāḥ","ʔalat","ḫanjar","mizrāq","qame","muttakā","ḥalqat","raṭl","miṯqāl","ṣābūn","sufrat","miṯqab","miqrāḍ","muftūl","kursiyy","ṣundūq","ʕayn","ṣiniyyat","ṭabaq","minšār","ṣāʕ","kaylat","qubbat","ḫarṭ","mismār","šamʕ","qālab","ʕaṣān","naʕl","ʕarabat","qafas","nabātāt","šatl","mišmiš","šammāmat","tūt","funduq","qinnab","burtuqāl","ḫašḫāš","rayḥān","maḥṣūl","qāfilat","bulbul","ṭāwūs","laqlaq","fīl","maymūn","ḥimār","māl","ḫaṣiyy","ḥaywān","ʕaqrab","ḥašarat","sijf","ʕimārat","dārat","qanṭarat","martabat","maydān","ḥammām","qubbat","bināʔ","maʕdan","ḥawḍ","qalʕat","ḥujrat","dukkān","mazraʕa","rukn","ḥiyāt","markaz","xarāb","maḥallat","sūrsāt","šarbāt","rubb","murabbat","ḥalwāʔ","zaytūn","qahwat","tutun","marham","ʕaraqiyy","qand","nabāt","ḫamīr","luqmat","rizq","dawāʔ","zahr","zaqqum","ʕalaf","ʕarš","ṭūfān","hawāʔ","maġārat","nūr","falak","zalzalat","ʔalmās","jawāhir","qīr","mūm","laḥm","maġnaṭīs","ḥinnāʔ","marmar","jawhar","marjān","luʔluʔ","yāqūt","nafṭ","qāmat","badan","qadam","mayit","jannaz","ṣifat","ʔism","janāb","jasad","ḫurṭūm","kafal","ṣafrāʔu","āzār","maraḍ","waram","fālij","ṭāʕūn","wabāʔ","zukām","juḏām","balġam","nafas","najas","ʕamm","ḫālat","ʕammat","ḫāl","mīrāṯ","ʔaqāribu",null,"ʔammā","wa","yaʕnī","yā rabb","ḥatta","ʔalbatta","ʔassalām ʕalaykum","ʕalaykum ʔassalām","ʔāmīn","bārakallāh","bismillāh","wallāh","ʔinšāʔallāh","māšāʔallāh","zīnat","baṣārat","ḫifat","tašwīš","salīqat","ʕinād","taʕlīm","taḥwīl","naṣīḥat","ḥadīṯ","ḥusna","ẓarīf","baḫīl","ḥarīṣ","ʕazīz","mīl","zanbīl","šarāb","šurbat","jazirat"],["Бог","творец, создатель","конец света; воскресение мертвых, страшный суд","конец, загробный (потусторонний) мир, загробная жизнь","рай",null,"ангел","гурия (райская дева)","ангел смерти","ад, геенна","(злой) дух; джинн, бес, демон","черт, дьявол, сатана, шайтан",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"plural",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"жизнь; средства к жизни",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"plural",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"singular of ’awlād","plural of walad",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"singular of maˁrifa[t]","plural of maˁaarif",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"адское дерево (плодами которого будут питаться грешники)",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"скупой",null,null,null,null,null,null,null],[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],["бог, Аллах","творец, создатель","рел. воскресение","1. ж. от آخِرٌ последний, конечный; 2. конец, окончание; * ~ ال загробная жизнь","сад; ~ ال рай","коран. путь, дорога (ср. سِرَاطٌ)","ангел","гурия; нимфа","и. собств. м. Азраил (ангел смерти)","ад, преисподня, геенна;","собир.джинны, духи; демоны;","чёрт, сатана, дьявол; бес, демон;","дьявол, черт","1. хитрый (как чёрт); 2. 1) (злой) дух, демон, чёрт, бес; 2) чёртик (игрушка); 3) карт. старший козырь; 4) бесёнок (о мальчишке)","1. последний; конечный; 2. мн. конец; + 1) время, пора; эпоха; 2) сезон; 3) грам. время;","1) путь, образ действий, поведение; 2) религиозное учение, вероучение, толк; секта; 3) доктрина, идеология; теория; школа; направление;","1) покаяние; 2) исправление;","1) торжественное обещание, обет;  2) жертвуемая по обету вещь;","вера, религия;","грех, проступок, преступление;","вера (в бога بالله)","1) предание себя богу; покорность; принятие исламской веры, ислама. 2) ислам","1) дух;  2) душа; 3) дух, призрак;  4) жизнь; 5) спирт; настойка; эссенция;",null,"1) знак, метка;  2) признак; 3) марка;  4) значок; 5) отметка, балл",null,null,"чудо;","1) очарование; 2) чары, волшебство;","1.1) разрешенный, законный;  2) полный неотемлемый; 2. законное действие;","1. 1) запрещённый; 2) запретный; 3) священный; 4) незаконный; 2. грех;","1) видеть, смотреть, наблюдать; 2) рассматривать; 3) присматривать, наблюдать; 4) рассудить","законоположение, церковный закон; шариат;","1. принявший ислам; 2. мусульманин;","паломник, пилигрим; хаджи;","1. духовный; 2. духовное лицо",null,") последователь, ученик; 2) аспирант; 3) рел. последователь, ученик суфия (первая ступень у суфиев)",null,"1. воздержанный; набожный 2. мн. подвижник, аскет","1. 1) судящий; 2) решающий, окончательный; 3) приканчивающий; 2. мн.1) судья, кадий; 2) перен.деньги;","1) старик, старец; 2) член палаты шейхов, сенатор; 3) шейх, вождь, глава племени; 4) староста  5) духовный вождь;  6) учёный; 7) учитель, наставник;","1) руководитель, глава, вождь;2) имам; 3) отвес;","мулла",null,null,"1. вероломный, предательский; 2. предатель;","1. 1)  неблагодарный; 2) неверующий, нечестивый, неверный; 2. безбожник; гяур;","1) обожание, почитание; 2) служение, поклонение; культ;","призыв на молитву, намаз;","1) самый большой величайший, великий; 2) самый важный, важнейший 3) старший;","1) молитва; 2) мольба; благословение;","проповедение, поучение;",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1,null,null,null,null,null,null,null,null,2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>arabic<\/th>\n      <th>translit_source<\/th>\n      <th>translit<\/th>\n      <th>translat_source<\/th>\n      <th>en_dict<\/th>\n      <th>ru_dict<\/th>\n      <th>comment_concept<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"columnDefs":[{"className":"dt-right","targets":7},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true}},"evals":[],"jsHooks":[]}</script>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

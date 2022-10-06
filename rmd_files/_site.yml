@@ -1,12 +1,12 @@
-name: "APT -> DAG"
+name: "DAG <- APT"
 navbar:
-  title: "APT -> DAG"
+  title: "DAG <- APT"
   left:
     - text: "Home"
       href: index.html
     - text: "Database"
       href: database.html
-    - text: "Arabic concepts"
-      href: concepts.html
+    - text: "Arabic lexems"
+      href: arabic_lexems.html
     - text: "Sources"
       href: sources.html

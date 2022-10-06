@@ -1,5 +1,5 @@
 ---
-title: "Arabic Concepts"
+title: "Arabic Lexems"
 ---
 This page contains various concepts borrowed from Arabic into the languages of Daghestan
 ```{r echo = FALSE, results = 'asis', message=FALSE, warning=FALSE}
