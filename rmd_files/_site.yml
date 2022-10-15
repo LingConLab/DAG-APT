@@ -6,7 +6,7 @@ navbar:
       href: index.html
     - text: "Database"
       href: database.html
-    - text: "Arabic lexems"
-      href: arabic_lexems.html
+    - text: "Donor lexems"
+      href: donor_lexems.html
     - text: "Sources"
       href: sources.html

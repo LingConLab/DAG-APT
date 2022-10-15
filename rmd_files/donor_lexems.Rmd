@@ -6,7 +6,7 @@ This page contains various lexems borrowed from Arabic into the languages of Dag
 library(readr)
 library(DT)
 datatable(
-  data = read_tsv("dagapt_concepts.tsv")[,2:8],
+  data = read_tsv("dagapt_donor_lexems.tsv")[,2:8],
   caption = "Table shows various lexems borrowed from Arabic, Persian and Turkic languages into the languages of Daghestan",
   filter = "top"
 )
