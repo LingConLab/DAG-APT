@@ -1,12 +1,12 @@
-name: "DAG <- APT"
+name: "DAG < APT"
 navbar:
-  title: "DAG <- APT"
+  title: "DAG < APT"
   left:
     - text: "Home"
       href: index.html
     - text: "Database"
       href: database.html
-    - text: "Donor lexems"
+    - text: "Donor lexemes"
       href: donor_lexems.html
     - text: "Sources"
       href: sources.html

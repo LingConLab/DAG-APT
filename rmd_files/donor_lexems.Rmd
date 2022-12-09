@@ -1,13 +1,25 @@
 ---
-title: "Donor Lexems"
+title: "Donor Lexemes"
 ---
-This page contains various lexems borrowed from Arabic into the languages of Daghestan
+
+On this page you can browse the donor lexemes attested in the database so far. You can find more information in the original file. The column "Translation" provides the translation presented in the source. English and Russian dictionary translations are added for comparison.
+
+<br>
+
 ```{r echo = FALSE, results = 'asis', message=FALSE, warning=FALSE}
 library(readr)
 library(DT)
-datatable(
-  data = read_tsv("dagapt_donor_lexems.tsv")[,2:8],
-  caption = "Table shows various lexems borrowed from Arabic, Persian and Turkic languages into the languages of Daghestan",
-  filter = "top"
-)
+
+concepts <-  read_tsv("DAG-APT/data/concepts.csv")
+
+datatable(data = concepts[, c(2,4,5,12,6:8)],
+          filter = 'top',
+          colnames = c("Lexeme", "Transliteration", "Translation", "Language", "English Dict", "Russian Dict", "Comment"), 
+          extensions = 'Buttons', 
+            options = list(dom = 'fBltp',
+                           buttons = list(list(extend = 'collection',
+                                       buttons = c('csv', 'excel'),
+                                       text = 'Download'))
+                           ))
+
 ```
