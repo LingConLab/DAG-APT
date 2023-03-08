@@ -1,9 +1,8 @@
 ---
 title: "Sources"
 ---
-Here is the literature used for the project
 ```{r echo = FALSE, results = 'asis', message=FALSE, warning=FALSE}
 library(knitr)
 library(readr)
-kable(read_tsv("sources.tsv")[,1:8], caption = "Sources")
+kable(read_csv("/DAG-APT/data/sources.csv")[,1:8])
 ```
