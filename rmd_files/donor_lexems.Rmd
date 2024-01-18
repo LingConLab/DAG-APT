@@ -10,11 +10,11 @@ On this page you can browse the donor lexemes attested in the database so far. Y
 library(readr)
 library(DT)
 
-concepts <-  read_tsv("DAG-APT/data/concepts.csv")
+concepts <-  read_tsv("D:/GitHub/DAG-APT/data/dagapt_donor_lexems.tsv")
 
-datatable(data = concepts[, c(2,4,5,12,6:8)],
+datatable(data = concepts[, c(2,3,4,5,6,14, 12)],
           filter = 'top',
-          colnames = c("Lexeme", "Transliteration", "Translation", "Language", "English Dict", "Russian Dict", "Comment"), 
+          colnames = c("Lexeme", "Transliteration", "English_translation", "Russian_translation", "POS", "Language", "Comment"),
           extensions = 'Buttons', 
             options = list(dom = 'fBltp',
                            buttons = list(list(extend = 'collection',
