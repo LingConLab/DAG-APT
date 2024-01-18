@@ -1,0 +1,1427 @@
+concept_id	lexeme	translit	en_dict	ru_dict	POS	lexeme_source	translit_source	translat_source	comment_lexeme	comment_lexeme_source	comment_annotator	source_lexeme	donor_lang	donor_lang_gltc
+1	الله	ˀallāh		бог, Аллах		الله	ˀallau	Бог				zabitov2001	Arabic	stan1318
+2	خالق	ḫāliq		творец, создатель		خالق	xâliq	творец, создатель				zabitov2001	Arabic	stan1318
+3	قيامة‎	qiyāmat		рел. воскресение		قيامة‎	qijāma[t]	конец света; воскресение мертвых, страшный суд		Об осетинском слове с кавказскими параллелями см. [Абаев 1973: 256].		zabitov2001	Arabic	stan1318
+4	آخرة	ʔāḫirat		1. ж. от آخِرٌ последний, конечный; 2. конец, окончание; * ~ ال загробная жизнь		آخرة	ˀaxira[t]	конец, загробный (потусторонний) мир, загробная жизнь		Слово представлено и в абхазско-адыгских языках: адыгск. ахърэт абх. ахъарат абаз. ахърат убых. ахьрет 'загробный мир' [см. Шагиров 1977 I: 65].		zabitov2001	Arabic	stan1318
+5	جنّة	jannat		сад; ~ ال рай		جنّة	ǯanna[t]	рай		Распространено в языках Северного Кавказа [Шагиров 1977 I: 194].		zabitov2001	Arabic	stan1318
+6	صراط	ṣirāṭ		коран. путь, дорога (ср. سِرَاطٌ)		صراط	ṣirāṭ			Об осетинском см. [Абаев 1958: 411]		zabitov2001	Arabic	stan1318
+7	ملك/ ملائکة	malak / malāʔikat		ангел		ملك/ ملائکة	malak (sg.) / malaˀika[t] (pl.)	ангел		Ср. адыг. мэлыІыч, мэлэІич, абх. а-маалыкь, абаз. мальаик, убых. малаик [Шагиров 1977 I: 265]. Об осетинском см. [Абаев 1973: 88].		zabitov2001	Arabic	stan1318
+8	حُورِيَّةٌ	ḥūriyyat		гурия; нимфа		حُورِيَّةٌ	ḥûriyya	гурия (райская дева)				zabitov2001	Arabic	stan1318
+9	عزرائِيل	ʕazrāʔīl		и. собств. м. Азраил (ангел смерти)		عزرائِيل	ˁazrāˀīl	ангел смерти				zabitov2001	Arabic	stan1318
+10	جهنّم	jahannam		ад, преисподня, геенна;		جهنّم	ǯahannam	ад, геенна				zabitov2001	Arabic	stan1318
+11	جنّ	jinn		собир.джинны, духи; демоны;		جنّ	ǯinn	(злой) дух; джинн, бес, демон				zabitov2001	Arabic	stan1318
+12	شیطان	šayṭān		чёрт, сатана, дьявол; бес, демон;		شیطان	šajt*aan	черт, дьявол, сатана, шайтан		В других языках Кавказа см. [Абаев 1979: 23].		zabitov2001	Arabic	stan1318
+13	إبلس	ʔiblis		дьявол, черт		إبلس	ˀiblisu			Распространено в языках Северного Кавказа [Абаев 1958: 539; Шагиров 1977 II: 159].		zabitov2001	Arabic	stan1318
+14	عفریت	ʕifrīt		1. хитрый (как чёрт); 2. 1) (злой) дух, демон, чёрт, бес; 2) чёртик (игрушка); 3) карт. старший козырь; 4) бесёнок (о мальчишке)		عفریت	‘ifriit					zabitov2001	Arabic	stan1318
+15	آخر + زمن || زمان	ʔāḫir + zaman || zamān		1. последний; конечный; 2. мн. конец; + 1) время, пора; эпоха; 2) сезон; 3) грам. время;		آخر + زمن || زمان	ˀaxir + zaman / zamān					zabitov2001	Arabic	stan1318
+16	مذهب	maḏhab		1) путь, образ действий, поведение; 2) религиозное учение, вероучение, толк; секта; 3) доктрина, идеология; теория; школа; направление;		مذهب	maẕhab					zabitov2001	Arabic	stan1318
+17	توبة	tawbat		1) покаяние; 2) исправление;		توبة	tawba					zabitov2001	Arabic	stan1318
+18	نذر	naḏr		1) торжественное обещание, обет;  2) жертвуемая по обету вещь;		نذر	naẕr					zabitov2001	Arabic	stan1318
+19	دين	dīn		вера, религия;		دين	dīn			В арабском языке слово усвоено из персидского, восходящего к иран. *daina- [см. Абаев 1958: 363; Шагриров 1977 I: 150-151];		zabitov2001	Arabic	stan1318
+20	جناح	junāḥ		грех, проступок, преступление;		جناح	ǯunāḥ					zabitov2001	Arabic	stan1318
+21	إیمان	ʔīmān		вера (в бога بالله)		إیمان	ˀīmān					zabitov2001	Arabic	stan1318
+22	إسلام	ʔislām		1) предание себя богу; покорность; принятие исламской веры, ислама. 2) ислам		إسلام	ˀislām					zabitov2001	Arabic	stan1318
+23	روح	rūḥ		1) дух;  2) душа; 3) дух, призрак;  4) жизнь; 5) спирт; настойка; эссенция;		روح	rūḥ					zabitov2001	Arabic	stan1318
+24	ثواب	ṯawāb				ثواب	sawāb				В тексте Забитова ошибка: ثبواب	zabitov2001	Arabic	stan1318
+25	علامة	ʕalāmat		1) знак, метка;  2) признак; 3) марка;  4) значок; 5) отметка, балл		علامة	ˁalāma[t]			О распространении слова в языках Кавказа см. [Абаев 1958: 45].		zabitov2001	Arabic	stan1318
+26	عمارة	ʕimārat				عمارة	ˁimāra[t]					zabitov2001	Arabic	stan1318
+27	فأل	faʔl				فأل	faˀl					zabitov2001	Arabic	stan1318
+28	مجدة	majdat		чудо;		مجدة	maǯda[t]					zabitov2001	Arabic	stan1318
+29	سحر	siḥr		1) очарование; 2) чары, волшебство;		سحر	siḥr					zabitov2001	Arabic	stan1318
+30	حلال	ḥalāl		1.1) разрешенный, законный;  2) полный неотемлемый; 2. законное действие;		حلال	ḥalāl					zabitov2001	Arabic	stan1318
+31	حرام	ḥarām		1. 1) запрещённый; 2) запретный; 3) священный; 4) незаконный; 2. грех;		حرام	ḥarām			Как и в предыдущем случае слово “вошло в тюркские языки а также в языки Кавказа” [Абаев 1989: 175].		zabitov2001	Arabic	stan1318
+32	نظر	naẓar		1) видеть, смотреть, наблюдать; 2) рассматривать; 3) присматривать, наблюдать; 4) рассудить		نظر	naẓar					zabitov2001	Arabic	stan1318
+33	شریعة	šarīʕat		законоположение, церковный закон; шариат;		شریعة	š arī‘a[t]					zabitov2001	Arabic	stan1318
+34	مسلم	muslim		1. принявший ислам; 2. мусульманин;		مسلم	muslim			Об абхазско-адыгских языках см. [Шагиров 1977 I: 270]. Об осетинском слове с кавказскими параллелями см. [Абаев 1973: 247].		zabitov2001	Arabic	stan1318
+35	حاجّ	ḥājj		паломник, пилигрим; хаджи;		حاجّ	ḥāǯǯ			Лексема получила распространение “по всему мусульманскому миру” [Абаев 1989: 132].		zabitov2001	Arabic	stan1318
+36	روحانی	rūḥāniyy		1. духовный; 2. духовное лицо		روحانی	rūḥānijj				В арабском словаре вариант روحانيّ	zabitov2001	Arabic	stan1318
+37	مؤمن	muʔmin				مؤمن	muˀmin					zabitov2001	Arabic	stan1318
+38	مرید	murīd		) последователь, ученик; 2) аспирант; 3) рел. последователь, ученик суфия (первая ступень у суфиев)		مرید	murīd					zabitov2001	Arabic	stan1318
+39	عابد	ʕābid				عابد	ˁābid					zabitov2001	Arabic	stan1318
+40	زاهد	zāhid		1. воздержанный; набожный 2. мн. подвижник, аскет		زاهد	zāhid					zabitov2001	Arabic	stan1318
+41	قاض	qāḍi		1. 1) судящий; 2) решающий, окончательный; 3) приканчивающий; 2. мн.1) судья, кадий; 2) перен.деньги;		قاض	qāḍi					zabitov2001	Arabic	stan1318
+42	شیخ	šayḫ		1) старик, старец; 2) член палаты шейхов, сенатор; 3) шейх, вождь, глава племени; 4) староста  5) духовный вождь;  6) учёный; 7) учитель, наставник;		شیخ	šajx					zabitov2001	Arabic	stan1318
+43	امام	ʔimām		1) руководитель, глава, вождь;2) имам; 3) отвес;		امام	’imām					zabitov2001	Arabic	stan1318
+44	ملا	mullā		мулла		ملا	mullā			Слово отмечается “повсюду в кавказских языках” [Абаев 1973: 128; также Шагиров 1977 I: 269].		zabitov2001	Arabic	stan1318
+45	فقیه	faqīh				فقیه	faqīh					zabitov2001	Arabic	stan1318
+46	مجاور	mujāwir				مجاور	muǯāwir					zabitov2001	Arabic	stan1318
+47	حاسد	ḥāsid		1. вероломный, предательский; 2. предатель;		حاسد	ḥāsid					zabitov2001	Arabic	stan1318
+48	کافر	kāfir		1. 1)  неблагодарный; 2) неверующий, нечестивый, неверный; 2. безбожник; гяур;		کافر	kāfir					zabitov2001	Arabic	stan1318
+49	عبادة	ʕibādat		1) обожание, почитание; 2) служение, поклонение; культ;		عبادة	ˁibāda[t]					zabitov2001	Arabic	stan1318
+50	أذان	ʔaḏān		призыв на молитву, намаз;		أذان	ˀaẕān			Как пишет А. К. Шагиров [1977 I: 58], адыгск. азэн/азан 'призыв к молитве (провозгла­шаемый духовным лицом)'		zabitov2001	Arabic	stan1318
+51	أکبر	ʔakbar		1) самый большой величайший, великий; 2) самый важный, важнейший 3) старший;		أکبر	ˀakbar			Сокращение словосочетания ˀallau ˀakbar ‘Аллах велик!’.		zabitov2001	Arabic	stan1318
+52	صلاة	ṣalāt		1) молитва; 2) мольба; благословение;		صلاة	ṣalāt					zabitov2001	Arabic	stan1318
+53	وعظ	waʕẓ		проповедение, поучение;		وعظ	waˁẓ				В версии Забитова: وعظّ	zabitov2001	Arabic	stan1318
+54	زکاة	zakāt				زکاة	zakā[t]					zabitov2001	Arabic	stan1318
+55	سجدة	sajdat				سجدة	saǯda[t]					zabitov2001	Arabic	stan1318
+56	جنازة	janāzat				جنازة	ǯanaza[t]					zabitov2001	Arabic	stan1318
+57	إحسان	ʔiḥsān				إحسان	ˀiḥsān					zabitov2001	Arabic	stan1318
+58	حجّ	ḥajj				حجّ	ḥaǯǯ					zabitov2001	Arabic	stan1318
+59	سنّة	sunnat				سنّة	sunna[t]					zabitov2001	Arabic	stan1318
+60	ذکر	ḏikr				ذکر	ẕikr					zabitov2001	Arabic	stan1318
+61	دعاء	duʕāʔ				دعاء	duˁāˀ			Слово отмечено и в других языках Кавказа [см. Абаев 1958: 371; Шагиров 1977 I: 152].		zabitov2001	Arabic	stan1318
+62	صلوة	ṣalawat				صلوة	ṣalawa					zabitov2001	Arabic	stan1318
+63	إکرام	ʔikrām				إکرام	ˀikrām				У Забитова: اکرام	zabitov2001	Arabic	stan1318
+64	تعزّی / تعزیة	taʕazzi / taʕziyat				تعزّی / تعزیة	taˁazzi / ta‘aziya					zabitov2001	Arabic	stan1318
+65	منارة	minārat				منارة	mināra					zabitov2001	Arabic	stan1318
+66	مسجد	masjid				مسجد	masǯid					zabitov2001	Arabic	stan1318
+67	محراب	miḥrāb				محراب	miḥrāb					zabitov2001	Arabic	stan1318
+68	کنیسة	kanīsat				کنیسة	kanīsa[t]					zabitov2001	Arabic	stan1318
+69	غزوة	ġazwat / ġazawāt				غزوة	ğazwa[t] (sg.) / ğazawā[t] (pl.)			Слово отмечено и в осетинском, причем “в осетинский вошло вероятно не непосредственно из арабского, а от соседей мусульман” [Абаев 1973: 275-276].		zabitov2001	Arabic	stan1318
+70	فطرة	fiṭrat				فطرة	fiṭra[t]					zabitov2001	Arabic	stan1318
+71	زیارة	ziyārat				زیارة	zijāra[t]					zabitov2001	Arabic	stan1318
+72	کعبة	kaʕbat				کعبة	kaˁba[t]			Об осетинском слове см. [Абаев 1958: 564].		zabitov2001	Arabic	stan1318
+73	قربان	qurbān				قربان	qurbān					zabitov2001	Arabic	stan1318
+74	یأس	yaʔs				یأس	jaˀs					zabitov2001	Arabic	stan1318
+75	مولد	mawlid				مولد	mawlid					zabitov2001	Arabic	stan1318
+76	مدرسة	madrasat				مدرسة	madrasa[t]					zabitov2001	Arabic	stan1318
+77	طلاق	ṭalāq				طلاق	ṭalāq					zabitov2001	Arabic	stan1318
+78	نکاح	nikāḥ				نکاح	nikaḥ					zabitov2001	Arabic	stan1318
+79	مهر	mahr				مهر	mahr					zabitov2001	Arabic	stan1318
+80	صدقة	ṣadaqat				صدقة	ṣadaqa[t]					zabitov2001	Arabic	stan1318
+81	نفع	nafʕ				نفع	nafˁ					zabitov2001	Arabic	stan1318
+82	قرآن	qurʔān				قرآن	qurˀān					zabitov2001	Arabic	stan1318
+83	آیة	āyat				آیة	āja[t]			В литературе встречаются попытки возводить это слово к тюрк. айт- ‘говорить, сообщать, передать, высказать’ [Арсамаков 2001: 58].		zabitov2001	Arabic	stan1318
+84	فاتحة	fātiḥat				فاتحة	fātiḥa[t]					zabitov2001	Arabic	stan1318
+85	یاسین	yāsīn				یاسین	jāsin					zabitov2001	Arabic	stan1318
+86	قله	qulhu				قله	qulhu					zabitov2001	Arabic	stan1318
+87	توراة	tawrāt				توراة	tawrā[t]					zabitov2001	Arabic	stan1318
+88	انجیل	ʔinjīl				انجیل	ˀinǯīl					zabitov2001	Arabic	stan1318
+89	سبب	sabab				سبب	sabab		1			zabitov2001	Arabic	stan1318
+90	زبور	zabūr				زبور	zabūr					zabitov2001	Arabic	stan1318
+91	طلسم	ṭilasm				طلسم	ṭilāsm				В транскрипции Забитова ā вместо a	zabitov2001	Arabic	stan1318
+92	کفن	kafan				کفن	kafan				В тексте Забитова: کفنِ	zabitov2001	Arabic	stan1318
+93	محفي	miḥffiy				محفي	miḥffij				Не вижу в словаре такого слова	zabitov2001	Arabic	stan1318
+94	تابوت	tābūt				تابوت	tābūt			Слово отмечено и в других языках Кавказа [см. Абаев 1979: 218].		zabitov2001	Arabic	stan1318
+95	سبحة	subḥat				سبحة	subḥa[t]					zabitov2001	Arabic	stan1318
+96	تسبیح	tasbīḥ				تسبیح	tasbīḥ					zabitov2001	Arabic	stan1318
+97	جنس	jins				جنس	ǯins					zabitov2001	Arabic	stan1318
+98	سبب	sabab				سبب	sabab		2			zabitov2001	Arabic	stan1318
+99	تفاوت	tafāwut				تفاوت	tafāwut					zabitov2001	Arabic	stan1318
+100	فرق	farq				فرق	farq					zabitov2001	Arabic	stan1318
+101	جمع	jamʕ				جمع	ǯamˁ					zabitov2001	Arabic	stan1318
+102	نقصان	nuqṣān				نقصان	nuqṣān					zabitov2001	Arabic	stan1318
+103	ذرّة	ḏarrat				ذرّة	ẕarra[t]					zabitov2001	Arabic	stan1318
+104	أنبار	ʔanbār				أنبار	ˀanbār					zabitov2001	Arabic	stan1318
+105	طبیعة	ṭabiʕat				طبیعة	ṭabi‘a					zabitov2001	Arabic	stan1318
+106	نعمة	niʕmat				نعمة	niˁma[t]					zabitov2001	Arabic	stan1318
+107	حادثة	ḥādiṯat				حادثة	ḥādiṯa[t]					zabitov2001	Arabic	stan1318
+108	واقعة	wāqiʕat				واقعة	wāqi‘a					zabitov2001	Arabic	stan1318
+109	مجری	majra				مجری	maǯra					zabitov2001	Arabic	stan1318
+110	شیء	šayʔ				شیء	šajˀ					zabitov2001	Arabic	stan1318
+111	طرف	ṭaraf				طرف	ṭaraf					zabitov2001	Arabic	stan1318
+112	ذات	ḏāt				ذات	ẕāt					zabitov2001	Arabic	stan1318
+113	خسارة	ḫasārat				خسارة	ḫasāra[t]					zabitov2001	Arabic	stan1318
+114	منزل	manzil				منزل	manzil					zabitov2001	Arabic	stan1318
+115	حال	ḥāl				حال	ḥāl					zabitov2001	Arabic	stan1318
+116	احوال	ʔaḥwāl				احوال	ˀaḥwāl					zabitov2001	Arabic	stan1318
+117	احوالات	ʔaḥwālāt				احوالات	ˀaḥwālāt	plural				zabitov2001	Arabic	stan1318
+118	دنیا	dunyā				دنیا	dunjā					zabitov2001	Arabic	stan1318
+119	عالم	ʕālam				عالم	‘ālam					zabitov2001	Arabic	stan1318
+120	تبدیل	tabdīl				تبدیل	tabdīl					zabitov2001	Arabic	stan1318
+121	بدل	badal				بدل	badal					zabitov2001	Arabic	stan1318
+122	ظلمة	ẓulmat				ظلمة	ẓulma[t]					zabitov2001	Arabic	stan1318
+123	هیبة	haybat				هیبة	hajba[t]					zabitov2001	Arabic	stan1318
+124	برکة	barakat				برکة	baraka[t]			Слово имеется в абхазско-адыгских [см. Шагиров 1977 I: 77] и других языках Северного Кавказа [см. Абаев 1958: 253].		zabitov2001	Arabic	stan1318
+125	دلیل	dalīl				دلیل	dalīl					zabitov2001	Arabic	stan1318
+126	ثبوت	ṯubūt				ثبوت	subūt					zabitov2001	Arabic	stan1318
+127	إثبات	ʔiṯbāt				إثبات	isbāt					zabitov2001	Arabic	stan1318
+128	تصدیق	taṣdīq				تصدیق	taṣdīq					zabitov2001	Arabic	stan1318
+129	نوبة	nawbat				نوبة	nawba[t]					zabitov2001	Arabic	stan1318
+130	مکان	makān				مکان	makān					zabitov2001	Arabic	stan1318
+131	نشان	nišān				نشان	nišān			В качестве первоисточника предполагается персидский язык [см. Абаев 1973: 209]		zabitov2001	Arabic	stan1318
+132	قدر	qadar				قدر	qadar					zabitov2001	Arabic	stan1318
+133	قالب	qālib				قالب	qālib				У Забитова лишняя и в арабской графике: قالیب	zabitov2001	Arabic	stan1318
+134	قدر	qadr				قدر	qadr					zabitov2001	Arabic	stan1318
+135	نصیب	naṣīb				نصیب	naṣīb					zabitov2001	Arabic	stan1318
+136	نتیجة	natījat				نتیجة	natīǯa					zabitov2001	Arabic	stan1318
+137	صدور	šudūr				صدور	ṣudûr					zabitov2001	Arabic	stan1318
+138	مقدار	miqdār				مقدار	miqdār					zabitov2001	Arabic	stan1318
+139	سیاحة	siyāḥat				سیاحة	siyāḥa					zabitov2001	Arabic	stan1318
+140	سفر	safar				سفر	safar					zabitov2001	Arabic	stan1318
+141	سیر	sayr				سیر	sajr					zabitov2001	Arabic	stan1318
+142	زحمة	zaḥmat				زحمة	zaḥma[t]					zabitov2001	Arabic	stan1318
+143	نظام	niẓām				نظام	niẓām					zabitov2001	Arabic	stan1318
+144	ترتیب	tartīb				ترتیب	tartīb					zabitov2001	Arabic	stan1318
+145	جفاء	jafāʔ				جفاء	ǯafā‘					zabitov2001	Arabic	stan1318
+146	قال	qāl				قال	qāl					zabitov2001	Arabic	stan1318
+147	قال مقال	qālmaqāl				قال مقال	qālmaqāl					zabitov2001	Arabic	stan1318
+148	اشارة	ʔišārat				اشارة	’iš āra					zabitov2001	Arabic	stan1318
+149	عبرة	ʕibrat				عبرة	ˁibra[t]					zabitov2001	Arabic	stan1318
+150	قانون	qānūn				قانون	qaanûn					zabitov2001	Arabic	stan1318
+151	عادة	ʕādat				عادة	ˁāda[t]					zabitov2001	Arabic	stan1318
+152	قاعدة	qaʕidat				قاعدة	qāˁida[t]					zabitov2001	Arabic	stan1318
+153	غلط	ġalaṭ				غلط	ğalaṭ					zabitov2001	Arabic	stan1318
+154	خطاء	ḫaṭāʔ				خطاء	xaṭāˀ					zabitov2001	Arabic	stan1318
+155	قطع	qaṭʕ				قطع	qaṭˁ					zabitov2001	Arabic	stan1318
+156	جهة	jihat				جهة	ǯiha[t]					zabitov2001	Arabic	stan1318
+157	شرط	šarṭ				شرط	šarṭ					zabitov2001	Arabic	stan1318
+158	ولولة	walwalat				ولولة	walwala					zabitov2001	Arabic	stan1318
+159	علاقة	ʕalāqat				علاقة	ˁalāqa[t]					zabitov2001	Arabic	stan1318
+160	ضرب	ḍarb				ضرب	ḍarb					zabitov2001	Arabic	stan1318
+161	معنی	maʕna				معنی	ma‘na					zabitov2001	Arabic	stan1318
+162	تلف	talaf				تلف	talaf					zabitov2001	Arabic	stan1318
+163	تأخیر	taʔḫīr				تأخیر	ta’xīr					zabitov2001	Arabic	stan1318
+164	منع	manʕ				منع	manˁ					zabitov2001	Arabic	stan1318
+165	علاج	ʕilāj				علاج	ˁilāǯ					zabitov2001	Arabic	stan1318
+166	حرارة	ḥarārat				حرارة	ḥarāra[t]					zabitov2001	Arabic	stan1318
+167	زحم	zaḥm				زحم	zaḥm					zabitov2001	Arabic	stan1318
+168	مشرب	mašrab				مشرب	mašrab					zabitov2001	Arabic	stan1318
+169	منظرة	manẓarat				منظرة	manẓara[t]					zabitov2001	Arabic	stan1318
+170	تأثیر	taʔṯīr				تأثیر	ta’sīr					zabitov2001	Arabic	stan1318
+171	طاقة	ṭāqat				طاقة	ṭāqa[t]					zabitov2001	Arabic	stan1318
+172	تشبیه	tašbīh				تشبیه	tašbîh					zabitov2001	Arabic	stan1318
+173	إمکان	ʔimkān				إمکان	imkān					zabitov2001	Arabic	stan1318
+174	قوة	quwat				قوة	quwa[t]					zabitov2001	Arabic	stan1318
+175	قدرة	qudrat				قدرة	qudra[t]					zabitov2001	Arabic	stan1318
+176	امان	ʔamān				امان	’amān					zabitov2001	Arabic	stan1318
+177	کثیر	kaṯīr				کثیر	kasīr					zabitov2001	Arabic	stan1318
+178	نفوذ	nufūḏ				نفوذ	nufûẕ					zabitov2001	Arabic	stan1318
+179	إنکار	ʔinkār				إنکار	inkār					zabitov2001	Arabic	stan1318
+180	تجربة	tajribat				تجربة	taǯriba					zabitov2001	Arabic	stan1318
+181	خلوة	ḫalwat				خلوة	xalwa[t]					zabitov2001	Arabic	stan1318
+182	سر	sirr				سر	sirr					zabitov2001	Arabic	stan1318
+183	شرق	šarq				شرق	šarq					zabitov2001	Arabic	stan1318
+184	مشرق	mašriq				مشرق	mašriq					zabitov2001	Arabic	stan1318
+185	قبلة	qiblat				قبلة	qibla					zabitov2001	Arabic	stan1318
+186	مغرب	maġrib				مغرب	mağrib					zabitov2001	Arabic	stan1318
+187	زبل	zibl				زبل	zibl					zabitov2001	Arabic	stan1318
+188	مراد	murād				مراد	murād					zabitov2001	Arabic	stan1318
+189	حسرة	ḥasrat				حسرة	ḥasra[t]					zabitov2001	Arabic	stan1318
+190	مطلب	maṭlab				مطلب	maṭlab					zabitov2001	Arabic	stan1318
+191	مقصد	maqṣad				مقصد	maqṣad					zabitov2001	Arabic	stan1318
+192	قصد	qaṣd				قصد	qaṣd					zabitov2001	Arabic	stan1318
+193	غرض	ġaraḍ				غرض	ğaraḍ					zabitov2001	Arabic	stan1318
+194	نیة	niyyat				نیة	niyya					zabitov2001	Arabic	stan1318
+195	إشتهاء	ʔištihāʔ				إشتهاء	ištihāˀ					zabitov2001	Arabic	stan1318
+196	طعم	ṭaʕm				طعم	ṭaˁm					zabitov2001	Arabic	stan1318
+197	طمع	ṭamaʕ				طمع	ṭamaˁ					zabitov2001	Arabic	stan1318
+198	محبّة	maḥabbat				محبّة	maḥabba					zabitov2001	Arabic	stan1318
+199	عشق	ʕišq				عشق	ˁišq					zabitov2001	Arabic	stan1318
+200	اکراه	ʔikrāh				اکراه	ˀikrāh					zabitov2001	Arabic	stan1318
+201	نفرة	nafrat				نفرة	nafra[t]					zabitov2001	Arabic	stan1318
+202	ذهلة	ḏahlat				ذهلة	ẕahla[t]					zabitov2001	Arabic	stan1318
+203	عقل	ʕaql				عقل	ˁaql					zabitov2001	Arabic	stan1318
+204	فهم	fahm				فهم	fahm					zabitov2001	Arabic	stan1318
+205	ذهن	ḏihn				ذهن	ẕihn					zabitov2001	Arabic	stan1318
+206	بصیر	baṣīr				بصیر	baṣīr					zabitov2001	Arabic	stan1318
+207	حوالات	ḥuwālāt				حوالات	ḥuwālāt					zabitov2001	Arabic	stan1318
+208	جذب	jazb				جذب	ǯazb					zabitov2001	Arabic	stan1318
+209	عیف	ʕayf				عیف	ˁajf					zabitov2001	Arabic	stan1318
+210	میل	mayl				میل	majl					zabitov2001	Arabic	stan1318
+211	جمال	jamāl				جمال	ǯamāl					zabitov2001	Arabic	stan1318
+212	کمال	kamāl				کمال	kamāl					zabitov2001	Arabic	stan1318
+213	حس	ḥiss				حس	ḥiss					zabitov2001	Arabic	stan1318
+214	إلهام	ʔilhām				إلهام	’ilhām					zabitov2001	Arabic	stan1318
+215	إشتراک	ʔištirāk				إشتراک	’ištir āk					zabitov2001	Arabic	stan1318
+216	عیان	ʕayān				عیان	‘ayān					zabitov2001	Arabic	stan1318
+217	خجلة	ḫajlat				خجلة	xaǯla[t]					zabitov2001	Arabic	stan1318
+218	غام	ġām				غام	ğam					zabitov2001	Arabic	stan1318
+219	هجران	hijrān				هجران	hiǯrān					zabitov2001	Arabic	stan1318
+220	معني	maʕnay				معني	maˁnaj					zabitov2001	Arabic	stan1318
+221	غضب	ġaḍab				غضب	ğaḍab					zabitov2001	Arabic	stan1318
+222	حرص	ḥirṣ				حرص	ḥirṣ					zabitov2001	Arabic	stan1318
+223	عمر	ʕumr				عمر	ˁumr					zabitov2001	Arabic	stan1318
+224	اجل	ʔajal				اجل	’aǯal					zabitov2001	Arabic	stan1318
+225	وفاة	wafāt				وفاة	wafā[t]					zabitov2001	Arabic	stan1318
+226	مشغلة	mašġalat				مشغلة	mašğala[t]					zabitov2001	Arabic	stan1318
+227	خیال	ḫiyāl				خیال	xijāl					zabitov2001	Arabic	stan1318
+228	شغل	šuġl				شغل	šuğl					zabitov2001	Arabic	stan1318
+229	سعی	saʕy				سعی	sa‘y					zabitov2001	Arabic	stan1318
+230	دقة	diqqat				دقة	diqqa[t]					zabitov2001	Arabic	stan1318
+231	غلبة	ġalabat				غلبة	ğalaba					zabitov2001	Arabic	stan1318
+232	فکر	fikr				فکر	fikr					zabitov2001	Arabic	stan1318
+233	إحتیاط	iḥtiyāṭ				إحتیاط	iḥtijāṭ					zabitov2001	Arabic	stan1318
+234	فراغة	farāġat				فراغة	farāğa			Слово вошло, по В. И. Абаеву [1973: 237], во многие языки Кавказа, причем для осетинского в силу начального р- предполагается тюркское посредство.		zabitov2001	Arabic	stan1318
+235	کیفیّة	kayfiyyat				کیفیّة	kayfijja					zabitov2001	Arabic	stan1318
+236	کیف	kayf				کیف	kajf					zabitov2001	Arabic	stan1318
+237	کفایة	kifāyat				کفایة	kifāja					zabitov2001	Arabic	stan1318
+238	حظّ	ḥaẓẓ				حظّ	ḥaẓẓ					zabitov2001	Arabic	stan1318
+239	صفاء	ṣafāʔ				صفاء	ṣafāˀ					zabitov2001	Arabic	stan1318
+240	لذّة	laḏḏat				لذّة	laẕẕa[t]					zabitov2001	Arabic	stan1318
+241	طالع	ṭāliʕ				طالع	ṭāliˁ					zabitov2001	Arabic	stan1318
+242	إقبال	ʔiqbāl				إقبال	iqbāl					zabitov2001	Arabic	stan1318
+243	اذیّة	ʔaḏiyyat				اذیّة	ˀaẕiyya[t]					zabitov2001	Arabic	stan1318
+244	عذاب	ʕaḏāb				عذاب	ˁaẕāb					zabitov2001	Arabic	stan1318
+245	هلاک	halāk				هلاک	halāk					zabitov2001	Arabic	stan1318
+246	حرکة	ḥarakat				حرکة	ḥaraka[t]					zabitov2001	Arabic	stan1318
+247	کرامة	karāmat				کرامة	karāma					zabitov2001	Arabic	stan1318
+248	حقیقة	ḥaqīqat				حقیقة	ḥaqīqa[t]					zabitov2001	Arabic	stan1318
+249	حق	ḥaqq				حق	ḥaqq					zabitov2001	Arabic	stan1318
+250	خلاف	ḫilāf				خلاف	xilāf					zabitov2001	Arabic	stan1318
+251	شکّ	šakk				شکّ	šakk					zabitov2001	Arabic	stan1318
+252	وسواس	waswās				وسواس	waswās					zabitov2001	Arabic	stan1318
+253	خاصیّة	ḫāṣiyyat				خاصیّة	xāṣija[t]					zabitov2001	Arabic	stan1318
+254	آخر	āḫir				آخر	āxir					zabitov2001	Arabic	stan1318
+255	قسمة	qismat				قسمة	qisma[t]					zabitov2001	Arabic	stan1318
+256	نسل	nasl				نسل	nasl					zabitov2001	Arabic	stan1318
+257	زوال	zawāl				زوال	zawāl					zabitov2001	Arabic	stan1318
+258	بلاء	balāʔ				بلاء	balā‘					zabitov2001	Arabic	stan1318
+259	شرة	širrat				شرة	širra					zabitov2001	Arabic	stan1318
+260	نکبة	nakbat				نکبة	nakba					zabitov2001	Arabic	stan1318
+261	مصیبة	muṣībat				مصیبة	muṣība					zabitov2001	Arabic	stan1318
+262	قضاء	qaḍāʔ				قضاء	qaḍā‘					zabitov2001	Arabic	stan1318
+263	ضرر	ḍarar				ضرر	ḍarar					zabitov2001	Arabic	stan1318
+264	وقت	waqt				وقت	waqt					zabitov2001	Arabic	stan1318
+265	وعدة	waʕdat				وعدة	waˁda[t]					zabitov2001	Arabic	stan1318
+266	ایّام	ʔayyām				ایّام	’ayyām					zabitov2001	Arabic	stan1318
+267	مدّة	muddat				مدّة	mudda[t]					zabitov2001	Arabic	stan1318
+268	دوران	dawrān				دوران	dawrān					zabitov2001	Arabic	stan1318
+269	لحضة	laḥaẓat				لحضة	laḥaẓa					zabitov2001	Arabic	stan1318
+270	زمن || زمان	zaman / zamān				زمن || زمان	zaman / zamān					zabitov2001	Arabic	stan1318
+271	عصر	ʕaṣr				عصر	ˁaṣr					zabitov2001	Arabic	stan1318
+272	دور	dawr				دور	dawr					zabitov2001	Arabic	stan1318
+273	فرصة	furṣat				فرصة	furṣa[t]					zabitov2001	Arabic	stan1318
+274	تاریخ	tārīḫ				تاریخ	tārīx					zabitov2001	Arabic	stan1318
+275	ابدیة	ʔabadiyat				ابدیة	ˀabadiya[t]					zabitov2001	Arabic	stan1318
+276	ساعة	sāʕat				ساعة	sāˁa[t]					zabitov2001	Arabic	stan1318
+277	مجال	majāl				مجال	maǯāl					zabitov2001	Arabic	stan1318
+278	محالة	maḥāla				محالة	maḥāla					zabitov2001	Arabic	stan1318
+279	سحر	saḥar				سحر	saḥar					zabitov2001	Arabic	stan1318
+280	صباح	ṣabāḥ				صباح	ṣabaḥ					zabitov2001	Arabic	stan1318
+281	دقیقة	daqīqat				دقیقة	daqīqa[t]					zabitov2001	Arabic	stan1318
+282	أوّل	ʔawwal				أوّل	ˀawwal					zabitov2001	Arabic	stan1318
+283	اوّلا	ʔawwalan				اوّلا	ˀawwalan					zabitov2001	Arabic	stan1318
+284	محرّم	muḥarram				محرّم	muḥarram					zabitov2001	Arabic	stan1318
+285	ربیع ألاول	rabīʕ alʔawwal				ربیع ألاول	rabīˁ alˀawwal					zabitov2001	Arabic	stan1318
+286	رجب	rajab				رجب	raǯab					zabitov2001	Arabic	stan1318
+287	شعبان	šaʕbān				شعبان	šaˁbān					zabitov2001	Arabic	stan1318
+288	رمضان	ramaḍān				رمضان	ramaḍān					zabitov2001	Arabic	stan1318
+289	صفر	ṣafar				صفر	ṣafar					zabitov2001	Arabic	stan1318
+290	شوال	šawwāl				شوال	šawwāl			Перечисленные названия встречаются в рассматриваемых языках в качестве архаизмов, ср.: “Названия всех двенадцати месяцев в аварском языке заимствованы из русского языка: январь, февраль, март и т.д. Очень редко, только в речи некоторых представителей преклонного возраста, можно услышать названия месяцев мусульманского лунного календаря, заимствованные из арабского языка, и лишь в определенном контексте. Первый месяц лунного календаря мусульман называется мух1арам 'мухаррем', второй – сапар – ‘сафар’, третий – рабиг1ул авал ‘рабиаль-ауваль’ четвертый – рабиг1ул ахир 'рабиас-сани', пятый – жумадул авал 'джумада аль-ула’, шестой – жумадул ахир 'джумада аль-ахира’, седьмой – ражаб ‘раджаб’, восьмой – шаг16ан ‘ша'6ан’, девятый – рамазан ‘рамазан' , десятый – шавал 'шавваль’, одиннадцатый – зулкъаг1ида(т) 'зулькада’ и двенадцатый месяц лунного календаря – зулх1ижа(т) ‘зульхиджа’” [Маллаева 1991: 79].		zabitov2001	Arabic	stan1318
+291	الاثنین	ʔalʔiṯnayn				الاثنین	’al’isnayn					zabitov2001	Arabic	stan1318
+292	ثلاثاء	ṯulaṯāʔ				ثلاثاء	sulasāˀ					zabitov2001	Arabic	stan1318
+293	اربع	ʔarbaʕ				اربع	ˀarbaˁ					zabitov2001	Arabic	stan1318
+294	خمیس	ḫamīs				خمیس	xamīs					zabitov2001	Arabic	stan1318
+295	جمعة	jumʕat				جمعة	ǯumˁa[t]					zabitov2001	Arabic	stan1318
+296	الاحد	ʔalʔaḥad				الاحد	’al-’aḥad					zabitov2001	Arabic	stan1318
+297	أدب	ʔadab				أدب	ˀadab					zabitov2001	Arabic	stan1318
+298	فخر	faḫr				فخر	faxr					zabitov2001	Arabic	stan1318
+299	اخلاق	ʔaḫlāq				اخلاق	’axlāq					zabitov2001	Arabic	stan1318
+300	بحث	baḥṯ				بحث	baḥs					zabitov2001	Arabic	stan1318
+301	غیرة	ġayrat				غیرة	ğayra					zabitov2001	Arabic	stan1318
+302	ناموس	nāmūs				ناموس	nāmûs					zabitov2001	Arabic	stan1318
+303	تحسیر	taḥsīr				تحسیر	taḥsīr					zabitov2001	Arabic	stan1318
+304	صبر	ṣabr				صبر	ṣabr					zabitov2001	Arabic	stan1318
+305	دوام	dawām				دوام	dawām					zabitov2001	Arabic	stan1318
+306	وفاء	wafāʔ				وفاء	wafā‘					zabitov2001	Arabic	stan1318
+307	جسارة	jasārat				جسارة	ǯasāra[t]					zabitov2001	Arabic	stan1318
+308	جرأة	jurʔat				جرأة	ǯurˀa[t]					zabitov2001	Arabic	stan1318
+309	توکّل	tawakkul				توکّل	tawakkul					zabitov2001	Arabic	stan1318
+310	مشغولات	mašġūlāt				مشغولات	maš gûlā[t]					zabitov2001	Arabic	stan1318
+311	ظرافة	ẓarāfat				ظرافة	ẓarāfa[t]					zabitov2001	Arabic	stan1318
+312	مسخرة	masḫarat				مسخرة	masxara[t]					zabitov2001	Arabic	stan1318
+313	اهانة	ʔihānat				اهانة	’ihāna[t]					zabitov2001	Arabic	stan1318
+314	عمل	ʕamal				عمل	ˁamal					zabitov2001	Arabic	stan1318
+315	علّة	ʕillat				علّة	ˁilla[t]					zabitov2001	Arabic	stan1318
+316	فتنة	fitnat				فتنة	fitna[t]					zabitov2001	Arabic	stan1318
+317	غیبة	ġībat				غیبة	ğība[t]					zabitov2001	Arabic	stan1318
+318	بهت	buht				بهت	buht					zabitov2001	Arabic	stan1318
+319	حرمة	ḥurmat				حرمة	ḥurma[t]					zabitov2001	Arabic	stan1318
+320	خطیر	ḫatīr				خطیر	xaṭīr					zabitov2001	Arabic	stan1318
+321	هوس	hawas				هوس	hawas					zabitov2001	Arabic	stan1318
+322	شوق	šawq				شوق	šawq					zabitov2001	Arabic	stan1318
+323	نفس	nafs				نفس	nafs					zabitov2001	Arabic	stan1318
+324	وجدان	wijdān				وجدان	wiǯdān					zabitov2001	Arabic	stan1318
+325	شفاعة	šafāʕat				شفاعة	šafāˁa[t]					zabitov2001	Arabic	stan1318
+326	شفقة	šafaqat				شفقة	šafaqa[t]					zabitov2001	Arabic	stan1318
+327	رحیم	raḥīm				رحیم	raḥīm			(судя по структуре замиствований, исконное слово должно выглядеть как rah*m)		zabitov2001	Arabic	stan1318
+328	رحمة	raḥmat				رحمة	raḥma[t]					zabitov2001	Arabic	stan1318
+329	مرحمة	marḥamat				مرحمة	marḥama[t]					zabitov2001	Arabic	stan1318
+330	إنصف	ʔinṣaf				إنصف	’inṣaf				В тексте Забитова неправильная форма: إنصاف	zabitov2001	Arabic	stan1318
+331	خیرة	ḫayrat				خیرة	xajra[t]					zabitov2001	Arabic	stan1318
+332	عدالة	ʕadālat				عدالة	ˁadāla[t]					zabitov2001	Arabic	stan1318
+333	عدل	ʕadl				عدل	ˁadl					zabitov2001	Arabic	stan1318
+334	عیب	ʕayb				عیب	ˁajb					zabitov2001	Arabic	stan1318
+335	عار	ʕār				عار	ˁārr				У Забитова ошибка в транскрипции: должна быть одна r	zabitov2001	Arabic	stan1318
+336	حیاء	ḥayāʔ				حیاء	hajāˀ				У Забитова ошибка в транскрипции: должно быть ḥ	zabitov2001	Arabic	stan1318
+337	إختبار	ʔiḫtibār				إختبار	ixtibār					zabitov2001	Arabic	stan1318
+338	تدارک	tadāruk				تدارک	tadāruk					zabitov2001	Arabic	stan1318
+339	مکر	makr				مکر	makr					zabitov2001	Arabic	stan1318
+340	إمداد	ʔimdād				إمداد	imdād					zabitov2001	Arabic	stan1318
+341	رخصة	ruḫṣat				رخصة	ruxṣa					zabitov2001	Arabic	stan1318
+342	قبول	qabūl				قبول	qabūl					zabitov2001	Arabic	stan1318
+343	تکلیف	taklīf				تکلیف	taklīf					zabitov2001	Arabic	stan1318
+344	تدبیر	tadbīr				تدبیر	tadbīr					zabitov2001	Arabic	stan1318
+345	جلب	jalb				جلب	ǯalb					zabitov2001	Arabic	stan1318
+346	مرخص	muraḫaṣ				مرخص	muraxaṣ					zabitov2001	Arabic	stan1318
+347	شکر	šukr				شکر	šukr					zabitov2001	Arabic	stan1318
+348	تعریف	taʕrīf				تعریف	taˁrīf					zabitov2001	Arabic	stan1318
+349	مبارک	mubārak				مبارک	mubārak					zabitov2001	Arabic	stan1318
+350	تبریک	tabrīk				تبریک	tabrīk					zabitov2001	Arabic	stan1318
+351	لعنة	laʕnat				لعنة	laˁna[t]					zabitov2001	Arabic	stan1318
+352	تهمة	tuhmat				تهمة	tuhma[t]					zabitov2001	Arabic	stan1318
+353	مذمة	maḏammat				مذمة	mazamma[t]					zabitov2001	Arabic	stan1318
+354	امانة	ʔamānat				امانة	’amāna[t]					zabitov2001	Arabic	stan1318
+355	وصیّة	waṣiyyat				وصیّة	waṣiyya[t]					zabitov2001	Arabic	stan1318
+356	وصیّ	waṣiy				وصیّ	waṣi				не вижу такого слова в словаре	zabitov2001	Arabic	stan1318
+357	وقوف	wuqūf				وقوف	wuqûf					zabitov2001	Arabic	stan1318
+358	ترکت	tarikat				ترکت	tarika[t]					zabitov2001	Arabic	stan1318
+359	متاع	matāʕ				متاع	matāˁ					zabitov2001	Arabic	stan1318
+360	إرس	ʔirs				إرس	ˀirs					zabitov2001	Arabic	stan1318
+361	قبض	qabḍ				قبض	qabḍ					zabitov2001	Arabic	stan1318
+362	قرض	qarḍ				قرض	qarḍ					zabitov2001	Arabic	stan1318
+363	حاجة	ḥājat				حاجة	ḥāǯa					zabitov2001	Arabic	stan1318
+364	احتیاج	ʔiḥtiyāj				احتیاج	ˀiḥtiyāǯ					zabitov2001	Arabic	stan1318
+365	محتاج	muḥtāj				محتاج	muḥtāǯ					zabitov2001	Arabic	stan1318
+366	ذلّة	ḏillat				ذلّة	ẕilla[t]					zabitov2001	Arabic	stan1318
+367	درجة	darajat				درجة	daraǯa[t]					zabitov2001	Arabic	stan1318
+368	إدّعاء	ʔiddiʕāʔ				إدّعاء	ˀiddiˁāˁ					zabitov2001	Arabic	stan1318
+369	قصاص	qiṣāṣ				قصاص	qiṣāṣ					zabitov2001	Arabic	stan1318
+370	إنتقام	ʔintiqām				إنتقام	ˀintiqām					zabitov2001	Arabic	stan1318
+371	نصرة	nuṣrat				نصرة	nuṣra					zabitov2001	Arabic	stan1318
+372	عداوة	ʕadāwat				عداوة	‘adāwa					zabitov2001	Arabic	stan1318
+373	خلق	ḫalq				خلق	xalq				У Забитова опечатка: написано خلف	zabitov2001	Arabic	stan1318
+374	جامعة	jāmiʕat				جامعة	ǯāmiˁa[t]					zabitov2001	Arabic	stan1318
+375	امّة	ʔummat				امّة	ˀumma[t]					zabitov2001	Arabic	stan1318
+376	مملکة	mamlakat				مملکة	mamlaka[t]					zabitov2001	Arabic	stan1318
+377	مخلوق	maḫlūq				مخلوق	maxlûq					zabitov2001	Arabic	stan1318
+378	مخلوقات	maḫlūqāt				مخلوقات	maxlûqāt					zabitov2001	Arabic	stan1318
+379	مجلس	majlis				مجلس	maǯlis				У Забитова опечатка: написано ملجس	zabitov2001	Arabic	stan1318
+380	إجلس	ʔijlas				إجلس	iǯlas					zabitov2001	Arabic	stan1318
+381	سوق	sawq				سوق	sawq					zabitov2001	Arabic	stan1318
+382	هدیّة	hadiyyat				هدیّة	hadiyya					zabitov2001	Arabic	stan1318
+383	جاهز	jāhiz				جاهز	ǯāhiz					zabitov2001	Arabic	stan1318
+384	إنسانیّة	ʔinsāniyyat				إنسانیّة	’insāniyya[t]					zabitov2001	Arabic	stan1318
+385	ملّة	millat				ملّة	milla[t]					zabitov2001	Arabic	stan1318
+386	طائفة	ṭāʔifat				طائفة	ṭā’ifa[t]					zabitov2001	Arabic	stan1318
+387	قوم	qawm				قوم	qawm					zabitov2001	Arabic	stan1318
+388	بشریّة	bašariyyat				بشریّة	bašariyya[t]					zabitov2001	Arabic	stan1318
+389	تشکیل	taškīl				تشکیل	taš kīl					zabitov2001	Arabic	stan1318
+390	تشکیلة	taškīlat				تشکیلة	tašk īla					zabitov2001	Arabic	stan1318
+391	اتّفاق	ʔittifāq				اتّفاق	’ittifāq					zabitov2001	Arabic	stan1318
+392	بدعة	bidʕat				بدعة	bidˁa[t]					zabitov2001	Arabic	stan1318
+393	انقلاب	ʔinqilāb				انقلاب	’inqilāb				У Забитова опечатка: написано انقکلاب	zabitov2001	Arabic	stan1318
+394	تبلیغات	tablīġāt				تبلیغات	tablīğāt					zabitov2001	Arabic	stan1318
+395	سیاسة	siyāsat				سیاسة	siyāsa[t]					zabitov2001	Arabic	stan1318
+396	محکمة	maḥkamat				محکمة	maḥkama[t]					zabitov2001	Arabic	stan1318
+397	منافس	munāfis				منافس	munāfis					zabitov2001	Arabic	stan1318
+398	إعفاء	ʔiʕfāʔ				إعفاء	ˀiˁfāˀ					zabitov2001	Arabic	stan1318
+399	حکومة	ḥukūmat				حکومة	ḥukūma[t]					zabitov2001	Arabic	stan1318
+400	وطن	waṭan				وطن	waṭan					zabitov2001	Arabic	stan1318
+401	ولایة	wilāyyat				ولایة	wilājja[t]					zabitov2001	Arabic	stan1318
+402	غربة	ġurbat				غربة	ğurba[t]					zabitov2001	Arabic	stan1318
+403	دعوة	daʕwat				دعوة	daˁwa[t]					zabitov2001	Arabic	stan1318
+404	محاربة	muḥārabat				محاربة	muḥāraba[t]					zabitov2001	Arabic	stan1318
+405	هجوم	hujūm				هجوم	huǯūm					zabitov2001	Arabic	stan1318
+406	یسیر	yasīr				یسیر	jasīr					zabitov2001	Arabic	stan1318
+407	حرّیّة	ḥurriyat				حرّیّة	ḥurrija[t]					zabitov2001	Arabic	stan1318
+408	خیانة	ḫiyānat				خیانة	xijāna[t]					zabitov2001	Arabic	stan1318
+409	غالیب	ġālib				غالیب	ğālib					zabitov2001	Arabic	stan1318
+410	تربیة	tarbiyat				تربیة	tarbiya[t]					zabitov2001	Arabic	stan1318
+411	غلبة	ġalabat				غلبة	ğalaba[t]					zabitov2001	Arabic	stan1318
+412	أصل	ʔaṣl				أصل	ˀaṣl					zabitov2001	Arabic	stan1318
+413	منسوب	mansūb				منسوب	mansûb					zabitov2001	Arabic	stan1318
+414	ظلم	ẓulm				ظلم	ẓulm					zabitov2001	Arabic	stan1318
+415	مظلوم	maẓlūm				مظلوم	maẓlûm					zabitov2001	Arabic	stan1318
+416	جبر	jabar				جبر	ǯabar					zabitov2001	Arabic	stan1318
+417	اطاعة	ʔiṭāʕat				اطاعة	ˀiṭāˁa[t]					zabitov2001	Arabic	stan1318
+418	قرار	qarār				قرار	qarār					zabitov2001	Arabic	stan1318
+419	قطع	qaṭʕ				قطع	qaṭˁ					zabitov2001	Arabic	stan1318
+420	أمر	amr				أمر	amr					zabitov2001	Arabic	stan1318
+421	حکم	ḥukm				حکم	ḥukm					zabitov2001	Arabic	stan1318
+422	تبشیر	tabšīr				تبشیر	tabšīr			В лезгинских языках функционирует тюркская основа табшурмиш, образованная от данного корня.		zabitov2001	Arabic	stan1318
+423	رشوة	rašwat				رشوة	rašwa[t]					zabitov2001	Arabic	stan1318
+424	وظفة	waẓifat				وظفة	waẓifa[t]					zabitov2001	Arabic	stan1318
+425	فرضة	fariḍat				فرضة	fariḍa[t]					zabitov2001	Arabic	stan1318
+426	جزاء	jazāʔ				جزاء	ǯazāˀ					zabitov2001	Arabic	stan1318
+427	تعزیر	taʕzīr				تعزیر	taˁzīr					zabitov2001	Arabic	stan1318
+428	عریضة	ʕarīḍat				عریضة	ˁarīḍa[t]					zabitov2001	Arabic	stan1318
+429	شکایة	šikāyat				شکایة	š ikāya[t]					zabitov2001	Arabic	stan1318
+430	إدارة	ʔidārat				إدارة	idāra[t]					zabitov2001	Arabic	stan1318
+431	قناعة	qanāʕat				قناعة	qanā‘at					zabitov2001	Arabic	stan1318
+432	خیر	ḫayr				خیر	xajr					zabitov2001	Arabic	stan1318
+433	منفعة	manfaʕat				منفعة	manfaˁat					zabitov2001	Arabic	stan1318
+434	فائدة	fāʔidat				فائدة	fāˀida[t]					zabitov2001	Arabic	stan1318
+435	تقیّد	taqayyud				تقیّد	taqajjud					zabitov2001	Arabic	stan1318
+436	إستقراض	ʔistiqrāḍ				إستقراض	ˀistiqrāḍ					zabitov2001	Arabic	stan1318
+437	حسبة	ḥisbat				حسبة	ḥisba[t]					zabitov2001	Arabic	stan1318
+438	قیمة	qīmat				قیمة	qīma[t]					zabitov2001	Arabic	stan1318
+439	مواجب	mawājib				مواجب	mūǯib				Кажется, у Забитова дана транскрипция для другой формы - موجب	zabitov2001	Arabic	stan1318
+440	معیشة	maʕīšat				معیشة	maˁīša[t]	жизнь; средства к жизни				zabitov2001	Arabic	stan1318
+441	ملک	mulk				ملک	mulk					zabitov2001	Arabic	stan1318
+442	صنعة	ṣanʕat				صنعة	ṣanˁa[t]					zabitov2001	Arabic	stan1318
+443	کسب	kasb				کسب	kasb					zabitov2001	Arabic	stan1318
+444	اکراء	ʔikrāʔ				اکراء	ˀikrāˀ					zabitov2001	Arabic	stan1318
+445	إجراء	ʔijrāʔ				إجراء	ˀiǯrāˀ					zabitov2001	Arabic	stan1318
+446	نفقة	nafaqat				نفقة	nafaqa					zabitov2001	Arabic	stan1318
+447	جریمة	jarīmat				جریمة	ǯarīma[t]					zabitov2001	Arabic	stan1318
+448	خرج	ḫarj				خرج	xarǯ					zabitov2001	Arabic	stan1318
+449	صرف	ṣarf				صرف	ṣarf					zabitov2001	Arabic	stan1318
+450	حاصل	ḥāṣil				حاصل	ḥāṣil					zabitov2001	Arabic	stan1318
+451	مدخول	madḫul				مدخول	madxūl					zabitov2001	Arabic	stan1318
+452	سلم	salam				سلم	salam					zabitov2001	Arabic	stan1318
+453	دولة	dawlat				دولة	dawla[t]					zabitov2001	Arabic	stan1318
+454	خزنة	ḫaznat				خزنة	xazna[t]					zabitov2001	Arabic	stan1318
+455	قصّاب	qaṣṣāb				قصّاب	qaṣṣab				В транскрипции Забитова потеряна долгота	zabitov2001	Arabic	stan1318
+456	دباغة	dibāġat				دباغة	dibāğa					zabitov2001	Arabic	stan1318
+457	استثمار	ʔistiṯmār				استثمار	ˀistismār					zabitov2001	Arabic	stan1318
+458	سؤال	suʔāl				سؤال	suˀāl					zabitov2001	Arabic	stan1318
+459	جواب	jawāb				جواب	ǯawāb					zabitov2001	Arabic	stan1318
+460	بیان	bayān				بیان	bayān					zabitov2001	Arabic	stan1318
+461	مصلحة	maṣlaḥat				مصلحة	maṣlaḥa[t]					zabitov2001	Arabic	stan1318
+462	صحبة	ṣuḥbat				صحبة	ṣuḥba[t]					zabitov2001	Arabic	stan1318
+463	no Arabic	qawġat				no Arabic	qawğa					zabitov2001	Arabic	stan1318
+464	مشورة	mašwarat				مشورة	mašwara[t]					zabitov2001	Arabic	stan1318
+465	إختلاط	ʔiḫtilāt				إختلاط	ixtilāt					zabitov2001	Arabic	stan1318
+466	لقلقة	laqlaqat				لقلقة	laqlaqa					zabitov2001	Arabic	stan1318
+467	معلومات	maʕlūmāt				معلومات	maˁlûmāt	plural				zabitov2001	Arabic	stan1318
+468	خبر	ḫabar				خبر	xabar					zabitov2001	Arabic	stan1318
+469	لغة	luġat				لغة	luğat					zabitov2001	Arabic	stan1318
+470	لقب	laqab				لقب	laqab					zabitov2001	Arabic	stan1318
+471	سلام	salām				سلام	salām					zabitov2001	Arabic	stan1318
+472	مقاولة	muqāwalat				مقاولة	muqāwala[t]					zabitov2001	Arabic	stan1318
+473	إقرار	ʔiqrār				إقرار	iqrār					zabitov2001	Arabic	stan1318
+474	تشبیه	tašbīh				تشبیه	tašb īh					zabitov2001	Arabic	stan1318
+475	تکرار	takrār				تکرار	takrār					zabitov2001	Arabic	stan1318
+476	حجّة	ḥujjat				حجّة	ḥuǯǯa[t]					zabitov2001	Arabic	stan1318
+477	بحث	baḥṯ				بحث	baḥs					zabitov2001	Arabic	stan1318
+478	توق	tawq				توق	tawq					zabitov2001	Arabic	stan1318
+479	منّة	minnat				منّة	minna[t]					zabitov2001	Arabic	stan1318
+480	طلب	ṭalab				طلب	ṭalab					zabitov2001	Arabic	stan1318
+481	اختیار	ʔiḫtiyār				اختیار	ˀixtiyār					zabitov2001	Arabic	stan1318
+482	إذن	ʔiḏn				إذن	ˀiẕn					zabitov2001	Arabic	stan1318
+483	إجازة	ʔijāzat				إجازة	ˀiǯāza[t]					zabitov2001	Arabic	stan1318
+484	قید	qayd				قید	qayd					zabitov2001	Arabic	stan1318
+485	آدم	ādam				آدم	ˀādam					zabitov2001	Arabic	stan1318
+486	إنسان	ʔinsān				إنسان	ˀinsān					zabitov2001	Arabic	stan1318
+487	شاهد	šāhid				شاهد	šāhid					zabitov2001	Arabic	stan1318
+488	فقیر	faqīr				فقیر	faqīr					zabitov2001	Arabic	stan1318
+489	مسکین	miskīn				مسکین	miskīn					zabitov2001	Arabic	stan1318
+490	لمام	lamām				لمام	lamām					zabitov2001	Arabic	stan1318
+491	غریب	ġarīb				غریب	ğarīb					zabitov2001	Arabic	stan1318
+492	وحشیّ	waḥšiyy				وحشیّ	waḥšī				Кажется, у Забитова ошибка в транскрипции	zabitov2001	Arabic	stan1318
+493	لطيّ	luṭiyy				لطيّ	luṭij					zabitov2001	Arabic	stan1318
+494	فعلة	faʕalat				فعلة	faˁala[t]					zabitov2001	Arabic	stan1318
+495	دجّال	dajjāl				دجّال	daǯǯāl					zabitov2001	Arabic	stan1318
+496	مرتدّ	murtadd				مرتدّ	murtadd					zabitov2001	Arabic	stan1318
+497	ولد	walad				ولد	walad	singular of ’awlād				zabitov2001	Arabic	stan1318
+498	اولاد	ʔawlād				اولاد	’awlād	plural of walad				zabitov2001	Arabic	stan1318
+499	عاشق	ʕāšiq				عاشق	ˁāšiq					zabitov2001	Arabic	stan1318
+500	حاکم	ḥākim				حاکم	ḥākim					zabitov2001	Arabic	stan1318
+501	جرّاح	jarrāḥ				جرّاح	ǯarrāḥ					zabitov2001	Arabic	stan1318
+502	ولیّ	waliyy				ولیّ	walijj					zabitov2001	Arabic	stan1318
+503	قیّم	qayyim				قیّم	qajjim					zabitov2001	Arabic	stan1318
+504	جاسوس	jāsūs				جاسوس	ǯāsûs					zabitov2001	Arabic	stan1318
+505	ولد	walad				ولد	walad					zabitov2001	Arabic	stan1318
+506	عیّل	ʕayyil				عیّل	ˁajjil					zabitov2001	Arabic	stan1318
+507	حمّال	ḥammāl				حمّال	ḥammal				В транскрипции Забитова потерялась долгота	zabitov2001	Arabic	stan1318
+508	احمق	ʔaḥmaq				احمق	ˀaḥmaq					zabitov2001	Arabic	stan1318
+509	عبد اللّه	ʔabdallāh				عبد اللّه	ˀabdallāh					zabitov2001	Arabic	stan1318
+510	ملعون	malʕūn				ملعون	malˁûn					zabitov2001	Arabic	stan1318
+511	مدّعاء	muddaʕāʔ				مدّعاء	mudda‘ā‘					zabitov2001	Arabic	stan1318
+512	وارث	wāriṯ				وارث	wāris					zabitov2001	Arabic	stan1318
+513	ظالم	ẓālim				ظالم	ẓālim					zabitov2001	Arabic	stan1318
+514	یتیم	yatīm				یتیم	jatīm					zabitov2001	Arabic	stan1318
+515	وکیل	wakīl				وکیل	wakīl			Об осетинском слове см. [Абаев 1989: 45].		zabitov2001	Arabic	stan1318
+516	ضامن	ḍāmin				ضامن	ḍāmin					zabitov2001	Arabic	stan1318
+517	مخبر	muḫbir				مخبر	muxbir					zabitov2001	Arabic	stan1318
+518	دلاّک	dallāk				دلاّک	dallāk					zabitov2001	Arabic	stan1318
+519	درزیّ	darziyy				درزیّ	darzī				У Забитова (и в арабской графике, и в транскрипции) на конце ī, по словарю - iyy	zabitov2001	Arabic	stan1318
+520	شریک	šarīk				شریک	šarīk					zabitov2001	Arabic	stan1318
+521	أهلیّ	ʔahliyy				أهلیّ	ˀahlij					zabitov2001	Arabic	stan1318
+522	جلاّد	jallad				جلاّد	ǯallad					zabitov2001	Arabic	stan1318
+523	منافق	munāfiq				منافق	munāfiq					zabitov2001	Arabic	stan1318
+524	خائن	ḫāʔin				خائن	xa‘in				У Забитова в транскрипции потеряна долгота	zabitov2001	Arabic	stan1318
+525	مشترٍ	muštarin				مشترٍ	muštarin					zabitov2001	Arabic	stan1318
+526	تاجر	tājir				تاجر	tāǯir					zabitov2001	Arabic	stan1318
+527	لقمان	luqmān				لقمان	luqmān					zabitov2001	Arabic	stan1318
+528	دلاّّل	dallāl				دلاّّل	dallāl					zabitov2001	Arabic	stan1318
+529	صرّاف	ṣarrāf				صرّاف	ṣarrāf					zabitov2001	Arabic	stan1318
+530	جناب	janāb				جناب	ǯanāb					zabitov2001	Arabic	stan1318
+531	مدیر	mudīr				مدیر	mudīr					zabitov2001	Arabic	stan1318
+532	نائب	nāʔib				نائب	nā’ib					zabitov2001	Arabic	stan1318
+533	صاحب	ṣāḥib				صاحب	ṣāḥib					zabitov2001	Arabic	stan1318
+534	رعیّة	raʕiyyat				رعیّة	raˁijja[t]					zabitov2001	Arabic	stan1318
+535	ناظز	nāẓir				ناظز	nāẓir					zabitov2001	Arabic	stan1318
+536	مسافر	musāfir				مسافر	musāfir					zabitov2001	Arabic	stan1318
+537	مهاجر	muhājir				مهاجر	muhāǯir					zabitov2001	Arabic	stan1318
+538	طفل	ṭaffal?				طفل	no translit				Не могу найти в словаре со значением "вор" - есть только ṭafl "ребенок"	zabitov2001	Arabic	stan1318
+539	جناح	junāḥ				جناح	ǯunāḥ				У Забитова потеряна одна буква: написано 'جنا	zabitov2001	Arabic	stan1318
+540	قحبة	qaḥbat				قحبة	qaḥba			“Арабское слово усвоенное во многие языки Кавказа” [Абаев 1973: 272];		zabitov2001	Arabic	stan1318
+541	وزیر	wazīr				وزیر	wazīr			(< ср.-перс. wuzurg)		zabitov2001	Arabic	stan1318
+542	خرّاط	ḫarrāṭ				خرّاط	xarrāṭ					zabitov2001	Arabic	stan1318
+543	سائل	sāʔil				سائل	sāˀil					zabitov2001	Arabic	stan1318
+544	سرّاج	sarrāj				سرّاج	sarrāǯ					zabitov2001	Arabic	stan1318
+545	مالک	mālik				مالک	mālik					zabitov2001	Arabic	stan1318
+546	قرعون	firʕawnu				قرعون	firˁawnu					zabitov2001	Arabic	stan1318
+547	عرب	ʕarab				عرب	ˁarab					zabitov2001	Arabic	stan1318
+548	عجم	ʕajam				عجم	ˁaǯam					zabitov2001	Arabic	stan1318
+549	جهود	jahūd				جهود	ǯahūd					zabitov2001	Arabic	stan1318
+550	درس	dars				درس	dars					zabitov2001	Arabic	stan1318
+551	مکتب	maktab				مکتب	maktab					zabitov2001	Arabic	stan1318
+552	امتحان	ʔimtiḥān				امتحان	’imtiḥān					zabitov2001	Arabic	stan1318
+553	حساب	ḥisāb				حساب	ḥisāb					zabitov2001	Arabic	stan1318
+554	کتاب	kitāb				کتاب	kitāb					zabitov2001	Arabic	stan1318
+555	جزء	juzʔ				جزء	ǯuz’					zabitov2001	Arabic	stan1318
+556	جلد	jild				جلد	ǯild					zabitov2001	Arabic	stan1318
+557	مجلّد	mujallad				مجلّد	muǯallad					zabitov2001	Arabic	stan1318
+558	خطّ	ḫaṭṭ				خطّ	xaṭṭ					zabitov2001	Arabic	stan1318
+559	نقطة	nuqṭat				نقطة	nuqṭa					zabitov2001	Arabic	stan1318
+560	قصّة	qiṣṣat				قصّة	qiṣṣa[t]					zabitov2001	Arabic	stan1318
+561	نقل	naql				نقل	naql					zabitov2001	Arabic	stan1318
+562	حکایة	ḥikāyat				حکایة	ḥikāya[t]					zabitov2001	Arabic	stan1318
+563	روایة	riwāyat				روایة	riwāya[t]					zabitov2001	Arabic	stan1318
+564	حرف	ḥarf				حرف	ḥarf					zabitov2001	Arabic	stan1318
+565	عدد	ʕadad				عدد	ˁadad					zabitov2001	Arabic	stan1318
+566	شکل	šikl				شکل	šikl					zabitov2001	Arabic	stan1318
+567	صورة	ṣūrat				صورة	ṣûra[t]					zabitov2001	Arabic	stan1318
+568	نقش	naqš				نقش	naqš					zabitov2001	Arabic	stan1318
+569	شاعر	šāʕir				شاعر	šāˁir					zabitov2001	Arabic	stan1318
+570	شعر	šiʕr				شعر	šiˁr					zabitov2001	Arabic	stan1318
+571	وزن	wazn				وزن	wazn					zabitov2001	Arabic	stan1318
+572	مجموع	majmūʕ				مجموع	maǯmûˁ					zabitov2001	Arabic	stan1318
+573	مقام	maqām				مقام	maqām					zabitov2001	Arabic	stan1318
+574	نغمة	naġmat				نغمة	nağma[t]					zabitov2001	Arabic	stan1318
+575	نظم	naẓm				نظم	naẓm					zabitov2001	Arabic	stan1318
+576	لیلة	laylat				لیلة	layla					zabitov2001	Arabic	stan1318
+577	غزل	ġazal				غزل	ğazal					zabitov2001	Arabic	stan1318
+578	بیت	bayt				بیت	bajt					zabitov2001	Arabic	stan1318
+579	کلام	kalām				کلام	kalām					zabitov2001	Arabic	stan1318
+580	کلمة	kalimat				کلمة	kalima[t]					zabitov2001	Arabic	stan1318
+581	مقالة	maqālat				مقالة	maqāla[t]					zabitov2001	Arabic	stan1318
+582	مسألة	masʔalat				مسألة	masˀala[t]					zabitov2001	Arabic	stan1318
+583	قلم	qalam				قلم	qalam					zabitov2001	Arabic	stan1318
+584	دواة	dawā				دواة	dawā					zabitov2001	Arabic	stan1318
+585	الف	ʔalif				الف	’alif					zabitov2001	Arabic	stan1318
+586	علمیّ	ʕilmiyy				علمیّ	ˁilmijj				В арабской графике у Забитова не хватает удвоения: написано علمی	zabitov2001	Arabic	stan1318
+587	علم	ʕilm				علم	ˁilm					zabitov2001	Arabic	stan1318
+588	معلّم	muʕallim				معلّم	muˁallim					zabitov2001	Arabic	stan1318
+589	سواد	sawād				سواد	sawād					zabitov2001	Arabic	stan1318
+590	صنف	ṣinf				صنف	ṣinf					zabitov2001	Arabic	stan1318
+591	علیم	ʕalīm				علیم	ˁalīm					zabitov2001	Arabic	stan1318
+592	اثر	ʔaṯar				اثر	ˀasar					zabitov2001	Arabic	stan1318
+593	ادبیّات	ʔadabiyyāt				ادبیّات	ˀadabijjāt					zabitov2001	Arabic	stan1318
+594	ترجمة	tarjamat				ترجمة	tarǯama[t]					zabitov2001	Arabic	stan1318
+595	معارف	maʕārif				معارف	maˁārif	singular of maˁrifa[t]				zabitov2001	Arabic	stan1318
+596	معرفة	maʕrifat				معرفة	maˁrifa[t]	plural of maˁaarif				zabitov2001	Arabic	stan1318
+597	مدنیّة	madaniyyat				مدنیّة	madanijja[t]					zabitov2001	Arabic	stan1318
+598	مکتوب	maktūb				مکتوب	maktūb					zabitov2001	Arabic	stan1318
+599	طلبة	ṭalabat				طلبة	ṭalaba[t]					zabitov2001	Arabic	stan1318
+600	متعلّم	mutaʕallim				متعلّم	mutaˁallim					zabitov2001	Arabic	stan1318
+601	جبر	jabr				جبر	ǯabr					zabitov2001	Arabic	stan1318
+602	حقیقیّ	ḥaqīqiyy				حقیقیّ	ḥaqīqiyy					zabitov2001	Arabic	stan1318
+603	خالص	ḫāliṣ				خالص	xāliṣ					zabitov2001	Arabic	stan1318
+604	اخلاص	ʔiḫlāṣ				اخلاص	’ixlāṣ					zabitov2001	Arabic	stan1318
+605	یقین	yaqīn				یقین	yaqīn					zabitov2001	Arabic	stan1318
+606	باطل	bāṭil				باطل	bāṭil					zabitov2001	Arabic	stan1318
+607	مجبور	majbūr				مجبور	maǯbūr					zabitov2001	Arabic	stan1318
+608	واجب	wājib				واجب	wāǯib					zabitov2001	Arabic	stan1318
+609	لازم	lāzim				لازم	lāzim					zabitov2001	Arabic	stan1318
+610	ضدّ	ḍidd				ضدّ	ḍidd					zabitov2001	Arabic	stan1318
+611	ظاهر	ẓāhir				ظاهر	ẓāhir					zabitov2001	Arabic	stan1318
+612	خاصّ	ḫāṣṣ				خاصّ	xāṣṣ					zabitov2001	Arabic	stan1318
+613	مخصوص	maḫṣūṣ				مخصوص	maxṣûṣ					zabitov2001	Arabic	stan1318
+614	تعلق	taʕalluq				تعلق	ta‘alluq					zabitov2001	Arabic	stan1318
+615	اصلا	ʔaṣlan				اصلا	’aṣlā					zabitov2001	Arabic	stan1318
+616	عبارة	ʕibārat				عبارة	ˁibāra					zabitov2001	Arabic	stan1318
+617	عمومیّ	ʕumūmiyy				عمومیّ	ˁumûmiyy					zabitov2001	Arabic	stan1318
+618	حاظر	ḥāḍir				حاظر	ḥāḍir					zabitov2001	Arabic	stan1318
+619	غائب	ġāʔib				غائب	gāˁib					zabitov2001	Arabic	stan1318
+620	نادر	nādir				نادر	nādir					zabitov2001	Arabic	stan1318
+621	غریب	ġarīb				غریب	ğarīb					zabitov2001	Arabic	stan1318
+622	تعجب	taʕjjub				تعجب	taˁǯǯub					zabitov2001	Arabic	stan1318
+623	عجیب	ʕajīb				عجیب	ˁaǯīb					zabitov2001	Arabic	stan1318
+624	معلوم	maʕlūm				معلوم	maˁlûm					zabitov2001	Arabic	stan1318
+625	مشهور	mašhūr				مشهور	maš hûr					zabitov2001	Arabic	stan1318
+626	ممکن	mumkin				ممکن	mumkin					zabitov2001	Arabic	stan1318
+627	احتمال	ʔiḥtimāl				احتمال	ˀiḥtimāl					zabitov2001	Arabic	stan1318
+628	نحس	naḥs				نحس	naḥs					zabitov2001	Arabic	stan1318
+629	اوّلا	ʔawwalan				اوّلا	’awwalan					zabitov2001	Arabic	stan1318
+630	زیادة	ziyāda				زیادة	ziyāda					zabitov2001	Arabic	stan1318
+631	مختل	maḫtal				مختل	maxtal					zabitov2001	Arabic	stan1318
+632	تخمیناً	taḫmīnan				تخمیناً	taxmīnan					zabitov2001	Arabic	stan1318
+633	عوض	ʕiwaḍ				عوض	ˁiwaḍ					zabitov2001	Arabic	stan1318
+634	مدائم	mudāʔim				مدائم	mudāˀim				В арабской графике у Забитова потеряна первая  م	zabitov2001	Arabic	stan1318
+635	ابدیّ	ʔabadiyy				ابدیّ	ˀabadiyy					zabitov2001	Arabic	stan1318
+636	دائماً	dāʔiman				دائماً	dāˀimān					zabitov2001	Arabic	stan1318
+637	دائم	dāʔim				دائم	dāˀim					zabitov2001	Arabic	stan1318
+638	تعیین	taʕyīn				تعیین	taˁyīn					zabitov2001	Arabic	stan1318
+639	اساس	ʔasās				اساس	ˀasās					zabitov2001	Arabic	stan1318
+640	اصل	ʔaṣl				اصل	ˀaṣl					zabitov2001	Arabic	stan1318
+641	اهمّ	ʔahammu				اهمّ	ˀahammu					zabitov2001	Arabic	stan1318
+642	جزئی	juzʔiyy				جزئی	ǯuzˀiyy					zabitov2001	Arabic	stan1318
+643	فصاحة	faṣāḥat				فصاحة	faṣāḥa					zabitov2001	Arabic	stan1318
+644	حیران	ḥayrān				حیران	ḥayrān					zabitov2001	Arabic	stan1318
+645	مرکّب	murakkab				مرکّب	murakkab					zabitov2001	Arabic	stan1318
+646	تمام	tamām				تمام	tamām					zabitov2001	Arabic	stan1318
+647	کامل	kāmil				کامل	kāmil					zabitov2001	Arabic	stan1318
+648	علاوة	ʕilāwat				علاوة	ˁilāwa					zabitov2001	Arabic	stan1318
+649	عموماً	ʕumūman				عموماً	‘umûman					zabitov2001	Arabic	stan1318
+650	غیر	ġayr				غیر	ğajr					zabitov2001	Arabic	stan1318
+651	فلان	fulān				فلان	fulān			По поводу агульского слова З. К. Тарланов пишет: "В плане гипотетической реконструкции исторических связей пралезгинских племен примечателен и следующий факт: в современном агульском языке бытует слово филан (фулан), которое выступает в значении неопределенного местоимения.		zabitov2001	Arabic	stan1318
+652	بعض	baʕḍ				بعض	baˁḍ					zabitov2001	Arabic	stan1318
+653	ملّی	milliy				ملّی	milliy					zabitov2001	Arabic	stan1318
+654	کاسب	kāsib				کاسب	kāsib					zabitov2001	Arabic	stan1318
+655	خصوصیّ	ḫuṣūṣiyy				خصوصیّ	xuṣūṣij					zabitov2001	Arabic	stan1318
+656	مغلوب	maġlūb				مغلوب	mağlûb					zabitov2001	Arabic	stan1318
+657	تکبّور	takabbur				تکبّور	takabbur					zabitov2001	Arabic	stan1318
+658	عارف	ʕārif				عارف	ˁārif					zabitov2001	Arabic	stan1318
+659	عوام	ʕawām				عوام	ˁawām					zabitov2001	Arabic	stan1318
+660	سفیه	safīh				سفیه	safīh					zabitov2001	Arabic	stan1318
+661	غافل	ġāfl				غافل	ğāfl					zabitov2001	Arabic	stan1318
+662	مشغول	mašġūl				مشغول	maš ğûl					zabitov2001	Arabic	stan1318
+663	قاطع	qāṭiʕ				قاطع	qāṭiˁ					zabitov2001	Arabic	stan1318
+664	قهرمان	qahramān				قهرمان	qahramān					zabitov2001	Arabic	stan1318
+665	قدیم	qadīm				قدیم	qadīm					zabitov2001	Arabic	stan1318
+666	قادر	qādir				قادر	qādir					zabitov2001	Arabic	stan1318
+667	ساکت	sākit				ساکت	sākit					zabitov2001	Arabic	stan1318
+668	ساکن	sākin				ساکن	sākin					zabitov2001	Arabic	stan1318
+669	إصلاح	ʔiṣlāḥ				إصلاح	ˀiṣlāḥ					zabitov2001	Arabic	stan1318
+670	ماهر	māhir				ماهر	māhir					zabitov2001	Arabic	stan1318
+671	مغلوس	maġlūs				مغلوس	mağlûs					zabitov2001	Arabic	stan1318
+672	ملائم	mulāʔim				ملائم	mulāˀim					zabitov2001	Arabic	stan1318
+673	فصیح	faṣīh				فصیح	faṣīh					zabitov2001	Arabic	stan1318
+674	عدل	ʕadil				عدل	ˁadil					zabitov2001	Arabic	stan1318
+675	لائق	lāʔiq				لائق	lāˀiq					zabitov2001	Arabic	stan1318
+676	مقایة	muqāyat				مقایة	muqāya					zabitov2001	Arabic	stan1318
+677	تواکل	tawākul				تواکل	tawākul					zabitov2001	Arabic	stan1318
+678	دغل	daġal				دغل	dağal					zabitov2001	Arabic	stan1318
+679	کاهل	kāhil				کاهل	kāhil					zabitov2001	Arabic	stan1318
+680	فاسق	fāsiq				فاسق	fāsiq					zabitov2001	Arabic	stan1318
+681	فشل	fašil				فشل	fašil					zabitov2001	Arabic	stan1318
+682	قبیح	qabīḥ				قبیح	qabīḥ					zabitov2001	Arabic	stan1318
+683	حقیر	ḥaqīr				حقیر	ḥaqīr				У Забитова в арабской транскрипции ошибка - скопировано предыдущее слово	zabitov2001	Arabic	stan1318
+684	جواد	jawād				جواد	ǯawād					zabitov2001	Arabic	stan1318
+685	سخاوة	saḫāwat				سخاوة	saxāwa[t]					zabitov2001	Arabic	stan1318
+686	أمین	ʔamīn				أمین	ˀamīn					zabitov2001	Arabic	stan1318
+687	حلیم	ḥalīm				حلیم	ḥalīm					zabitov2001	Arabic	stan1318
+688	مطاوع	muṭāwiʕ				مطاوع	muṭāwiˁ					zabitov2001	Arabic	stan1318
+689	تابع	tābiʕ				تابع	tābiˁ					zabitov2001	Arabic	stan1318
+690	مشقّة	mašaqqa				مشقّة	mašaqqa					zabitov2001	Arabic	stan1318
+691	مطلق	muṭlaq				مطلق	muṭlaq					zabitov2001	Arabic	stan1318
+692	راض	rāḍiy				راض	rāḍiy					zabitov2001	Arabic	stan1318
+693	غفور	ġāfūr				غفور	ğāfûr					zabitov2001	Arabic	stan1318
+694	عکسیّ	ʕaksiyy				عکسیّ	ˁaksij					zabitov2001	Arabic	stan1318
+695	کیفیّ	kayfiyy				کیفیّ	kayfijj					zabitov2001	Arabic	stan1318
+696	عشیر	ʕašīr				عشیر	ˁašīr					zabitov2001	Arabic	stan1318
+697	ذلیل	ḏalīl				ذلیل	ẕalīl					zabitov2001	Arabic	stan1318
+698	سافل	sāfil				سافل	sāfil					zabitov2001	Arabic	stan1318
+699	اکرامی	ʔikrāmiyy				اکرامی	ˀikrāmijj					zabitov2001	Arabic	stan1318
+700	مغموم	maġmūm				مغموم	mağmûm					zabitov2001	Arabic	stan1318
+701	محروم	maḥrūm				محروم	maḥrûm					zabitov2001	Arabic	stan1318
+702	سلامة	salāmat				سلامة	salāma[t]					zabitov2001	Arabic	stan1318
+703	اشلّ	ʔašallu				اشلّ	’ašallu					zabitov2001	Arabic	stan1318
+704	ضعیف	ḍaʕīf				ضعیف	ḍaˁīf					zabitov2001	Arabic	stan1318
+705	عاجیز	ʕājīz				عاجیز	ˁāǯīz					zabitov2001	Arabic	stan1318
+706	مکین	makīn				مکین	makin					zabitov2001	Arabic	stan1318
+707	بالغ	bāliġ				بالغ	bāliğ					zabitov2001	Arabic	stan1318
+708	جاهل	jāhil				جاهل	ǯāhil					zabitov2001	Arabic	stan1318
+709	سقط	saqaṭ				سقط	saqaṭ					zabitov2001	Arabic	stan1318
+710	جلیب	jalīb				جلیب	ǯalīb					zabitov2001	Arabic	stan1318
+711	صاف	ṣāfin				صاف	ṣāfin					zabitov2001	Arabic	stan1318
+712	فانی	fānī				فانی	fānī					zabitov2001	Arabic	stan1318
+713	راحة	rāḥat				راحة	rāḥa[t]					zabitov2001	Arabic	stan1318
+714	محکم	muḥkam				محکم	muḥkam					zabitov2001	Arabic	stan1318
+715	تأمین	taʕmīn				تأمین	taˁmīn					zabitov2001	Arabic	stan1318
+716	نقد	naqd				نقد	naqd					zabitov2001	Arabic	stan1318
+717	اخمر	ʔaḫmaru				اخمر	’ahmaru					zabitov2001	Arabic	stan1318
+718	خلاص	ḫalāṣ				خلاص	xalāṣ					zabitov2001	Arabic	stan1318
+718	مبلغ	mublaġ				مبلغ	mublağ					zabitov2001	Arabic	stan1318
+719	کافر	kāfir				کافر	kāfir					zabitov2001	Arabic	stan1318
+720	بطانة	baṭānat				بطانة	baṭāna					zabitov2001	Arabic	stan1318
+721	لباس	libās				لباس	libās					zabitov2001	Arabic	stan1318
+722	عباء	ʕabāʔ				عباء	ˁabāˀ					zabitov2001	Arabic	stan1318
+723	أظلس	ʔaṭlasu				أظلس	ˀaṭlasu					zabitov2001	Arabic	stan1318
+724	کتّان	kattān				کتّان	kattān					zabitov2001	Arabic	stan1318
+725	کمری	kamarī				کمری	kamarī			Для осетинского предполагается грузинский источник (< перс.) [Абаев 1958: 570], по-видимому, в связи с конечным -и.		zabitov2001	Arabic	stan1318
+726	کیسه	kīse				کیسه	kīse			“Арабское слово, распространившееся в языках передней Азии, Кавказа и восточной Европы [Абаев 1958: 613]		zabitov2001	Arabic	stan1318
+727	عطر	ʕiṭr				عطر	ˁiṭr					zabitov2001	Arabic	stan1318
+728	جیب	jayb				جیب	ǯajb					zabitov2001	Arabic	stan1318
+729	أستار	ʔastār				أستار	ˀastār			В литературе отмечается персидско-тюркский источник [Абаев 1958: 77].		zabitov2001	Arabic	stan1318
+730	صدف	ṣadaf				صدف	ṣadaf					zabitov2001	Arabic	stan1318
+731	خلعة	ḫilʔat				خلعة	xilˁa[t]				В арабской графике у Забитова продублировано следующее слово	zabitov2001	Arabic	stan1318
+732	حاشیة	ḥāšiyat				حاشیة	ḥāšija[t]					zabitov2001	Arabic	stan1318
+733	سلاه	silāḥ				سلاه	silāḥ					zabitov2001	Arabic	stan1318
+734	الة	ʔalat				الة	ˀala[t]					zabitov2001	Arabic	stan1318
+735	خنجر	ḫanjar				خنجر	xanǯar					zabitov2001	Arabic	stan1318
+736	مزراق	mizrāq				مزراق	mizrāq			О слове в других языках Кавказа см. [Абаев 1973: 137; Шагиров 1977 I: 271].	В арабской графике Забитова f вместо q (я вписала q)	zabitov2001	Arabic	stan1318
+737	قمه	qame				قمه	qamˁa			Об осетинском слове с кавказскими параллелями см. [Абаев 1973: 260-261].	В арабской графике Забитова другое слово ("крепость"), это слово персидское, вписала форму из персидского словаря	zabitov2001	Arabic	stan1318
+738	متّکا	muttakā				متّکا	muttakā				У Забитова нет в арабской графике, вписала по словарю	zabitov2001	Arabic	stan1318
+739	حلقة	ḥalqat				حلقة	ḥalqa[t]					zabitov2001	Arabic	stan1318
+740	رطل	raṭl				رطل	raṭl					zabitov2001	Arabic	stan1318
+741	مثقال	miṯqāl				مثقال	misqāl					zabitov2001	Arabic	stan1318
+742	صابون	ṣābūn				صابون	ṣābūn					zabitov2001	Arabic	stan1318
+743	سفرة	sufrat				سفرة	sufra[t]					zabitov2001	Arabic	stan1318
+744	مثقب	miṯqab				مثقب	misqab					zabitov2001	Arabic	stan1318
+745	مقراض	miqrāḍ				مقراض	miqrāḍ			О. И. Виноградова и Г. А. Климов, хотя и отмечают что “слово в конечном счете идет из семитского источника”, предполают, что “конечный согласный указывает на посредство армянского” [Виногра­дова, Климов 1979: 156]. Другое мнение было высказано Дж. Греппином: “Это слово арабского происхождения (miqrѓdЦ) известно в аромянском только с восемнадцотого века, а поскольку Виноградова и Климов допускают, что это арабское слово, они должны бы считать арабский более вероятным источником и для дагестанских языков” [Греппин 1994: 161].		zabitov2001	Arabic	stan1318
+746	مفتول	muftūl				مفتول	muftul					zabitov2001	Arabic	stan1318
+747	کرسیّ	kursiyy				کرسیّ	kursijj					zabitov2001	Arabic	stan1318
+748	صندوق	ṣundūq				صندوق	ṣundûq					zabitov2001	Arabic	stan1318
+749	عین	ʕayn				عین	no translit					zabitov2001	Arabic	stan1318
+750	صنیّة	ṣiniyyat				صنیّة	ṣinijja[t]					zabitov2001	Arabic	stan1318
+751	طبق	ṭabaq				طبق	ṭabaq				В арабской графике у Забитова l вместо b, вписала по словарю с b	zabitov2001	Arabic	stan1318
+752	منشار	minšār				منشار	minšār					zabitov2001	Arabic	stan1318
+753	صاع	ṣāʕ				صاع	ṣāˁ					zabitov2001	Arabic	stan1318
+754	کیلة	kaylat				کیلة	kayla[t]					zabitov2001	Arabic	stan1318
+755	قبّة	qubbat				قبّة	qubba[t]					zabitov2001	Arabic	stan1318
+756	خرط	ḫarṭ				خرط	xarṭ					zabitov2001	Arabic	stan1318
+757	مسمار	mismār				مسمار	mismār					zabitov2001	Arabic	stan1318
+758	شمع	šamʕ				شمع	šamˁ					zabitov2001	Arabic	stan1318
+759	قالب	qālab				قالب	qālab					zabitov2001	Arabic	stan1318
+760	عصاً	ʕaṣān				عصاً	ˁaṣā					zabitov2001	Arabic	stan1318
+761	نعل	naʕl				نعل	naˁl					zabitov2001	Arabic	stan1318
+762	عربة	ʕarabat				عربة	ˁaraba[t]					zabitov2001	Arabic	stan1318
+763	قفس	qafas				قفس	qafas					zabitov2001	Arabic	stan1318
+764	نباتات	nabātāt				نباتات	nabātāt					zabitov2001	Arabic	stan1318
+765	شتل	šatl				شتل	šatl					zabitov2001	Arabic	stan1318
+766	مشمش	mišmiš				مشمش	mišmiš					zabitov2001	Arabic	stan1318
+767	شمّامة	šammāmat				شمّامة	šamm āma					zabitov2001	Arabic	stan1318
+768	توت	tūt				توت	tût					zabitov2001	Arabic	stan1318
+769	فندق	funduq				فندق	funduq					zabitov2001	Arabic	stan1318
+770	قنّب	qinnab				قنّب	qinnab					zabitov2001	Arabic	stan1318
+771	برتقال	burtuqāl				برتقال	burtuqāl					zabitov2001	Arabic	stan1318
+772	خشخاش	ḫašḫāš				خشخاش	xašxâš					zabitov2001	Arabic	stan1318
+773	زیحان	rayḥān				زیحان	rajḥān					zabitov2001	Arabic	stan1318
+774	محصول	maḥṣūl				محصول	maḥṣūl					zabitov2001	Arabic	stan1318
+775	قافلة	qāfilat				قافلة	qāfila[t]					zabitov2001	Arabic	stan1318
+776	بلبل	bulbul				بلبل	bulbul					zabitov2001	Arabic	stan1318
+777	طاووس	ṭāwūs				طاووس	ṭāwûs					zabitov2001	Arabic	stan1318
+778	لقلق	laqlaq				لقلق	laqlaq					zabitov2001	Arabic	stan1318
+779	فیل	fīl				فیل	fīl					zabitov2001	Arabic	stan1318
+780	میمون	maymūn				میمون	maymūn					zabitov2001	Arabic	stan1318
+781	حمار	ḥimār				حمار	ḥimār					zabitov2001	Arabic	stan1318
+782	مال	māl				مال	māl					zabitov2001	Arabic	stan1318
+783	خصیّ	ḫaṣiyy				خصیّ	xaṣiyy					zabitov2001	Arabic	stan1318
+784	حیوان	ḥaywān				حیوان	ḥaywān			З.К.Тарланов [1994: 249] помечает агульское слово как тюркизм. С. М. Хайдаков отмечает, что “в дагестанских языках слово выражающее обобщающее или собирательное понятие «животное», по-видимому, и в прошлом отсутствовало. Во всех языках бытуют слова, заимствованные из арабского (хIайван) и других (мал) языков” [Хайдаков 1973: 22]. Об осетинском слове с кавказскими параллелями см. [Абаев 1989: 134].		zabitov2001	Arabic	stan1318
+785	عقرب	ʕaqrab				عقرب	ˁaqrab					zabitov2001	Arabic	stan1318
+786	حشرة	ḥašarat				حشرة	ḥašara[t]					zabitov2001	Arabic	stan1318
+787	سجف	sijf				سجف	siǯf					zabitov2001	Arabic	stan1318
+788	عمارة	ʕimārat				عمارة	‘imāra[t]					zabitov2001	Arabic	stan1318
+789	دارة	dārat				دارة	dāra[t]					zabitov2001	Arabic	stan1318
+790	قنطرة	qanṭarat				قنطرة	qanṭara[t]					zabitov2001	Arabic	stan1318
+791	مرتبة	martabat				مرتبة	martaba[t]					zabitov2001	Arabic	stan1318
+792	میدان	maydān				میدان	majdān					zabitov2001	Arabic	stan1318
+793	حمّام	ḥammām				حمّام	ḥammām					zabitov2001	Arabic	stan1318
+794	قبّة	qubbat				قبّة	no translit					zabitov2001	Arabic	stan1318
+795	بناء	bināʔ				بناء	bināˀ					zabitov2001	Arabic	stan1318
+796	معدن	maʕdan				معدن	maˁdan					zabitov2001	Arabic	stan1318
+797	حوض	ḥawḍ				حوض	ḥawḍ					zabitov2001	Arabic	stan1318
+798	قلعة	qalʕat				قلعة	qalˁa			Ср. также авар. кІалгІа, дарг. кIялгIя ‘дворец; храм’. Об осетинском слове с кавказскими параллелями см. [Абаев 1973: 259].		zabitov2001	Arabic	stan1318
+799	خجرة	ḥujrat				خجرة	ḥuǯra[t]					zabitov2001	Arabic	stan1318
+800	دکّان	dukkān				دکّان	dukkān			по З.К.Тарланову [1994: 263], агульское слово – из персидского. В. И. Абаев [1958: 375] указывает на арабско-персидский источник;		zabitov2001	Arabic	stan1318
+801	مزرعة	mazraʕa				مزرعة	mazra‘a					zabitov2001	Arabic	stan1318
+802	رکن	rukn				رکن	rukn				В арабской графике у Забитова m вместо k, поправила на k	zabitov2001	Arabic	stan1318
+803	حیاط	ḥiyāt				حیاط	ḥiyāt					zabitov2001	Arabic	stan1318
+804	مرکز	markaz				مرکز	markaz					zabitov2001	Arabic	stan1318
+805	خراب	xarāb				خراب	xarāb					zabitov2001	Arabic	stan1318
+806	محلّة	maḥallat				محلّة	maḥalla					zabitov2001	Arabic	stan1318
+807	سورسات	sūrsāt				سورسات	no Arabic word?					zabitov2001	Arabic	stan1318
+808	شربات	šarbāt				شربات	šarbāt					zabitov2001	Arabic	stan1318
+809	رب	rubb				رب	rubb					zabitov2001	Arabic	stan1318
+810	مربّة	murabbat				مربّة	murabba[t]					zabitov2001	Arabic	stan1318
+811	حلواء	ḥalwāʔ				حلواء	ḥalwāˀ					zabitov2001	Arabic	stan1318
+812	زیتون	zaytūn				زیتون	zaytûn					zabitov2001	Arabic	stan1318
+813	قهوة	qahwat				قهوة	qahwa					zabitov2001	Arabic	stan1318
+814	تتن	tutun				تتن	tutun					zabitov2001	Arabic	stan1318
+815	مرهم	marham				مرهم	marham					zabitov2001	Arabic	stan1318
+816	عرقیّ	ʕaraqiyy				عرقیّ	ˁaraqij					zabitov2001	Arabic	stan1318
+817	قمد	qand				قمد	qand					zabitov2001	Arabic	stan1318
+818	نبات	nabāt				نبات	nabāt					zabitov2001	Arabic	stan1318
+819	خمیر	ḫamīr				خمیر	xamīr					zabitov2001	Arabic	stan1318
+820	لقمة	luqmat				لقمة	luqma[t]					zabitov2001	Arabic	stan1318
+821	رزق	rizq				رزق	rizq				В арабской графике Забитова f вместо q, поправила на q	zabitov2001	Arabic	stan1318
+822	دواء	dawāʔ				دواء	dawā‘					zabitov2001	Arabic	stan1318
+823	زهر	zahr				زهر	zahr					zabitov2001	Arabic	stan1318
+824	زقّوم	zaqqum				زقّوم	zaqqum	адское дерево (плодами которого будут питаться грешники)				zabitov2001	Arabic	stan1318
+825	علف	ʕalaf				علف	‘alaf					zabitov2001	Arabic	stan1318
+826	عرش	ʕarš				عرش	ˁarš					zabitov2001	Arabic	stan1318
+827	طوفان	ṭūfān				طوفان	ṭūfān					zabitov2001	Arabic	stan1318
+828	هواء	hawāʔ				هواء	hawāˀ					zabitov2001	Arabic	stan1318
+829	مغارة	maġārat				مغارة	magāra					zabitov2001	Arabic	stan1318
+830	نور	nūr				نور	nûr					zabitov2001	Arabic	stan1318
+831	فلک	falak				فلک	falak					zabitov2001	Arabic	stan1318
+832	زلزلة	zalzalat				زلزلة	zalzala					zabitov2001	Arabic	stan1318
+833	الماس	ʔalmās				الماس	’almās					zabitov2001	Arabic	stan1318
+834	جواهر	jawāhir				جواهر	ǯawāhir					zabitov2001	Arabic	stan1318
+835	قیر	qīr				قیر	qīr					zabitov2001	Arabic	stan1318
+836	موم	mūm				موم	mûm					zabitov2001	Arabic	stan1318
+837	لحم	laḥm				لحم	laḥm					zabitov2001	Arabic	stan1318
+838	مغنطیس	maġnaṭīs				مغنطیس	mağnaṭīs					zabitov2001	Arabic	stan1318
+838	حنّاء	ḥinnāʔ				حنّاء	hinnā				По словарю в конце должна быть хамза (я добавила), но у Забитова ее нет - ни в арабской графике, ни в транскрипции	zabitov2001	Arabic	stan1318
+839	مرمر	marmar				مرمر	marmar					zabitov2001	Arabic	stan1318
+840	جوهر	jawhar				جوهر	ǯawhar					zabitov2001	Arabic	stan1318
+841	مرجان	marjān				مرجان	marǯân					zabitov2001	Arabic	stan1318
+842	لؤلؤ	luʔluʔ				لؤلؤ	lu’lu’					zabitov2001	Arabic	stan1318
+843	یاقوت	yāqūt				یاقوت	yāqūt					zabitov2001	Arabic	stan1318
+844	نفط	nafṭ				نفط	nafṭ					zabitov2001	Arabic	stan1318
+845	قامة	qāmat				قامة	qāma[t]					zabitov2001	Arabic	stan1318
+846	بدن	badan				بدن	badan					zabitov2001	Arabic	stan1318
+847	قدم	qadam				قدم	qadam					zabitov2001	Arabic	stan1318
+848	میت	mayit				میت	majit					zabitov2001	Arabic	stan1318
+849	جنّاز	jannaz				جنّاز	ǯannaz					zabitov2001	Arabic	stan1318
+850	صفة	ṣifat				صفة	ṣifa[t]					zabitov2001	Arabic	stan1318
+851	إسم	ʔism				إسم	ˀism					zabitov2001	Arabic	stan1318
+852	جناب	janāb				جناب	ǯanāb					zabitov2001	Arabic	stan1318
+853	جسد	jasad				جسد	ǯasad					zabitov2001	Arabic	stan1318
+854	خرطوم	ḫurṭūm				خرطوم	hurṭûm					zabitov2001	Arabic	stan1318
+855	کفل	kafal				کفل	kafal					zabitov2001	Arabic	stan1318
+856	صفراء	ṣafrāʔu				صفراء	ṣafrā’u					zabitov2001	Arabic	stan1318
+857	آزار	āzār				آزار	āzār					zabitov2001	Arabic	stan1318
+858	مرض	maraḍ				مرض	maraḍ					zabitov2001	Arabic	stan1318
+859	ورم	waram				ورم	waram					zabitov2001	Arabic	stan1318
+860	فالج	fālij				فالج	fāliǯ					zabitov2001	Arabic	stan1318
+861	طاعون	ṭāʕūn				طاعون	ṭā‘ûn					zabitov2001	Arabic	stan1318
+862	وباء	wabāʔ				وباء	wabā‘					zabitov2001	Arabic	stan1318
+863	زکام	zukām				زکام	zukām					zabitov2001	Arabic	stan1318
+864	جذام	juḏām				جذام	ǯuẕām					zabitov2001	Arabic	stan1318
+865	بلغم	balġam				بلغم	balğam					zabitov2001	Arabic	stan1318
+866	نفس	nafas				نفس	nafas					zabitov2001	Arabic	stan1318
+867	نجس	najas				نجس	naǯas					zabitov2001	Arabic	stan1318
+868	عم	ʕamm				عم	ˁamm					zabitov2001	Arabic	stan1318
+869	خالة	ḫālat				خالة	xāla					zabitov2001	Arabic	stan1318
+870	عمّة	ʕammat				عمّة	‘amma					zabitov2001	Arabic	stan1318
+871	خال	ḫāl				خال	xāl					zabitov2001	Arabic	stan1318
+872	میراث	mīrāṯ				میراث	mīrās					zabitov2001	Arabic	stan1318
+873	اقارب	ʔaqāribu				اقارب	’aqāribu					zabitov2001	Arabic	stan1318
+874	یا					یا	yā					zabitov2001	Arabic	stan1318
+875	امّا	ʔammā				امّا	ˀammā					zabitov2001	Arabic	stan1318
+876	و	wa				و	wa					zabitov2001	Arabic	stan1318
+877	یعنی	yaʕnī				یعنی	yaˁnī					zabitov2001	Arabic	stan1318
+878	یاربّ	yā rabb				یاربّ	yārabbi			о распространении слова в других языках Кавказа см. Абаев 1958: 58.		zabitov2001	Arabic	stan1318
+879	حتّی	ḥatta				حتّی	ḥatta					zabitov2001	Arabic	stan1318
+880	البتّة	ʔalbatta				البتّة	ˀalbatta					zabitov2001	Arabic	stan1318
+881	السلام علیکم	ʔassalām ʕalaykum				السلام علیکم	ˀassalām ˁalaykum					zabitov2001	Arabic	stan1318
+882	علیکم السلام	ʕalaykum ʔassalām				علیکم السلام	ˁalaykum ˀassalām					zabitov2001	Arabic	stan1318
+883	آمین	ʔāmīn				آمین	ˀāmīn					zabitov2001	Arabic	stan1318
+884	بارک الله	bārakallāh				بارک الله	bārakallāh					zabitov2001	Arabic	stan1318
+885	بیسم الله	bismillāh				بیسم الله	bismillāh					zabitov2001	Arabic	stan1318
+886	والله	wallāh				والله	wallāh					zabitov2001	Arabic	stan1318
+887	ان شاءالله	ʔinšāʔallāh				ان شاءالله	inšāˁ allāh					zabitov2001	Arabic	stan1318
+888	ماشاءالله	māšāʔallāh				ماشاءالله	māšāˁallāh					zabitov2001	Arabic	stan1318
+889	زینة	zīnat				زینة	zīna[t]				Было пропущено	zabitov2001	Arabic	stan1318
+890	بصارة	baṣārat				بصارة	baṣāra[t]				Было пропущено	zabitov2001	Arabic	stan1318
+891	خیفة	ḫifat				خیفة	xifa[t]				Было пропущено	zabitov2001	Arabic	stan1318
+892	تشویش	tašwīš				تشویش	tašwīš				Было пропущено	zabitov2001	Arabic	stan1318
+893	سلیقة	salīqat				سلیقة	salīqa				Было пропущено	zabitov2001	Arabic	stan1318
+894	عناد	ʕinād				عناد	ˁinād				Было пропущено	zabitov2001	Arabic	stan1318
+895	تعلیم	taʕlīm				تعلیم	taˁlīm				Было пропущено	zabitov2001	Arabic	stan1318
+896	تحویل	taḥwīl				تحویل	taḥwīl				Было пропущено	zabitov2001	Arabic	stan1318
+897	نصیحة	naṣīḥat				نصیحة	naṣīḥa[t]				Было пропущено	zabitov2001	Arabic	stan1318
+898	حدیث	ḥadīṯ				حدیث	ḥadīs				Было пропущено	zabitov2001	Arabic	stan1318
+899	حسنی	ḥusna				حسنی	ḥusna				Было пропущено	zabitov2001	Arabic	stan1318
+900	ظریف	ẓarīf				ظریف	ẓarīf				Было пропущено	zabitov2001	Arabic	stan1318
+901	بخیل	baḫīl				بخیل	baxīl	скупой			Было пропущено	zabitov2001	Arabic	stan1318
+902	حریص	ḥarīṣ				حریص	ḥarīṣ				было пропущено	zabitov2001	Arabic	stan1318
+903	عزیز	ʕazīz				عزیز	ˁazīz				Было пропущено	zabitov2001	Arabic	stan1318
+904	میل	mīl				میل	mīl				Было пропущено	zabitov2001	Arabic	stan1318
+905	زنبیل	zanbīl				زنبیل	zanbīl			в слове предполагается персидский первоисточник, см. [Абаев 1989: 311]	Было пропущено	zabitov2001	Arabic	stan1318
+906	شراب	šarāb				شراب	šarāb				было пропущено	zabitov2001	Arabic	stan1318
+907	شربة	šurbat				شربة	šurba[t]				было пропущено	zabitov2001	Arabic	stan1318
+908	جزیرة	jazirat				جزیرة	ǯazira[t]				Было пропущено	zabitov2001	Arabic	stan1318
+909	açar				Nouns	ачар						tadinova2006	Azerbaijani	nort2697
+910	boğça				Nouns	боғча						tadinova2006	Azerbaijani	nort2697
+911	qap				Nouns	гап						tadinova2006	Azerbaijani	nort2697
+912	qapan				Nouns	гапан						tadinova2006	Azerbaijani	nort2697
+913	qın				Nouns	гын						tadinova2006	Azerbaijani	nort2697
+914	qısqac				Nouns	гысгаҹ						tadinova2006	Azerbaijani	nort2697
+915	döşək				Nouns	дөшәк						tadinova2006	Azerbaijani	nort2697
+916	yorğan				Nouns	јорған						tadinova2006	Azerbaijani	nort2697
+917	güzgü				Nouns	ҝүзҝү						tadinova2006	Azerbaijani	nort2697
+918	nazbalış				Nouns	назбалыш						tadinova2006	Azerbaijani	nort2697
+919	noxta				Nouns	нохта						tadinova2006	Azerbaijani	nort2697
+920	sandıq				Nouns	сандыг						tadinova2006	Azerbaijani	nort2697
+921	sancaq				Nouns	санҹаг						tadinova2006	Azerbaijani	nort2697
+922	sumaq				Nouns	сумаг						tadinova2006	Azerbaijani	nort2697
+923	torba				Nouns	torba						tadinova2006	Turkish	nucl1301
+924	ütü				Nouns	үтү						tadinova2006	Azerbaijani	nort2697
+925	qamçı				Nouns	гамчы						tadinova2006	Azerbaijani	nort2697
+926	qaşov				Nouns	гашов						tadinova2006	Azerbaijani	nort2697
+927	tərlik				Nouns	тәрлик						tadinova2006	Azerbaijani	nort2697
+928	üzəngi				Nouns	үзәнҝи						tadinova2006	Azerbaijani	nort2697
+929	ürkən				Nouns	үркән						tadinova2006	Azerbaijani	nort2697
+930	boşqab				Nouns	бошгаб						tadinova2006	Azerbaijani	nort2697
+931	qabqacaq				Nouns	габ-гаҹаг						tadinova2006	Azerbaijani	nort2697
+932	qazan				Nouns	газан						tadinova2006	Azerbaijani	nort2697
+933	qaşıq				Nouns	гашыг						tadinova2006	Azerbaijani	nort2697
+934	qoşqu				Nouns	гошгу						tadinova2006	Azerbaijani	nort2697
+935	qutu				Nouns	гуту						tadinova2006	Azerbaijani	nort2697
+936	kəfgir				Nouns	кәфҝир						tadinova2006	Azerbaijani	nort2697
+937	къумман				Nouns	къумман						tadinova2006	Kumyk	kumy1244
+938	къуткъа				Nouns	къуткъа						tadinova2006	Kumyk	kumy1244
+939	sini				Nouns	сини						tadinova2006	Azerbaijani	nort2697
+940	süzgəc				Nouns	сүзҝәҹ						tadinova2006	Azerbaijani	nort2697
+941	tava				Nouns	тава						tadinova2006	Azerbaijani	nort2697
+942	tencere				Nouns	tencere						tadinova2006	Turkish	nucl1301
+943	тепшек				Nouns	тепшек						tadinova2006	Karachay-Balkar	kara1465
+944	çanaq				Nouns	чанаг						tadinova2006	Azerbaijani	nort2697
+945	çəllək				Nouns	чәлләк						tadinova2006	Azerbaijani	nort2697
+946	чолпу				Nouns	чолпу						tadinova2006	Kumyk	kumy1244
+947	чоюн				Nouns	чоюн						tadinova2006	Kumyk, Karachay-Balkar	kumy1244, kara1465
+948	çömçə				Nouns	чөмчә						tadinova2006	Azerbaijani	nort2697
+949	arxalıq				Nouns	архалыг						tadinova2006	Azerbaijani	nort2697
+950	bağ				Nouns	бағ						tadinova2006	Azerbaijani	nort2697
+951	boxça				Nouns	бохча						tadinova2006	Azerbaijani	nort2697
+952	büzmə				Nouns	бүзмә						tadinova2006	Azerbaijani	nort2697
+953	qarmaq, къармакъ				Nouns	гармаг, къармакъ						tadinova2006	Azerbaijani, Kumyk	nort2697, kumy1244
+954	dümə				Nouns	дүjмә						tadinova2006	Azerbaijani	nort2697
+955	əlcək				Nouns	әлҹәк						tadinova2006	Azerbaijani	nort2697
+956	ətək				Nouns	әтәк						tadinova2006	Azerbaijani	nort2697
+957	apıncı				Nouns	jапынҹы						tadinova2006	Azerbaijani	nort2697
+958	kepenek				Nouns	kepenek						tadinova2006	Turkish	nucl1301
+959	paltar				Nouns	палтар						tadinova2006	Azerbaijani	nort2697
+960	saçaq				Nouns	сачаг						tadinova2006	Azerbaijani	nort2697
+961	şalvar				Nouns	шалвар						tadinova2006	Azerbaijani	nort2697
+962	başlıq				Nouns	башлыг						tadinova2006	Azerbaijani	nort2697
+963	alıq				Nouns	jаjлыг						tadinova2006	Azerbaijani	nort2697
+964	ləçək				Nouns	ләчәк						tadinova2006	Azerbaijani	nort2697
+965	sarik				Nouns	sarik						tadinova2006	Turkish	nucl1301
+966	çutqu				Nouns	чутгу						tadinova2006	Azerbaijani	nort2697
+967	dolaq				Nouns	долаг						tadinova2006	Azerbaijani	nort2697
+968	çəkmə				Nouns	чәкмә						tadinova2006	Azerbaijani	nort2697
+969	чурукъ				Nouns	чурукъ						tadinova2006	Karachay-Balkar	kara1465
+970	boun				Nouns	боjун						tadinova2006	Azerbaijani	nort2697
+971	qaş				Nouns	гаш						tadinova2006	Azerbaijani	nort2697
+972	qolbaq				Nouns	голбаг						tadinova2006	Azerbaijani	nort2697
+973	axa				Nouns	jаха						tadinova2006	Azerbaijani	nort2697
+974	sırğa				Nouns	сырға						tadinova2006	Azerbaijani	nort2697
+975	alaçıq				Nouns	алачыг						tadinova2006	Azerbaijani	nort2697
+976	qazma				Nouns	газма						tadinova2006	Azerbaijani	nort2697
+977	urd				Nouns	jурд						tadinova2006	Azerbaijani	nort2697
+978	koma				Nouns	кома						tadinova2006	Azerbaijani	nort2697
+979	oba				Nouns	оба						tadinova2006	Azerbaijani	nort2697
+980	otaq				Nouns	отаг						tadinova2006	Azerbaijani	nort2697
+981	ocaq				Nouns	оҹаг						tadinova2006	Azerbaijani	nort2697
+982	soba				Nouns	soba						tadinova2006	Turkish	nucl1301
+983	qapı				Nouns	гапы						tadinova2006	Azerbaijani	nort2697
+984	ağıl				Nouns	ағыл						tadinova2006	Azerbaijani	nort2697
+985	dəə				Nouns	дәjә						tadinova2006	Azerbaijani	nort2697
+986	ataq				Nouns	jатаг						tadinova2006	Azerbaijani	nort2697
+987	къотан				Nouns	къотан						tadinova2006	Kumyk	kumy1244
+988	qazanxana				Nouns	газанхана						tadinova2006	Azerbaijani	nort2697
+989	азбар				Nouns	азбар						tadinova2006	Kumyk	kumy1244
+990	anbar				Nouns	анбар						tadinova2006	Azerbaijani	nort2697
+991	dalda				Nouns	далда						tadinova2006	Azerbaijani	nort2697
+992	qazıq				Nouns	газыг						tadinova2006	Azerbaijani	nort2697
+993	buruq				Nouns	буруг						tadinova2006	Azerbaijani	nort2697
+994	burc				Nouns	бурҹ						tadinova2006	Azerbaijani	nort2697
+995	qala				Nouns	гала						tadinova2006	Azerbaijani	nort2697
+996	quu				Nouns	гуjу						tadinova2006	Azerbaijani	nort2697
+997	гюмез				Nouns	гюмез						tadinova2006	Kumyk	kumy1244
+998	dirək				Nouns	дирәк						tadinova2006	Azerbaijani	nort2697
+999	küçə				Nouns	күчә						tadinova2006	Azerbaijani	nort2697
+1000	орам				Nouns	орам						tadinova2006	Kumyk	kumy1244
+1001	tağ				Nouns	тағ						tadinova2006	Azerbaijani	nort2697
+1002	bataqlıq				Nouns	батаглыг						tadinova2006	Azerbaijani	nort2697
+1003	qamışlıq				Nouns	гамышлыг						tadinova2006	Azerbaijani	nort2697
+1004	qıraq				Nouns	гыраг						tadinova2006	Azerbaijani	nort2697
+1005	çuxur				Nouns	чухур						tadinova2006	Azerbaijani	nort2697
+1006	göl				Nouns	ҝөл						tadinova2006	Azerbaijani	nort2697
+1007	bulaq				Nouns	булаг						tadinova2006	Azerbaijani	nort2697
+1008	dəniz, денгиз				Nouns	дәниз, денгиз						tadinova2006	Azerbaijani, Kumyk	nort2697, kumy1244
+1009	dəra				Nouns	дәрjа						tadinova2006	Azerbaijani	nort2697
+1010	arx				Nouns	арх						tadinova2006	Azerbaijani	nort2697
+1011	qumluq				Nouns	гумлуг						tadinova2006	Azerbaijani	nort2697
+1012	alaq				Nouns	jаjлаг						tadinova2006	Azerbaijani	nort2697
+1013	kolluq				Nouns	коллуг						tadinova2006	Azerbaijani	nort2697
+1014	ovlaq				Nouns	овлаг						tadinova2006	Azerbaijani	nort2697
+1015	tala				Nouns	тала						tadinova2006	Azerbaijani	nort2697
+1016	тогъай				Nouns	тогъай						tadinova2006	Kumyk	kumy1244
+1017	çöl				Nouns	чөл						tadinova2006	Azerbaijani	nort2697
+1018	təpə				Nouns	тәпә						tadinova2006	Azerbaijani	nort2697
+1019	sirt, сырт				Nouns	сирт, сырт						tadinova2006	Azerbaijani, Kumyk	nort2697, kumy1244
+1020	amac				Nouns	jамаҹ						tadinova2006	Azerbaijani	nort2697
+1021	qüze				Nouns	гүзеj						tadinova2006	Azerbaijani	nort2697
+1022	qünə				Nouns	гүнәj						tadinova2006	Azerbaijani	nort2697
+1023	qaa				Nouns	гаjа						tadinova2006	Azerbaijani	nort2697
+1024	ərik				Nouns	әрик						tadinova2006	Azerbaijani	nort2697
+1025	жие				Nouns	жие						tadinova2006	Kumyk	kumy1244
+1026	qası				Nouns	гаjсы						tadinova2006	Azerbaijani	nort2697
+1027	tut				Nouns	тут						tadinova2006	Azerbaijani	nort2697
+1028	zetun				Nouns	зейтун						tadinova2006	Azerbaijani	nort2697
+1029	qabaq				Nouns	габаг						tadinova2006	Azerbaijani	nort2697
+1030	turp				Nouns	турп						tadinova2006	Azerbaijani	nort2697
+1031	xiar				Nouns	хиjар						tadinova2006	Azerbaijani	nort2697
+1032	kələm				Nouns	кәләм						tadinova2006	Azerbaijani	nort2697
+1033	paxla				Nouns	пахла						tadinova2006	Azerbaijani	nort2697
+1034	qarpız, харбуз, karpuz				Nouns	гарпыз, харбуз, karpuz						tadinova2006	Azerbaijani, Kumyk, Turkish	nort2697, kumy1244, nucl1301
+1035	qovun				Nouns	говун						tadinova2006	Azerbaijani	nort2697
+1036	düü				Nouns	дүjү						tadinova2006	Azerbaijani	nort2697
+1037	sarı				Nouns	сары						tadinova2006	Azerbaijani	nort2697
+1038	suluf				Nouns	сулуф						tadinova2006	Azerbaijani	nort2697
+1039	qızılgül				Nouns	гызылҝүл						tadinova2006	Azerbaijani	nort2697
+1040	qaraqac				Nouns	гарагаҹ						tadinova2006	Azerbaijani	nort2697
+1041	qovaq				Nouns	говаг						tadinova2006	Azerbaijani	nort2697
+1042	narat				Nouns	нарат						tadinova2006	Azerbaijani	nort2697
+1043	palıd				Nouns	палыд						tadinova2006	Azerbaijani	nort2697
+1044	çinar				Nouns	чинар						tadinova2006	Azerbaijani	nort2697
+1045	şam				Nouns	шам						tadinova2006	Azerbaijani	nort2697
+1046	qərənfil				Nouns	гәрәнфил						tadinova2006	Azerbaijani	nort2697
+1047	qamış				Nouns	гамыш						tadinova2006	Azerbaijani	nort2697
+1048	ovşan				Nouns	jовшан						tadinova2006	Azerbaijani	nort2697
+1049	къаратегенек				Nouns	къаратегенек						tadinova2006	Kumyk	kumy1244
+1050	qaban				Nouns	габан						tadinova2006	Azerbaijani	nort2697
+1051	qatır, къачыр				Nouns	гатыр, къачыр						tadinova2006	Azerbaijani, Kumyk	nort2697, kumy1244
+1052	dəvə				Nouns	дәвә						tadinova2006	Azerbaijani	nort2697
+1053	donuz				Nouns	донуз						tadinova2006	Azerbaijani	nort2697
+1054	qoduq				Nouns	годуг						tadinova2006	Azerbaijani	nort2697
+1055	qulan				Nouns	гулан						tadinova2006	Azerbaijani	nort2697
+1056	da				Nouns	даj						tadinova2006	Azerbaijani	nort2697
+1057	dana				Nouns	дана						tadinova2006	Azerbaijani	nort2697
+1058	ağır				Nouns	аjғыр						tadinova2006	Azerbaijani	nort2697
+1059	buğa, бугъа				Nouns	буға, бугъа						tadinova2006	Azerbaijani, Kumyk	nort2697, kumy1244
+1060	madan				Nouns	мадjан						tadinova2006	Azerbaijani	nort2697
+1061	tula				Nouns	тула						tadinova2006	Azerbaijani	nort2697
+1062	алаша				Nouns	алаша						tadinova2006	Kumyk	nort2697
+1063	abı				Nouns	jабы						tadinova2006	Azerbaijani	nort2697
+1064	qapaq				Nouns	гапаг						tadinova2006	Azerbaijani	nort2697
+1065	kərə				Nouns	кәрә						tadinova2006	Azerbaijani	nort2697
+1066	tula				Nouns	тула						tadinova2006	Azerbaijani	nort2697
+1067	bud				Nouns	буд						tadinova2006	Azerbaijani	nort2697
+1068	qabırğa				Nouns	габырға						tadinova2006	Azerbaijani	nort2697
+1069	ilxı				Nouns	илхы						tadinova2006	Azerbaijani	nort2697
+1070	qaramal				Nouns	гарамал						tadinova2006	Azerbaijani	nort2697
+1071	aslan				Nouns	аслан						tadinova2006	Azerbaijani	nort2697
+1072	qaplan, къаплан				Nouns	гаплан, къаплан						tadinova2006	Azerbaijani, Kumyk	nort2697, kumy1244
+1073	qunduz				Nouns	гундуз						tadinova2006	Azerbaijani	nort2697
+1074					Nouns	dombay						tadinova2006	Azerbaijani	nort2697
+1075	maral				Nouns	марал						tadinova2006	Azerbaijani	nort2697
+1076	pələng				Nouns	пәләнҝ						tadinova2006	Azerbaijani	nort2697
+1077	porsuq				Nouns	порсуг						tadinova2006	Azerbaijani	nort2697
+1078	tısbağa				Nouns	тысбаға						tadinova2006	Azerbaijani	nort2697
+1079	çaqqal				Nouns	чаггал						tadinova2006	Azerbaijani	nort2697
+1080	quş				Nouns	гуш						tadinova2006	Azerbaijani	nort2697
+1081	qaz				Nouns	газ						tadinova2006	Azerbaijani	nort2697
+1082	ördək				Nouns	өрдәк						tadinova2006	Azerbaijani	nort2697
+1083	ağacdələn				Nouns	ағаҹдәлән						tadinova2006	Azerbaijani	nort2697
+1084	qarğa, къаргъа				Nouns	гарға, къаргъа						tadinova2006	Azerbaijani, Kumyk	nort2697, kumy1244
+1085	dovdaq				Nouns	довдаг						tadinova2006	Azerbaijani	nort2697
+1086	kəklik				Nouns	кәклик						tadinova2006	Azerbaijani	nort2697
+1087	сагъсагъан				Nouns	сагъсагъан						tadinova2006	Kumyk	kumy1244
+1088	baquş				Nouns	байгуш						tadinova2006	Azerbaijani	nort2697
+1089	qarçığa, къарчигъа				Nouns	гарчығай, къарчигъа						tadinova2006	Azerbaijani, Kumyk	nort2697, kumy1244
+1090	qırğı				Nouns	гырғы						tadinova2006	Azerbaijani	nort2697
+1091	quzğun				Nouns	гузғун						tadinova2006	Azerbaijani	nort2697
+1092	ителги				Nouns	ителги						tadinova2006	Kumyk	kumy1244
+1093	yapalaq				Nouns	јапалаг						tadinova2006	Azerbaijani	nort2697
+1094	laçın				Nouns	лачын						tadinova2006	Azerbaijani	nort2697
+1095	tarlan				Nouns	тарлан						tadinova2006	Azerbaijani	nort2697
+1096	durna, турна				Nouns	дурна, турна						tadinova2006	Azerbaijani, Kumyk	nort2697, kumy1245
+1097	ördək				Nouns	өрдәк						tadinova2006	Azerbaijani	nort2697
+1098	qanad				Nouns	ганад						tadinova2006	Azerbaijani	nort2697
+1099	dimdik				Nouns	димдик						tadinova2006	Azerbaijani	nort2697
+1100	qürzi				Nouns	гүрзи						tadinova2006	Azerbaijani	nort2697
+1101	ilan				Nouns	илан						tadinova2006	Azerbaijani	nort2697
+1102	gənə				Nouns	ҝәнә						tadinova2006	Azerbaijani	nort2697
+1103	güvə				Nouns	ҝүвә						tadinova2006	Azerbaijani	nort2697
+1104	ургъуй				Nouns	ургъуй						tadinova2006	Karachay-Balkar	kara1465
+1105	çibin				Nouns	чибин						tadinova2006	Azerbaijani	nort2697
+1106	balıq				Nouns	балыг						tadinova2006	Azerbaijani	nort2697
+1107	сазан				Nouns	сазан						tadinova2006	Kumyk	kumy1244
+1108	чабакъ				Nouns	чабакъ						tadinova2006	Kumyk	kumy1244
+1109	aaz				Nouns	аjаз						tadinova2006	Azerbaijani	nort2697
+1110	boran				Nouns	боран						tadinova2006	Azerbaijani	nort2697
+1111	buğ				Nouns	буғ						tadinova2006	Azerbaijani	nort2697
+1112	qırov				Nouns	гыров						tadinova2006	Azerbaijani	nort2697
+1113	külək				Nouns	күләк						tadinova2006	Azerbaijani	nort2697
+1114	sel				Nouns	сел						tadinova2006	Azerbaijani	nort2697
+1115	толкъун				Nouns	толкъун						tadinova2006	Kumyk, Karachay-Balkar	kumy1244, kara1465
+1116	şe				Nouns	шеh						tadinova2006	Azerbaijani	nort2697
+1117	azuqə				Nouns	азугә						tadinova2006	Azerbaijani	nort2697
+1118	аччыдаш				Nouns	аччыдаш						tadinova2006	Kumyk	kumy1244
+1119	bozbaş				Nouns	бозбаш						tadinova2006	Azerbaijani	nort2697
+1120	qağanaq				Nouns	гаjғанаг						tadinova2006	Azerbaijani	nort2697
+1121	qamaq				Nouns	гаjмаг						tadinova2006	Azerbaijani	nort2697
+1122	qovurma				Nouns	говурма						tadinova2006	Azerbaijani	nort2697
+1123	dən				Nouns	дән						tadinova2006	Azerbaijani	nort2697
+1124	dovğa				Nouns	довға						tadinova2006	Azerbaijani	nort2697
+1125	doğramac				Nouns	доғрамаҹ						tadinova2006	Azerbaijani	nort2697
+1126	dolma				Nouns	долма						tadinova2006	Azerbaijani	nort2697
+1127	düşbərə				Nouns	дүшбәрә						tadinova2006	Azerbaijani	nort2697
+1128	əriştə				Nouns	әриштә						tadinova2006	Azerbaijani	nort2697
+1129	ağ				Nouns	jағ						tadinova2006	Azerbaijani	nort2697
+1130	em				Nouns	jем						tadinova2006	Azerbaijani	nort2697
+1131	emək				Nouns	jемәк						tadinova2006	Azerbaijani	nort2697
+1132	miş				Nouns	jeмиш						tadinova2006	Azerbaijani	nort2697
+1133	kabab				Nouns	кабаб						tadinova2006	Azerbaijani	nort2697
+1134	kömbə				Nouns	көмбә						tadinova2006	Azerbaijani	nort2697
+1135	kürü				Nouns	күрү						tadinova2006	Azerbaijani	nort2697
+1136	paxlava				Nouns	пахлава						tadinova2006	Azerbaijani	nort2697
+1137	piti				Nouns	пити						tadinova2006	Azerbaijani	nort2697
+1138	sirkə				Nouns	сиркә						tadinova2006	Azerbaijani	nort2697
+1139	taxıl				Nouns	тахыл						tadinova2006	Azerbaijani	nort2697
+1140	халпама				Nouns	халпама						tadinova2006	Karachay-Balkar	kara1465
+1141	xörək				Nouns	хөрәк						tadinova2006	Azerbaijani	nort2697
+1142	çığırtma				Nouns	чығыртма						tadinova2006	Azerbaijani	nort2697
+1143	aran				Nouns	аjран						tadinova2006	Azerbaijani	nort2697
+1144	qımız				Nouns	гымыз						tadinova2006	Azerbaijani	nort2697
+1145	içki				Nouns	ички						tadinova2006	Azerbaijani	nort2697
+1146	süzmə				Nouns	сүзмә						tadinova2006	Azerbaijani	nort2697
+1147	çaxır				Nouns	чахыр						tadinova2006	Azerbaijani	nort2697
+1148	bel				Nouns	бел						tadinova2006	Azerbaijani	nort2697
+1149	burğu				Nouns	бурғу						tadinova2006	Azerbaijani	nort2697
+1150	burma				Nouns	бурма						tadinova2006	Azerbaijani	nort2697
+1151	qaçı				Nouns	гаjчы						tadinova2006	Azerbaijani	nort2697
+1152	dəraz				Nouns	дәрjаз						tadinova2006	Azerbaijani	nort2697
+1153	əə				Nouns	әjә						tadinova2006	Azerbaijani	nort2697
+1154	aba				Nouns	jаба						tadinova2006	Azerbaijani	nort2697
+1155	kərki				Nouns	кәрки						tadinova2006	Azerbaijani	nort2697
+1156	körük				Nouns	көрүк						tadinova2006	Azerbaijani	nort2697
+1157	külüng				Nouns	күлүнҝ						tadinova2006	Azerbaijani	nort2697
+1158	mala				Nouns	мала						tadinova2006	Azerbaijani	nort2697
+1159	mala				Nouns	мала						tadinova2006	Azerbaijani	nort2697
+1160	тартдыргъыч				Nouns	тартдыргъыч						tadinova2006	Karachay-Balkar	kara1465
+1161	тырнавуч				Nouns	тырнавуч						tadinova2006	Kumyk	kumy1244
+1162	toxa				Nouns	тоха						tadinova2006	Azerbaijani	nort2697
+1163	xış				Nouns	хыш						tadinova2006	Azerbaijani	nort2697
+1164	çarx				Nouns	чарх						tadinova2006	Azerbaijani	nort2697
+1165	çəkic				Nouns	чәкиҹ						tadinova2006	Azerbaijani	nort2697
+1166	balaban				Nouns	балабан						tadinova2006	Azerbaijani	nort2697
+1167	davul				Nouns	davul						tadinova2006	Turkish	nucl1301
+1168	dəf				Nouns	дәф						tadinova2006	Azerbaijani	nort2697
+1169	zurna				Nouns	зурна						tadinova2006	Azerbaijani	nort2697
+1170	ağ				Nouns	ағ						tadinova2006	Azerbaijani	nort2697
+1171	ağı				Nouns	ағы						tadinova2006	Azerbaijani	nort2697
+1172	boa				Nouns	боjа						tadinova2006	Azerbaijani	nort2697
+1173	qala				Nouns	галаj						tadinova2006	Azerbaijani	nort2697
+1174	qızıl				Nouns	гызыл						tadinova2006	Azerbaijani	nort2697
+1175	qurğuşun				Nouns	гурғушун						tadinova2006	Azerbaijani	nort2697
+1176	dəmir				Nouns	дәмир						tadinova2006	Azerbaijani	nort2697
+1177	джез				Nouns	джез						tadinova2006	Karachay-Balkar	kara1465
+1178	kömür				Nouns	көмүр						tadinova2006	Azerbaijani	nort2697
+1179	gümüş				Nouns	ҝүмүш						tadinova2006	Azerbaijani	nort2697
+1180	mis				Nouns	мис						tadinova2006	Azerbaijani	nort2697
+1181	mum				Nouns	мум						tadinova2006	Azerbaijani	nort2697
+1182	parça				Nouns	парча						tadinova2006	Azerbaijani	nort2697
+1183	tunc				Nouns	тунҹ						tadinova2006	Azerbaijani	nort2697
+1184	ув				Nouns	ув						tadinova2006	Kumyk	kumy1244
+1185	çelik				Nouns	çelik						tadinova2006	Turkish	nucl1301
+1186	çiriş				Nouns	чириш						tadinova2006	Azerbaijani	nort2697
+1187	çit				Nouns	чит						tadinova2006	Azerbaijani	nort2697
+1188	çuha				Nouns	çuha						tadinova2006	Turkish	nucl1301
+1189	şir				Nouns	шир						tadinova2006	Azerbaijani	nort2697
+1190	qalxan, къалкъан				Nouns	галхан, къалкъан						tadinova2006	Azerbaijani, Kumyk	nort2697, kumy1244
+1191	qılınc				Nouns	гылынҹ						tadinova2006	Azerbaijani	nort2697
+1192	qırma				Nouns	гырма						tadinova2006	Azerbaijani	nort2697
+1193	qundaq				Nouns	гундаг						tadinova2006	Azerbaijani	nort2697
+1194	araq				Nouns	jараг						tadinova2006	Azerbaijani	nort2697
+1195	kama				Nouns	kama						tadinova2006	Turkish	nucl1301
+1196	gürz				Nouns	ҝүрз						tadinova2006	Azerbaijani	nort2697
+1197	ox				Nouns	ох						tadinova2006	Azerbaijani	nort2697
+1198	садакъ				Nouns	садакъ						tadinova2006	Kumyk	kumy1244
+1199	saçma				Nouns	сачма						tadinova2006	Azerbaijani	nort2697
+1200	tokmak				Nouns	tokmak						tadinova2006	Turkish	nucl1301
+1201	tüfəng				Nouns	түфәнҝ						tadinova2006	Azerbaijani	nort2697
+1202	çaxmaq				Nouns	чахмаг						tadinova2006	Azerbaijani	nort2697
+1203	cida				Nouns	ҹида						tadinova2006	Azerbaijani	nort2697
+1204	basqın				Nouns	басгын						tadinova2006	Azerbaijani	nort2697
+1205	baraq				Nouns	баjраг						tadinova2006	Azerbaijani	nort2697
+1206	чабывул				Nouns	чабывул						tadinova2006	Kumyk	kumy1244
+1207	bədən				Nouns	бәдән						tadinova2006	Azerbaijani	nort2697
+1208	ağız				Nouns	ағыз						tadinova2006	Azerbaijani	nort2697
+1209	bilək				Nouns	биләк						tadinova2006	Azerbaijani	nort2697
+1210	bığ				Nouns	бығ						tadinova2006	Azerbaijani	nort2697
+1211	bo				Nouns	боj						tadinova2006	Azerbaijani	nort2697
+1212	qaş				Nouns	гаш						tadinova2006	Azerbaijani	nort2697
+1213	qaşqamətli				Nouns	гаш-гамәтли						tadinova2006	Azerbaijani	nort2697
+1214	damaq				Nouns	дамаг						tadinova2006	Azerbaijani	nort2697
+1215	damar, тамур				Nouns	дамар, тамур						tadinova2006	Azerbaijani, Kumyk	nort2697, kumy1244
+1216	kəllə				Nouns	кәллә						tadinova2006	Azerbaijani	nort2697
+1217	köks				Nouns	көкс						tadinova2006	Azerbaijani	nort2697
+1218	çənə				Nouns	чәнә						tadinova2006	Azerbaijani	nort2697
+1219	atababa				Nouns	ата-баба						tadinova2006	Azerbaijani	nort2697
+1220	bacanaq				Nouns	баҹанаг						tadinova2006	Azerbaijani	nort2697
+1221	bacı				Nouns	баҹы						tadinova2006	Azerbaijani	nort2697
+1222	qardaş				Nouns	гардаш						tadinova2006	Azerbaijani	nort2697
+1223	qarı				Nouns	гары						tadinova2006	Azerbaijani	nort2697
+1224	гиев				Nouns	гиев						tadinova2006	Kumyk	kumy1244
+1225	qoum				Nouns	гоhум						tadinova2006	Azerbaijani	nort2697
+1226	qoumqardaş				Nouns	гоhум-гардаш						tadinova2006	Azerbaijani	nort2697
+1227	quda				Nouns	гуда						tadinova2006	Azerbaijani	nort2697
+1228	eznə				Nouns	jезнә						tadinova2006	Azerbaijani	nort2697
+1229	nəvə				Nouns	нәвә						tadinova2006	Azerbaijani	nort2697
+1230	alverçi				Nouns	алверчи						tadinova2006	Azerbaijani	nort2697
+1231	baraqçı				Nouns	баjрагчы						tadinova2006	Azerbaijani	nort2697
+1232	balıqçı				Nouns	балыгчы						tadinova2006	Azerbaijani	nort2697
+1233	başmaqçı				Nouns	башмагчы						tadinova2006	Azerbaijani	nort2697
+1234	qalaçı				Nouns	галаjчы						tadinova2006	Azerbaijani	nort2697
+1235	qapıçı				Nouns	гапычы						tadinova2006	Azerbaijani	nort2697
+1236	qaravaş				Nouns	гараваш						tadinova2006	Azerbaijani	nort2697
+1237	qarovul				Nouns	гаровул						tadinova2006	Azerbaijani	nort2697
+1238	qaçaq				Nouns	гачаг						tadinova2006	Azerbaijani	nort2697
+1239	qoruqçu				Nouns	горугчу						tadinova2006	Azerbaijani	nort2697
+1240	qumarbaz				Nouns	гумарбаз						tadinova2006	Azerbaijani	nort2697
+1241	quşçu				Nouns	гушчу						tadinova2006	Azerbaijani	nort2697
+1242	dəvəçi				Nouns	дәвәчи						tadinova2006	Azerbaijani	nort2697
+1243	dilmanc, dilmaç				Nouns	дилманҹ, dilmaç						tadinova2006	Azerbaijani, Turkish	nort2697, nucl1301
+1244	elçi				Nouns	елчи						tadinova2006	Azerbaijani	nort2697
+1245	gəmiçi				Nouns	ҝәмичи						tadinova2006	Azerbaijani	nort2697
+1246	gözətçi				Nouns	ҝөзәтчи						tadinova2006	Azerbaijani	nort2697
+1247	məşəbəi				Nouns	мәшәбәjи						tadinova2006	Azerbaijani	nort2697
+1248	nökər				Nouns	нөкәр						tadinova2006	Azerbaijani	nort2697
+1249	ovçu				Nouns	овчу						tadinova2006	Azerbaijani	nort2697
+1250	одаман				Nouns	одаман						tadinova2006	Kumyk	kumy1244
+1251	pinəçi				Nouns	пинәчи						tadinova2006	Azerbaijani	nort2697
+1252	suvaqçı				Nouns	сувагчы						tadinova2006	Azerbaijani	nort2697
+1253	чавуш				Nouns	чавуш						tadinova2006	Kumyk	kumy1244
+1254	çapar				Nouns	чапар						tadinova2006	Azerbaijani	nort2697
+1255	çəkməçi				Nouns	чәкмәчи						tadinova2006	Azerbaijani	nort2697
+1256	ağa				Nouns	аға						tadinova2006	Azerbaijani	nort2697
+1257	ağsaqqal				Nouns	ағсаггал						tadinova2006	Azerbaijani	nort2697
+1258	bə				Nouns	бәj						tadinova2006	Azerbaijani	nort2697
+1259	qoca				Nouns	гоҹа						tadinova2006	Azerbaijani	nort2697
+1260	iə				Nouns	jиjә						tadinova2006	Azerbaijani	nort2697
+1261	саякъ				Nouns	саякъ						tadinova2006	Kumyk	kumy1244
+1262	xan				Nouns	хан						tadinova2006	Azerbaijani	nort2697
+1263	xanum				Nouns	ханум						tadinova2006	Azerbaijani	nort2697
+1264	qoçaq				Nouns	гочаг						tadinova2006	Azerbaijani	nort2697
+1265	igid				Nouns	иҝид						tadinova2006	Azerbaijani	nort2697
+1266	arvadbaz				Nouns	арвадбаз						tadinova2006	Azerbaijani	nort2697
+1267	bic				Nouns	биҹ						tadinova2006	Azerbaijani	nort2697
+1268	qalmaqalçı				Nouns	галмагалчы						tadinova2006	Azerbaijani	nort2697
+1269	qoçu				Nouns	гочу						tadinova2006	Azerbaijani	nort2697
+1270	ağı				Nouns	jағы						tadinova2006	Azerbaijani	nort2697
+1271	oğuraş				Nouns	оғураш						tadinova2006	Azerbaijani	nort2697
+1272	батыр				Nouns	батыр						tadinova2006	Kumyk	kumy1244
+1273	kosa				Nouns	коса						tadinova2006	Azerbaijani	nort2697
+1274	boğma				Nouns	боғма						tadinova2006	Azerbaijani	nort2697
+1275	qabar				Nouns	габар						tadinova2006	Azerbaijani	nort2697
+1276	qızdırma				Nouns	гыздырма						tadinova2006	Azerbaijani	nort2697
+1277	qotur				Nouns	готур						tadinova2006	Azerbaijani	nort2697
+1278	dabaq				Nouns	дабаг						tadinova2006	Azerbaijani	nort2697
+1279	ara				Nouns	jара						tadinova2006	Azerbaijani	nort2697
+1280	сакъав				Nouns	сакъав						tadinova2006	Kumyk	kumy1244
+1281	саламелик				Nouns	саламелик						tadinova2006	Karachay-Balkar	kara1465
+1282	sancı				Nouns	санҹы						tadinova2006	Azerbaijani	nort2697
+1283	sarılıq				Nouns	сарылыг						tadinova2006	Azerbaijani	nort2697
+1284	талав				Nouns	талав						tadinova2006	Kumyk	kumy1244
+1285	тумав				Nouns	тумав						tadinova2006	Kumyk	kumy1244
+1286	хырдан				Nouns	хырдан						tadinova2006	Kumyk	kumy1244
+1287	şiş				Nouns	шиш						tadinova2006	Azerbaijani	nort2697
+1288	qazanc				Nouns	газанҹ						tadinova2006	Azerbaijani	nort2697
+1289	qulluq				Nouns	гуллуг						tadinova2006	Azerbaijani	nort2697
+1290	kirə				Nouns	кирә						tadinova2006	Azerbaijani	nort2697
+1291	сатыу				Nouns	сатыу						tadinova2006	Karachay-Balkar	kara1465
+1292	güc				Nouns	ҝүҹ						tadinova2006	Azerbaijani	nort2697
+1293	acıq				Nouns	аҹыг						tadinova2006	Azerbaijani	nort2697
+1294	dərd				Nouns	дәрд						tadinova2006	Azerbaijani	nort2697
+1295	axşılıq				Nouns	jахшылыг						tadinova2006	Azerbaijani	nort2697
+1296	kef				Nouns	кеф						tadinova2006	Azerbaijani	nort2697
+1297	borc				Nouns	борҹ						tadinova2006	Azerbaijani	nort2697
+1298	buruq				Nouns	буjруг						tadinova2006	Azerbaijani	nort2697
+1299	sürgün				Nouns	сүрҝүн						tadinova2006	Azerbaijani	nort2697
+1300	tarac				Nouns	тараҹ						tadinova2006	Azerbaijani	nort2697
+1301	el				Nouns	ел						tadinova2006	Azerbaijani	nort2697
+1302	ölkə				Nouns	өлкә						tadinova2006	Azerbaijani	nort2697
+1303	padşalıq				Nouns	падшаhлыг						tadinova2006	Azerbaijani	nort2697
+1304	xanlıq				Nouns	ханлыг						tadinova2006	Azerbaijani	nort2697
+1305	ara				Nouns	ара						tadinova2006	Azerbaijani	nort2697
+1306	boşluq				Nouns	бошлуг						tadinova2006	Azerbaijani	nort2697
+1307	il				Nouns	ил						tadinova2006	Azerbaijani	nort2697
+1308	az				Nouns	jаз						tadinova2006	Azerbaijani	nort2697
+1309	a				Nouns	jаj						tadinova2006	Azerbaijani	nort2697
+1310	aş				Nouns	jаш						tadinova2006	Azerbaijani	nort2697
+1311	gələcək				Nouns	ҝәләҹәк						tadinova2006	Azerbaijani	nort2697
+1312	талай				Nouns	талай						tadinova2006	Karachay-Balkar	kara1465
+1313	чакъырым				Nouns	чакъырым						tadinova2006	Kumyk	kumy1244
+1314	qaıq				Nouns	гаjыг						tadinova2006	Azerbaijani	nort2697
+1315	lkən				Nouns	jeлкән						tadinova2006	Azerbaijani	nort2697
+1316	gəmi				Nouns	ҝәми						tadinova2006	Azerbaijani	nort2697
+1317	sandal				Nouns	sandal						tadinova2006	Turkish	nucl1301
+1318	ulaq				Nouns	улаг						tadinova2006	Azerbaijani	nort2697
+1319	чана				Nouns	чана						tadinova2006	Kumyk	kumy1244
+1320	nağıl				Nouns	нағыл						tadinova2006	Azerbaijani	nort2697
+1321	qarapul				Nouns	гарапул						tadinova2006	Azerbaijani	nort2697
+1322	para				Nouns	para						tadinova2006	Turkish	nucl1301
+1323	pul				Nouns	пул						tadinova2006	Azerbaijani	nort2697
+1324	сом				Nouns	сом						tadinova2006	Kumyk	kumy1244
+1325	saz				Nouns	саз						tadinova2006	Azerbaijani	nort2697
+1326	axıraxırki				Adverbs	ахыр, ахыр ки						tadinova2006	Azerbaijani	nort2697
+1327	başabaş				Adverbs	башабаш						tadinova2006	Azerbaijani	nort2697
+1328	birdən				Adverbs	бирдән						tadinova2006	Azerbaijani	nort2697
+1329	dişləmə				Adverbs	дишләмә						tadinova2006	Azerbaijani	nort2697
+1330	əsla				Adverbs	әсла						tadinova2006	Azerbaijani	nort2697
+1331	alnız				Adverbs	jалныз						tadinova2006	Azerbaijani	nort2697
+1332	rinə				Adverbs	jeринә						tadinova2006	Azerbaijani	nort2697
+1333	lap				Adverbs	лап						tadinova2006	Azerbaijani	nort2697
+1334	eç				Adverbs	hеч						tadinova2006	Azerbaijani	nort2697
+1335	ələ				Adverbs	hәлә						tadinova2006	Azerbaijani	nort2697
+1336	bəlkə				Function words	бәлкә						tadinova2006	Azerbaijani	nort2697
+1337	əlbəttə				Function words	әлбәттә						tadinova2006	Azerbaijani	nort2697
+1338	a				Function words	jа						tadinova2006	Azerbaijani	nort2697
+1339	axud				Function words	jахуд						tadinova2006	Azerbaijani	nort2697
+1340	enə				Function words	jенә						tadinova2006	Azerbaijani	nort2697
+1341	ki				Function words	ки						tadinova2006	Azerbaijani	nort2697
+1342	məgər				Function words	мәҝәр						tadinova2006	Azerbaijani	nort2697
+1343	savaı				Function words	саваjы						tadinova2006	Azerbaijani	nort2697
+1344	diri				Adjectives	дири						tadinova2006	Azerbaijani	nort2697
+1345	doğru				Adjectives	доғру						tadinova2006	Azerbaijani	nort2697
+1346	zirək				Adjectives	зирәк						tadinova2006	Azerbaijani	nort2697
+1347	avaş				Adjectives	jаваш						tadinova2006	Azerbaijani	nort2697
+1348	uğurlu				Adjectives	уғурлу						tadinova2006	Azerbaijani	nort2697
+1349	azğın				Adjectives	азғын						tadinova2006	Azerbaijani	nort2697
+1350	alçaq				Adjectives	алчаг						tadinova2006	Azerbaijani	nort2697
+1351	qağısız				Adjectives	гаjғысыз						tadinova2006	Azerbaijani	nort2697
+1352	qılıqsız				Adjectives	гылыгсыз						tadinova2006	Azerbaijani	nort2697
+1353	quduz				Adjectives	гудуз						tadinova2006	Azerbaijani	nort2697
+1354	qudurğan				Adjectives	гудурған						tadinova2006	Azerbaijani	nort2697
+1355	къыйын				Adjectives	къыйын						tadinova2006	Kumyk	kumy1244
+1356	осал				Adjectives	осал						tadinova2006	Kumyk	kumy1244
+1357	тентек				Adjectives	тентек						tadinova2006	Karachay-Balkar	kara1465
+1358	uğursuz				Adjectives	уғурсуз						tadinova2006	Azerbaijani	nort2697
+1359	zorba				Adjectives	зорба						tadinova2006	Azerbaijani	nort2697
+1360	in				Adjectives	jejин						tadinova2006	Azerbaijani	nort2697
+1361	kə				Adjectives	jeкә						tadinova2006	Azerbaijani	nort2697
+1362	kar				Adjectives	кар						tadinova2006	Azerbaijani	nort2697
+1363	kök				Adjectives	көк						tadinova2006	Azerbaijani	nort2697
+1364	göçək				Adjectives	ҝөjчәк						tadinova2006	Azerbaijani	nort2697
+1365	güclu				Adjectives	ҝүҹлу						tadinova2006	Azerbaijani	nort2697
+1366	gücsüz				Adjectives	ҝүҹсүз						tadinova2006	Azerbaijani	nort2697
+1367	lal				Adjectives	лал						tadinova2006	Azerbaijani	nort2697
+1368	oaq				Adjectives	оjаг						tadinova2006	Azerbaijani	nort2697
+1369	sağ				Adjectives	сағ						tadinova2006	Azerbaijani	nort2697
+1370	sağlam				Adjectives	сағлам						tadinova2006	Azerbaijani	nort2697
+1371	tox				Adjectives	тох						tadinova2006	Azerbaijani	nort2697
+1372	uzun				Adjectives	узун						tadinova2006	Azerbaijani	nort2697
+1373	çirkin				Adjectives	чиркин						tadinova2006	Azerbaijani	nort2697
+1374	çılpaq				Adjectives	чылпаг						tadinova2006	Azerbaijani	nort2697
+1375	çolaq				Adjectives	чолаг						tadinova2006	Azerbaijani	nort2697
+1376	çopur				Adjectives	чопур						tadinova2006	Azerbaijani	nort2697
+1377	bacarıqlı				Adjectives	баҹарыглы						tadinova2006	Azerbaijani	nort2697
+1378	küt				Adjectives	күт						tadinova2006	Azerbaijani	nort2697
+1379	savadlı				Adjectives	савадлы						tadinova2006	Azerbaijani	nort2697
+1380	varlı				Adjectives	варлы						tadinova2006	Azerbaijani	nort2697
+1381	ad				Adjectives	jад						tadinova2006	Azerbaijani	nort2697
+1382	azuq				Adjectives	jазуг						tadinova2006	Azerbaijani	nort2697
+1383	alqız				Adjectives	jалгыз						tadinova2006	Azerbaijani	nort2697
+1384	oxsul				Adjectives	jохсул						tadinova2006	Azerbaijani	nort2697
+1385	tək				Adjectives	тәк						tadinova2006	Azerbaijani	nort2697
+1386	azman				Adjectives	азман						tadinova2006	Azerbaijani	nort2697
+1387	ağılı				Adjectives	ағылы						tadinova2006	Azerbaijani	nort2697
+1388	çi				Adjectives	чиj						tadinova2006	Azerbaijani	nort2697
+1389	artıq				Adjectives	артыг						tadinova2006	Azerbaijani	nort2697
+1390	başqa				Adjectives	башга						tadinova2006	Azerbaijani	nort2697
+1391	bol				Adjectives	бол						tadinova2006	Azerbaijani	nort2697
+1392	boş				Adjectives	бош						tadinova2006	Azerbaijani	nort2697
+1393	burma				Adjectives	бурма						tadinova2006	Azerbaijani	nort2697
+1394	bütöv				Adjectives	бүтөв						tadinova2006	Azerbaijani	nort2697
+1395	qalın				Adjectives	галын						tadinova2006	Azerbaijani	nort2697
+1396	qızğın				Adjectives	гызғын						tadinova2006	Azerbaijani	nort2697
+1397	qola				Adjectives	голаj						tadinova2006	Azerbaijani	nort2697
+1398	qur				Adjectives	гур						tadinova2006	Azerbaijani	nort2697
+1399	quraq				Adjectives	гураг						tadinova2006	Azerbaijani	nort2697
+1400	dadlı				Adjectives	дадлы						tadinova2006	Azerbaijani	nort2697
+1401	dadsız				Adjectives	дадсыз						tadinova2006	Azerbaijani	nort2697
+1402	dar				Adjectives	дар						tadinova2006	Azerbaijani	nort2697
+1403	dərin				Adjectives	дәрин						tadinova2006	Azerbaijani	nort2697
+1404	düz				Adjectives	дүз						tadinova2006	Azerbaijani	nort2697
+1405	işıq				Adjectives	ишыг						tadinova2006	Azerbaijani	nort2697
+1406	könə				Adjectives	көhнә						tadinova2006	Azerbaijani	nort2697
+1407	geniş				Adjectives	ҝениш						tadinova2006	Azerbaijani	nort2697
+1408	oxşar				Adjectives	охшар						tadinova2006	Azerbaijani	nort2697
+1409	serək				Adjectives	сеjрәк						tadinova2006	Azerbaijani	nort2697
+1410	sərin				Adjectives	сәрин						tadinova2006	Azerbaijani	nort2697
+1411	sıx				Adjectives	сых						tadinova2006	Azerbaijani	nort2697
+1412	təzə				Adjectives	тәзә						tadinova2006	Azerbaijani	nort2697
+1413	təmiz				Adjectives	тәмиз						tadinova2006	Azerbaijani	nort2697
+1414	tünd				Adjectives	түнд						tadinova2006	Azerbaijani	nort2697
+1415	ucuz				Adjectives	уҹуз						tadinova2006	Azerbaijani	nort2697
+1416	çətin				Adjectives	чәтин						tadinova2006	Azerbaijani	nort2697
+1417	şit				Adjectives	шит						tadinova2006	Azerbaijani	nort2697
+1418	alabula				Adjectives	ала-була						tadinova2006	Azerbaijani	nort2697
+1419	boz				Adjectives	боз						tadinova2006	Azerbaijani	nort2697
+1420	qara				Adjectives	гара						tadinova2006	Azerbaijani	nort2697
+1421	saa				Adjectives	саjа						tadinova2006	Azerbaijani	nort2697
+1422	sarı				Adjectives	сары						tadinova2006	Azerbaijani	nort2697
+1423	çal				Adjectives	чал						tadinova2006	Azerbaijani	nort2697
+1424	turş				Adjectives	турш						tadinova2006	Azerbaijani	nort2697
