@@ -31,7 +31,7 @@ DAG \< APT состоит из:
 
 -   [база](https://lingconlab.github.io/DAG-APT/ru/database.html) данных: собрание заимствованных лексем и источников заимствования
 -   полное собрание [лексем](https://lingconlab.github.io/DAG-APT/ru/donor_lexems.html), послуживших источниками заимствования, и их переводов
--   список литературных [источников](https://lingconlab.github.io/DAG-APT/ru/sources.html) on borrowings in Daghestanian languages
+-   список литературных [источников](https://lingconlab.github.io/DAG-APT/ru/sources.html)
 
 ## Команда
 
