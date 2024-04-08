@@ -1,0 +1,40 @@
+project:
+  type: website
+  title: "DAG-APT"
+  output-dir: ./docs
+  render:
+  - index.qmd
+  - database.qmd
+  - donor_lexems.qmd
+  - sources.qmd
+  
+website:
+  title: "DAG-APT"
+  navbar:
+    pinned: true
+    right:
+    - text: ru
+      href: ./ru/index.html
+    left:
+      - href: index.qmd
+        text: main
+      - href: database.qmd
+        text: database
+      - href: donor_lexems.qmd
+        text: "donor lexems"
+      - href: sources.qmd
+        text: sources
+lang: en
+execute:
+  echo: false
+  warning: false
+  message: false
+format:
+  html:
+    theme: flatly
+    linkcolor: '#2c3e50'
+    header-includes: <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap"
+      rel="stylesheet">
+
+editor: visual
+

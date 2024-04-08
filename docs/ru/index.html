@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru" xml:lang="ru"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.242">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>DAG-APT - DAG &lt; APT</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "Поиск не дал результатов",
+    "search-matching-documents-text": "Результаты поиска",
+    "search-copy-link-title": "Скопировать ссылку",
+    "search-hide-matches-text": "Скрыть дополнительные результаты",
+    "search-more-match-text": "дополнительный результат в этом документе",
+    "search-more-matches-text": "дополнительных результата(-ов) в этом документе",
+    "search-clear-button-title": "Очистить",
+    "search-detached-cancel-button-title": "Отменить",
+    "search-submit-button-title": "Найти"
+  }
+}</script>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&amp;display=swap" rel="stylesheet">
+
+
+</head>
+
+<body class="nav-fixed fullcontent">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">DAG-APT</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page">
+ <span class="menu-text">главная</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./database.html">
+ <span class="menu-text">база данных</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./donor_lexems.html">
+ <span class="menu-text">лексемы</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./sources.html">
+ <span class="menu-text">литература</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="././../index.html">
+ <span class="menu-text">en</span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">DAG &lt; APT</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p>База данных DAG &lt; APT содержит лексемы дагестанских языков, заимствованные из арабского, персидского и тюркских языков, а также лексемы, послужившие источником заимствования. Данные были получены из существующей литературы на тему заимствований.</p>
+<p>Арабский, персидский и тюркские языки<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> богатый источник заимствований для дагестанских языков в следствие своего культурного влияния. Арабский является важнейшим языком для ислама, и персидский и турецкий языки были важны для торговли и обучения. Эти языки также влияли друг на друга, поэтому заимствование лексемы из арабского языка в дагестанские могло происходить через персидский язык и/или тюркские языки, например азербайджанский.</p>
+<p>Наш проект преследует две основные цели: во-первых, сбор информации из обширной литературы, посвященной лексическим заимствованиям из арабского, персидского и тюркских языков в различные дагестанские языки в одну удобную базу данных, которая может быть использована при исследовании; во-вторых, создание списка лексем и понятий, которые заиствуются чаще всего, который может быть исследован с точки зрения паттернов адаптации или географического распределения. Это может способствовать обнаружению исторических и региональных “слоев” процесса заимствования, а также, возможно, описать опосредованное заимствование более систематически.</p>
+<section id="база-данных" class="level2">
+<h2 class="anchored" data-anchor-id="база-данных">База данных</h2>
+<p>DAG &lt; APT состоит из:</p>
+<ul>
+<li><a href="https://lingconlab.github.io/DAG-APT/database.html">база</a> данных: собрание заимствованных лексем и источников заимствования</li>
+<li>полное собрание <a href="https://lingconlab.github.io/DAG-APT/donor_lexems.html">лексем</a>, послуживших источниками заимствования, и их переводов</li>
+<li>список литературных <a href="https://lingconlab.github.io/DAG-APT/sources.html">источников</a> on borrowings in Daghestanian languages</li>
+</ul>
+</section>
+<section id="команда" class="level2">
+<h2 class="anchored" data-anchor-id="команда">Команда</h2>
+<p>Самира Ферхеес является автором идеи проекта, она также подготовила первые данные. Георгий Мороз написал скрипт, позволяющий превращать собранные в литературе данные в табличный формат. Тимофей Дедов является создателем сайта, а также отвечает за добавление новой информации. Тимофей Балаханов переводит арабские и персидские слова.</p>
+</section>
+<section id="как-цитировать" class="level2 tabset tabset-fade tabset-pills">
+<h2 class="tabset tabset-fade tabset-pills anchored" data-anchor-id="как-цитировать">Как цитировать</h2>
+<section id="текст" class="level3">
+<h3 class="anchored" data-anchor-id="текст">Текст</h3>
+<p>Timofei Balahov, T. D. and S. Verhees (2022). <em>DAG &lt; APT, An online database of borrowed vocabulary in the languages of Daghestan, v. 1.0.0</em>. Moscow: Linguistic Convergence Laboratory, NRU HSE. <a href="http://lingconlab.ru/dagatlas" class="uri">http://lingconlab.ru/dagatlas</a>.</p>
+</section>
+<section id="bibtex" class="level3">
+<h3 class="anchored" data-anchor-id="bibtex">BibTeX</h3>
+<div class="cell">
+<div class="cell-output cell-output-stdout">
+<pre><code>@book{dagapt2022,
+  title = {DAG &lt; APT, An online database of borrowed vocabulary in the languages of Daghestan, v. 1.0.0},
+  author = {Timofei Dedov {Timofei Balahov} and Samira Verhees},
+  year = {2022},
+  publisher = {Linguistic Convergence Laboratory, NRU HSE},
+  address = {Moscow},
+  url = {http://lingconlab.ru/dagatlas},
+}</code></pre>
+</div>
+</div>
+</section>
+</section>
+<section id="контакты" class="level2">
+<h2 class="anchored" data-anchor-id="контакты">Контакты</h2>
+<p>Пожалуйста, напишите Тимофею Дедов (tgdedov@gmail.com) в случае если вы обнаружили неточности в данныых. Вы можете также написать о технических проблемах в репозитории <a href="#0">DAG-APT</a> на Github.</p>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Сноски</h2>
+
+<ol>
+<li id="fn1"><p>Мы используем термин “тюркские языки”, следу имеющейся литературной традиции. Различные тюркские языки, оказавшие влияение на дагестанские языки (кумыкский и азербайджанский, а также, в меньшей степени, ногайский и турецкий) часто объединены вместе в литературе, так как из-за их лексического сходства не всегда можно однозначно установить источник заимствования.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Скопировано");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Скопировано");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

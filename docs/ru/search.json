@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DAG < APT",
+    "section": "",
+    "text": "База данных DAG < APT содержит лексемы дагестанских языков, заимствованные из арабского, персидского и тюркских языков, а также лексемы, послужившие источником заимствования. Данные были получены из существующей литературы на тему заимствований.\nАрабский, персидский и тюркские языки1 богатый источник заимствований для дагестанских языков в следствие своего культурного влияния. Арабский является важнейшим языком для ислама, и персидский и турецкий языки были важны для торговли и обучения. Эти языки также влияли друг на друга, поэтому заимствование лексемы из арабского языка в дагестанские могло происходить через персидский язык и/или тюркские языки, например азербайджанский.\nНаш проект преследует две основные цели: во-первых, сбор информации из обширной литературы, посвященной лексическим заимствованиям из арабского, персидского и тюркских языков в различные дагестанские языки в одну удобную базу данных, которая может быть использована при исследовании; во-вторых, создание списка лексем и понятий, которые заиствуются чаще всего, который может быть исследован с точки зрения паттернов адаптации или географического распределения. Это может способствовать обнаружению исторических и региональных “слоев” процесса заимствования, а также, возможно, описать опосредованное заимствование более систематически."
+  },
+  {
+    "objectID": "index.html#база-данных",
+    "href": "index.html#база-данных",
+    "title": "DAG < APT",
+    "section": "База данных",
+    "text": "База данных\nDAG < APT состоит из:\n\nбаза данных: собрание заимствованных лексем и источников заимствования\nполное собрание лексем, послуживших источниками заимствования, и их переводов\nсписок литературных источников on borrowings in Daghestanian languages"
+  },
+  {
+    "objectID": "index.html#команда",
+    "href": "index.html#команда",
+    "title": "DAG < APT",
+    "section": "Команда",
+    "text": "Команда\nСамира Ферхеес является автором идеи проекта, она также подготовила первые данные. Георгий Мороз написал скрипт, позволяющий превращать собранные в литературе данные в табличный формат. Тимофей Дедов является создателем сайта, а также отвечает за добавление новой информации. Тимофей Балаханов переводит арабские и персидские слова."
+  },
+  {
+    "objectID": "index.html#как-цитировать",
+    "href": "index.html#как-цитировать",
+    "title": "DAG < APT",
+    "section": "Как цитировать",
+    "text": "Как цитировать\n\nТекст\nTimofei Balahov, T. D. and S. Verhees (2022). DAG < APT, An online database of borrowed vocabulary in the languages of Daghestan, v. 1.0.0. Moscow: Linguistic Convergence Laboratory, NRU HSE. http://lingconlab.ru/dagatlas.\n\n\nBibTeX\n\n\n@book{dagapt2022,\n  title = {DAG < APT, An online database of borrowed vocabulary in the languages of Daghestan, v. 1.0.0},\n  author = {Timofei Dedov {Timofei Balahov} and Samira Verhees},\n  year = {2022},\n  publisher = {Linguistic Convergence Laboratory, NRU HSE},\n  address = {Moscow},\n  url = {http://lingconlab.ru/dagatlas},\n}"
+  },
+  {
+    "objectID": "index.html#контакты",
+    "href": "index.html#контакты",
+    "title": "DAG < APT",
+    "section": "Контакты",
+    "text": "Контакты\nПожалуйста, напишите Тимофею Дедов (tgdedov@gmail.com) в случае если вы обнаружили неточности в данныых. Вы можете также написать о технических проблемах в репозитории DAG-APT на Github."
+  },
+  {
+    "objectID": "database.html",
+    "href": "database.html",
+    "title": "Database",
+    "section": "",
+    "text": "На этой странице содержится база данных заимствованных слов в дагестанских языках. Для поиска в колонках с числами используйте “1…1” для конкретного значения. Вы также можете использовать “1…5” для поиска диапазона"
+  },
+  {
+    "objectID": "donor_lexems.html",
+    "href": "donor_lexems.html",
+    "title": "Donor Lexemes",
+    "section": "",
+    "text": "На этой странице находятся лексемы, являющиеся источниками заимствований в дагестанские языки, встречающихся в базе данных. Вы можете обнаружить больше информации в базе данных. В колонка “Translation” содержится перевод, из оригинального источника. Английский и русский словарный переводы добавлены для сравнения."
+  },
+  {
+    "objectID": "sources.html",
+    "href": "sources.html",
+    "title": "Sources",
+    "section": "",
+    "text": "id\nrussian_name\nenglish_name\nauthor\ntype\nyear\nsource_language\ntarget_language\n\n\n\n\n8\nАрабский пласт лексики в Агульском языке\nArabic vocabulary in Agul labguage\nK. K. Matieva\narticle\n2020\nArabic\nAgul\n\n\n17\nФункциональные особенности арабских элементов в современном литературном аварском языке\nFunctional features of Arabic elements in the modern literary Avar language\nI. G. Abdulgalilov\ndissertation\n2002\nArabic\nAvar\n\n\n2\nАрабизмы в Багвалинском языке\nArabisms in the Bagvalal language\nK. G. Halikov\ndissertation\n2000\nArabic\nBagvalal\n\n\n4\nАрабизмы в чеченском языке\nArabisms in the Chechen language\nR. T. Ramazanova\narticle\n2020\nArabic\nChechen\n\n\n9\nЛексико-семантическое и фонетико-морфологическое освоение арабизмов в даргинском языке\nLexico-semantic and phonetic-morphological mastering of Arabisms in the Dargin language\nN. I. Stoyanova\ndissertation\n2004\nArabic\nDargwa\n\n\n15\nАрабизмы в хайдакском диалекте даргинского языка\nArabisms in the Haidak dialect of the Dargin language\nK. A. Kerimov\ndissertation\n2012\nArabic\nDargwa\n\n\n12\nЛексико-семантические группы арабских заимствований в годоберинском языке\nLexico-semantic groups of Arabic loanwords in the Godoberi language\nR. M. Siragudinov\narticle\n2017\nArabic\nGodoberi\n\n\n3\nАрабизмы в ингушской лексике\nArabisms in the Ingusg language language\nR. M. Ozdoeva\ndissertation\n2002\nArabic\nIngush\n\n\n5\nФункциональные особенности арабских лексем в кумыкском языке : на материале эпических произведений\nFunctional features of Arabic lexemes in the Kumyk language : based on the material of epic literature\nL. A. Murtazalieva\ndissertation\n2012\nArabic\nKumyk\n\n\n10\nАрабские заимствования в лакском языке\nArabic loanwords in the Lak language\nN. B. Kurbatayeva\ndissertation\n1999\nArabic\nLak\n\n\n6\nАрабские заимствования в рутульском языке\nArabic borrowings in the Rutul language\nZ. G. Kurbanova\ndissertaion\n1999\nArabic\nRutul\n\n\n22\nАрабские заимствования в лексико-семантической системе Восточно-Кавказских языков\nArabic borrowings in the lexico-semantic system of the East Caucasian languages\nS. M. Zabitov\ndissertation\n2001\nArabic\nVarious languages\n\n\n1\nАрабизмы в Табасаранском языке\nArabisms in the Tabasaran language\nE. R. Ibragimova\ndissertation\n2003\nArabic\nTabasaran\n\n\n14\nАрабские лексические единицы в цахурском языке\nArabic lexical units in the Tsakhur language\nM. D. Magarramov\ndissertation\n2005\nArabic\nTsakhur\n\n\n7\nАрабизмы в удинском языке\nArabisms in the Udi language\nA. R. Kocharyan\narticle\n2012\nArabic\nUdi\n\n\n19\nСловарь арабских и персидских лексических заимствований в даргинском языке\nDictionary of Arabic and Persian lexical borrowings in the Lak language\nN. B. Kurbaytaeva; I. I. Efendiev\nbook\n2005\nArabic; Persian\nDargwa\n\n\n20\nСловарь арабских и персидских лексических заимствований в лакском языке\nDictionary of Arabic and Persian lexical borrowings in the Dargin language\nN. I. Stoyanova; I. I. Efendiev\nbook\n2002\nArabic; Persian\nLak\n\n\n18\nСловарь арабских и персидских лексических заимствований в лезгинском языке\nDictionary of Arabic and Persian lexical borrowings in the Lezgian language\nS. M. Zabitov; I. I. Efendiev\nbook\n2001\nArabic; Persian\nLezgian\n\n\n21\nОриентализмы в аварском языке\nOrientalisms in the Avar language\nA. N. Halunov\ndissertation\n1998\nArabic; Persian; Turkic\nAvar\n\n\n11\nЗаимствованная лексика чеченского языка\nBorrowed vocabulary of the Chechen language\nP. H. Almurzaeva\ndissertation\n2012\nArabic; Persian; Turkic\nChechen\n\n\n13\nЗаимствованная лексика в Хваршинском языке\nBorrowed vocabulary in the Khvarshi language\nR. Sh. Karimova\nbook\n2013\nArabic; Persian; Turkic\nKhwarshi\n\n\n16\nРоль иноязычных заимствований в развитии лексической семантики в лезгинском литературном языке\nThe role of foreign language borrowings in the development of lexical semantics in the Lezgian literary language\nL. K. Magomedova\ndissertation\n2005\nArabic; Persian; Turkic\nLezgian\n\n\n23\nПерсидские лексические заимствования в системе нахско-дагестанских языков\nPersian lexical borrowings in the system of the Nakh-Dagestan languages\nI. I. Efendiev\ndissertation\n2003\nPersian\nVarious languages\n\n\n30\nТюркские заимствования в агульском языке\nTurkic borrowings in the Agul language\nN. R. Israfilov\narticle\n2017\nTurkic\nAgul\n\n\n28\nПроблема заимствований и распространения тюркизмов в годоберинском языке\nThe problem of borrowings and the spread of Turkisms in the Godoberi language\nR. M. Siragudinov\narticle\n2021\nTurkic\nGodoberi\n\n\n24\nТюркские лексические заимствования в системе северокавказских языков\nTurkic lexical borrowings in the system of North Caucasian languages\nR. A. Tadinova\ndissertation\n2006\nTurkic\nVarious languages\n\n\n27\nТюркизмы в дагестанских языках. Опыт историко - этимологического анализа\nTurkisms in Dagestan languages. Experience of historical and etymological analysis\nN. S. Dgidalaev\nbook\n1990\nTurkic\nVarious languages\n\n\n29\nИменные тюркизы в северо-кавказских языках\nNominal Turkisms in the North Caucasian languages\nR. A. Tadinova\nbook\n2006\nTurkic\nVarious languages\n\n\n25\nТюркские заимствования в табасаранском языке\nTurkic loanwords in the Tabasaran language\nS. N. Burgumova\ndissertation\n2006\nTurkic\nTabasaran\n\n\n26\nТюркские лексические заимствования в табасаранском языке\nTurkic lexical loanwords in the Tabasaran language\nV. N. Zagirov\nbook\n2013\nTurkic\nTabasaran"
+  }
+]

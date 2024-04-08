@@ -1,0 +1,19 @@
+---
+title: "Database"
+---
+
+На этой странице содержится база данных заимствованных слов в дагестанских языках. Для поиска в колонках с числами используйте "1...1" для конкретного значения. Вы также можете использовать "1...5" для поиска диапазона
+
+```{r echo = FALSE, results = 'asis', message=FALSE, warning=FALSE}
+library(readr)
+library(DT)
+datatable(
+  data = read_csv("../database.csv"),
+  caption = "База данных заимствованных слов в дагестанских языках",
+  filter = "top",
+  extensions = 'Buttons', options = list(dom = 'Bfrtip', columnDefs = list(list(visible=FALSE, targets=c(0,7,8,9,10,11,12,13,15,16,17,18,19,20,21,23))),
+  buttons = list(list(extend = 'colvis', columns = c(7,8,9,10,11,12,13,15,16,17,18,19,20,21,23))))
+)
+```
+
+------------------------------------------------------------------------
