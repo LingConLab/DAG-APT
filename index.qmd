@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, comment = 
 library(RefManageR)
 BibOptions(check.entries = FALSE, style = 'text', bib.style = 'authoryear')
 article_citation <- BibEntry(bibtype = 'Book', 
- key='dagapt2022',
+ key='dagapt2024',
  title='DAG < APT, An online database of borrowed vocabulary in the languages of Daghestan, v. 1.0.0',
  author='Timofei Balahanov and Timofei Dedov and Samira Verhees',
  year='2024',
