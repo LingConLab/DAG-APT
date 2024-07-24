@@ -1,9 +1,11 @@
 ---
 title: "Sources"
 ---
+
 ```{r echo = FALSE, results = 'asis', message=FALSE, warning=FALSE}
 library(knitr)
 library(readr)
 kable(read_csv("sources.csv")[,1:8])
 ```
----
+
+------------------------------------------------------------------------
