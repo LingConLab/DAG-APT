@@ -46,7 +46,7 @@
     "href": "index.html#как-цитировать",
     "title": "DAG < APT",
     "section": "Как цитировать",
-    "text": "Как цитировать\n\nТекст\nBalahanov, T., T. Dedov, and S. Verhees (2024). DAG &lt; APT, An online database of borrowed vocabulary in the languages of Daghestan, v. 1.0.0. Moscow: Linguistic Convergence Laboratory, NRU HSE. http://lingconlab.ru/dagatlas.\n\n\nBibTeX\n\n\n@book{dagapt2024,\n  title = {DAG &lt; APT, An online database of borrowed vocabulary in the languages of Daghestan, v. 1.0.0},\n  author = {Timofei Balahanov and Timofei Dedov and Samira Verhees},\n  year = {2024},\n  publisher = {Linguistic Convergence Laboratory, NRU HSE},\n  address = {Moscow},\n  url = {http://lingconlab.ru/dagatlas},\n}"
+    "text": "Как цитировать\n\nТекст\nBalahanov, T., T. Dedov, and S. Verhees (2024). DAG &lt; APT, An online database of borrowed vocabulary in the languages of Daghestan, v. 1.0.0. Moscow: Linguistic Convergence Laboratory, NRU HSE. &lt;lingconlab.github.io/DAG-APT/&gt;.\n\n\nBibTeX\n\n\n@book{dagapt2024,\n  title = {DAG &lt; APT, An online database of borrowed vocabulary in the languages of Daghestan, v. 1.0.0},\n  author = {Timofei Balahanov and Timofei Dedov and Samira Verhees},\n  year = {2024},\n  publisher = {Linguistic Convergence Laboratory, NRU HSE},\n  address = {Moscow},\n  url = {lingconlab.github.io/DAG-APT/},\n}"
   },
   {
     "objectID": "index.html#контакты",
